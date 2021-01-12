@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  cursor:none;
+}
+
+
+ul li {
+  list-style: none;
+}
+
+a:hover {
+  text-decoration:none;
+}
+
+
+.cursor {
+  width:1.5rem;
+  height: 1.5rem;
+  background-color: #FAE79B;
+  position: absolute;
+  border-radius: 50%;
+  opacity:0.9;
+  transform: translate(-50%,-50%);
+  pointer-events:none;
+  transition: all 0.5s ease;
+  transition-property:background, transform;
+  transform-origin:100% 100%;
+  z-index:1;
+
+}
+
+
+
+h1,h2,h3 {
+  font-family:'Ubuntu', sans-serif;
+}
+

@@ -1,0 +1,140 @@
+
+#Vector_3, #Vector_4 {
+  animation: leaves_up 2000ms ease-in-out infinite;
+  transform-origin: bottom right;
+  transform-box: fill-box;
+}
+@keyframes leaves_up {
+  0% {
+    transform: rotate(-15deg);
+  }
+
+  50% {
+    transform: rotate(15deg);
+  }
+
+  100% {
+    transform: rotate(-15deg);
+  }
+}
+
+svg {
+  width:660px;
+  height:auto;
+}
+
+.girl_img {
+  text-align: right;
+  padding:5em 0;
+  height:100%;
+  z-index:0;
+}
+
+#Vector_56 {
+  animation: leaves_low 3000ms ease-in-out infinite;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+#Vector_57, #Vector_58{
+  animation: leaves_low_sm 2000ms ease-in-out infinite;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@keyframes leaves_low {
+  0% {
+    transform: rotate(-20deg);
+  }
+
+  50% {
+    transform: rotate(10deg);
+  }
+
+  100% {
+    transform: rotate(-20deg);
+  }
+}
+
+
+@keyframes leaves_low_sm {
+   0% {
+    transform: rotate(-15deg);
+  }
+
+  50% {
+    transform: rotate(10deg);
+  }
+
+  100% {
+    transform: rotate(-15deg);
+  }
+}
+
+
+#Vector_50 {
+  animation: square_right 3s ease infinite alternate;
+  transform-origin: left;
+  transform-box: fill-box;
+}
+
+@keyframes square_right {
+    0% { transform: scaleX(0.2);fill: #9A7DD5; }
+    100% { transform: scaleX(1.8) }
+}
+
+#window {
+  animation: sliding 6s ease infinite;
+  transform-origin:bottom;
+  transform-box: fill-box;
+}
+
+@keyframes sliding {
+    0% { transform: translateY(0);}
+    50% { transform: translateY(-30px) scale(1.1); }
+    100% { transform: translateY(0);}
+}
+
+#Vector, #Vector_2 {
+
+  animation: change-background 8s ease infinite alternate;
+}
+
+@keyframes change-background {
+  0% {
+    fill: #6C63FF;
+    opacity:0.1;
+  }
+
+   50% {
+    fill: #D5D3F7;
+    opacity:0.3;
+  }
+
+  100% {
+    fill: #A487D8;
+     opacity:0.2;
+  }
+}
+
+
+#blob2, #blob1, #blob5 {
+   visibility:hidden;
+}
+
+.blob-small {
+  z-index:-1;
+  position:absolute;
+  top:50%;
+  left:20%;
+  opacity:0.9;
+}
+
+
+.paper_plane {
+  position:absolute;
+  left:10%;
+  top:50%;
+  width:10vw;
+}
+
