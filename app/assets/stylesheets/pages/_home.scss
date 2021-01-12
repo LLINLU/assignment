@@ -102,13 +102,14 @@ nav {
   font-family:'Ubuntu', sans-serif;
   font-size:2em;
   color: #4e3c4e;
-  margin-right:1em;
+  // margin-right:1em;
   z-index:3;
 
 
 }
 
 .small-text{
+  display:inline-block;
   font-size:0.8em;
   background: radial-gradient(circle at var(--x,-40px) var(--y,-40px), #9A7DD5 16px, #4e3c4e 16px);
   background-clip: text;
