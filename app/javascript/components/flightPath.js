@@ -19,10 +19,18 @@ tween.add(
     ease: Power1.easeInout
   })
 );
-}
+
 
 const controller = new ScrollMagic.Controller();
 const scene = new ScrollMagic.Scene({
+  // triggerElement:'.simplicruit_num',
+  // duration:9000,
+  // triggerHook:0
+})
+.setTween(tween)
+// .setPin('.paper_plane')
+.addTo(controller);
 
-});
+
+}
 export { flightPath };
