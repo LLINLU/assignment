@@ -573,6 +573,8 @@ $panelcount:4;
     animation-direction:alternate;
 }
 
+
+
 @keyframes text_pop{
    0% {
     transform:  scale(0.9);
@@ -651,6 +653,13 @@ opacity:0.1;
   left: 30%;
 }
 
+.yaha_logo{
+  position:absolute;
+  top: 30%;
+  left: 26%;
+  height: 180px;
+}
+
 .hotlady {
     height: 240px;
     position: absolute;
@@ -675,4 +684,29 @@ opacity:0.1;
  top:1%;
  z-index:9998;
 }
+.yaha-des {
+  position: relative;
+  top: 16px;
+  left: 100px;
+}
 
+.yaha-sub1 {
+  position: relative;
+  top: 40px;
+  color: #343a40;
+  left: 102px;
+}
+
+
+.yaha-sub2 {
+   position: relative;
+  top: 52px;
+  color: #343a40;
+  left: 102px;
+
+}
+
+
+.mug_contact, .mug_see {
+  width:220px;
+}
