@@ -726,7 +726,7 @@ opacity:0.1;
 }
 
 #button {
-  transition: background-color .3s, opacity 1.5s, visibility 1.5s;
+  transition: background-color .3s, opacity 4.5s, visibility 4.5s;
   opacity: 0;
   visibility: hidden;
   z-index: 1000;
@@ -735,4 +735,17 @@ opacity:0.1;
 #button.show-footer {
   opacity: 1;
   visibility: visible;
+  animation:slid 15s linear infinite;
+  animation-direction:alternate;
+}
+
+@keyframes slid {
+   0% {
+    transform:  translateX(2px);
+  }
+
+
+  100% {
+    transform: translateX(-2px);
+  }
 }
