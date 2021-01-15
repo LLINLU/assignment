@@ -724,3 +724,15 @@ opacity:0.1;
   right:1%;
   bottom:0;
 }
+
+#button {
+  transition: background-color .3s, opacity 1.5s, visibility 1.5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+
+#button.show-footer {
+  opacity: 1;
+  visibility: visible;
+}
