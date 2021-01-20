@@ -13,7 +13,7 @@ class ContactsController < ApplicationController
       flash.now[:notice] = 'Thank you for your message!'
       render :index
     else
-      flash.now[:error] = 'Cannot send message.'
+      flash.now[:error] = 'Something went wrong.'
       render :index
     end
   end
