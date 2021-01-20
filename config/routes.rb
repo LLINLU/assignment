@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
   get 'contacts/index'
-  get '/contact', to: 'pages#contact'
+  get '/contact', to: 'contacts#index'
   # get '/works', to: 'pages#works'
   match '/about', to: 'pages#about', via: :get
 
