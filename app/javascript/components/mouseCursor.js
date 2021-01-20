@@ -12,7 +12,7 @@ const hoverChange = () => {
   let mouseCursor = document.querySelector('.cursor');
   let learnMore = document.querySelector('#learn-more');
   let headline = document.querySelector('.Project-headline')
-  let contactBtn = document.querySelector('.btn-contact')
+  let contactBtns = document.querySelectorAll('.btn-contact')
   navLinks.forEach(link => {
     link.addEventListener('mouseleave',() => {
       mouseCursor.classList.remove('link-grow');
@@ -48,17 +48,29 @@ const hoverChange = () => {
 
     });
 
-   contactBtn.addEventListener('mouseleave',() => {
-      mouseCursor.classList.remove('button-grow');
-      // learnMore.classList.add('hovered-button');
+   // contactBtn.addEventListener('mouseleave',() => {
+   //    mouseCursor.classList.remove('button-grow');
+   //    // learnMore.classList.add('hovered-button');
 
+
+   //  });
+
+   //  contactBtn.addEventListener('mouseover',() => {
+   //    mouseCursor.classList.add('button-grow');
+   //    // learnMore.classList.add('hovered-button');
+   //     console.log('good');
+
+   //  });
+
+    contactBtns.forEach(contactBtn => {
+      contactBtn.addEventListener('mouseleave',() => {
+      mouseCursor.classList.remove('button-grow');
 
     });
-
-    contactBtn.addEventListener('mouseover',() => {
+      contactBtn.addEventListener('mouseover',() => {
       mouseCursor.classList.add('button-grow');
-      // learnMore.classList.add('hovered-button');
-       console.log('good');
+      // link.classList.add('hovered-link');
+    });
 
     });
 
