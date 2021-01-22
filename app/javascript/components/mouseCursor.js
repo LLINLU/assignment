@@ -11,7 +11,7 @@ const hoverChange = () => {
   let navLinks = document.querySelectorAll('.nav-link li a');
   let mouseCursor = document.querySelector('.cursor');
   let learnMore = document.querySelector('#learn-more');
-  let headline = document.querySelector('.Project-headline')
+  let headlines = document.querySelectorAll('.js-headline')
   let contactBtns = document.querySelectorAll('.btn-contact')
   navLinks.forEach(link => {
     link.addEventListener('mouseleave',() => {
@@ -35,18 +35,18 @@ const hoverChange = () => {
       // learnMore.classList.add('hovered-button');
 
     });
-   headline.addEventListener('mouseleave',() => {
-      mouseCursor.classList.remove('button-grow');
-      console.log('hello');
-      // learnMore.classList.remove('hovered-button');
+   // headline.addEventListener('mouseleave',() => {
+   //    mouseCursor.classList.remove('button-grow');
+   //    console.log('hello');
+   //    // learnMore.classList.remove('hovered-button');
 
-    });
-   headline.addEventListener('mouseover',() => {
-      mouseCursor.classList.add('button-grow');
-      // learnMore.classList.add('hovered-button');
-       console.log('hello');
+   //  });
+   // headline.addEventListener('mouseover',() => {
+   //    mouseCursor.classList.add('button-grow');
+   //    // learnMore.classList.add('hovered-button');
+   //     console.log('hello');
 
-    });
+   //  });
 
    // contactBtn.addEventListener('mouseleave',() => {
    //    mouseCursor.classList.remove('button-grow');
@@ -68,6 +68,18 @@ const hoverChange = () => {
 
     });
       contactBtn.addEventListener('mouseover',() => {
+      mouseCursor.classList.add('button-grow');
+      // link.classList.add('hovered-link');
+    });
+
+    });
+
+    headlines.forEach(headline => {
+      headline.addEventListener('mouseleave',() => {
+      mouseCursor.classList.remove('button-grow');
+
+    });
+      headline.addEventListener('mouseover',() => {
       mouseCursor.classList.add('button-grow');
       // link.classList.add('hovered-link');
     });
