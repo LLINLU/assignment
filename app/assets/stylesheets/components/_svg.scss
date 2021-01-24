@@ -23,11 +23,28 @@ svg {
   height:auto;
 }
 
+@media screen and (max-width: 480px){
+  svg {
+  width:260px;
+  height:auto;
+}
+}
+
+
 .girl_img {
   text-align: right;
   padding:5em 0;
   height:100%;
   z-index:0;
+}
+
+@media screen and (max-width: 480px){
+.girl_img {
+    text-align: center;
+    padding: 5em 0;
+    height: 100%;
+    z-index: 0;
+    }
 }
 
 #Vector_56 {
