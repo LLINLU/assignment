@@ -351,6 +351,14 @@ $panelcount:4;
 }
 
 
+@media screen and (max-width: 480px){
+  .PopUp h1 {
+    font-size:30px;
+  }
+
+}
+
+
 .project-title {
   font-family:'Ubuntu', sans-serif;
   font-size:30px;
@@ -789,3 +797,19 @@ opacity:0.1;
   height:310px;
 
 }
+
+
+// @media screen and (max-width: 480px){
+// #js-wrapper{
+//   display:none;
+
+//   }
+// }
+
+// @media screen and (max-width: 480px){
+
+// .scrollmagic-pin-spacer {
+//   display:none;
+
+// }
+// }

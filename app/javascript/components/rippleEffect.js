@@ -1,4 +1,5 @@
 const rippleEffect = () => {
+  if (screen.width >= 481) {
   window.onload = function() {
 
   // track the mouse positions to send it to the shaders
@@ -92,6 +93,7 @@ const rippleEffect = () => {
     plane.uniforms.mouseStrength.value = 1;
   }
 
+}
 }
 }
 
