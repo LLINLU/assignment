@@ -1,4 +1,5 @@
 const horizontalSlide = () => {
+  if (screen.width >= 481) {
   const slides= document.querySelector(".slides");
   if(slides){
   var controller = new ScrollMagic.Controller();
@@ -22,6 +23,6 @@ const horizontalSlide = () => {
     .addTo(controller);
   };
 }
-
+}
 export { horizontalSlide }
 
