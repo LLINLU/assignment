@@ -46,6 +46,12 @@ section {
 
 }
 
+@media screen and (max-width: 480px){
+    section:nth-of-type(1){
+    background-image:linear-gradient(to top, #167ffb40 0%, #f3e3ea 90%);
+  }
+  }
+
 // section:nth-child(1){
 //  background-image:url(section1_bg.png);
 //  background-repeat: no-repeat;
@@ -226,6 +232,29 @@ $panelcount:4;
     height: 100%;
     overflow:hidden;
   }
+
+@media screen and (max-width: 480px){
+  .wrapper{
+  width: 100%;
+  height:auto;
+  overflow: hidden;
+  perspective: 1000;
+  -webkit-perspective: 1000;
+}
+
+$panelcount:4;
+.slide {
+  & {
+    height: 100%;
+    width: calc( 100% / #{$panelcount} );
+    float: left;
+
+    }
+  }
+
+}
+
+
 
 
 #work {
