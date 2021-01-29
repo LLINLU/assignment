@@ -17,4 +17,29 @@
   height:100%;
   width:100%;
   flex-direction:column;
+  display:none;
 }
+
+
+
+.slide-sp {
+  width:100%;
+  float:none;
+}
+
+@media screen and (max-width: 480px){
+#universe {
+  width:100%;
+
+ }
+}
+
+@media screen and (max-width: 480px){
+.circle-container{
+  width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    perspective: 100px;
+    }
+ }
