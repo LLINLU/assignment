@@ -37,9 +37,28 @@
 @media screen and (max-width: 480px){
 .circle-container{
   width: 150px;
-    height: 150px;
-    display: flex;
-    align-items: center;
-    perspective: 100px;
-    }
+  height: 150px;
+  display: flex;
+  align-items: center;
+  perspective: 100px;
+  }
+
+  nav{
+    position:relative;
+  }
+ }
+
+
+ .line {
+  width:30px;
+  height:3px;
+  margin:5px;
+  background:white;
+ }
+
+ .hamburger {
+  position: relative;
+  cursor:pointer;
+  right:5%;
+  top:20%;
  }
