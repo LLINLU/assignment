@@ -9,3 +9,12 @@
 .intro-sp {
   background-image: linear-gradient(to top, #F4E3EA 0%, #FAEAEE 509%, #F4ECF1 100%);
 }
+
+
+.nav-link-sp {
+  position:fixed;
+  background:linear-gradient(to top, #FFD1D1 0%, #FFDD72 100%);
+  height:100%;
+  width:100%;
+  flex-direction:column;
+}
