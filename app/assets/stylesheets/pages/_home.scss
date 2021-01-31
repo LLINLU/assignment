@@ -536,7 +536,9 @@ $panelcount:4;
     position: absolute;
     top: 30%;
     left: 20%;
+    // padding:0 20px;
   }
+
 }
 
 
@@ -569,13 +571,7 @@ $panelcount:4;
 }
 
 
-@media screen and (max-width:480px) {
-  .project-image-group {
-    position: absolute;
-    right: 60%;
-    top: 60%;
-  }
-}
+
 
 .project-image {
   position:absolute;
@@ -586,6 +582,17 @@ $panelcount:4;
   left:0;
   transition: all 4s ease-in-out;
   z-index:10000;
+}
+
+@media screen and (max-width:480px) {
+  .project-image-group {
+    position: absolute;
+    right: 85%;
+    top: 60%;
+  }
+  .project-image {
+    width:330px;
+  }
 }
 
 .Project-headline:hover ~ .project-image-group {
