@@ -415,6 +415,15 @@ $panelcount:4;
     left: 30%;
 }
 
+@media screen and (max-width: 480px){
+
+.Project-headline, .spoon {
+    position: absolute;
+    top: 16%;
+    left: 20%;
+  }
+}
+
 .project-number {
   position:absolute;
   top:30%;
