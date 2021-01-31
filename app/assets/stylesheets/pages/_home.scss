@@ -531,6 +531,14 @@ $panelcount:4;
 }
 
 
+@media screen and (max-width:480px) {
+  .description {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+  }
+}
+
 
 .Project-headline {
   z-index:10000;
@@ -558,6 +566,15 @@ $panelcount:4;
   position: absolute;
   right: 40%;
   top: 20%;
+}
+
+
+@media screen and (max-width:480px) {
+  .project-image-group {
+    position: absolute;
+    right: 60%;
+    top: 60%;
+  }
 }
 
 .project-image {
