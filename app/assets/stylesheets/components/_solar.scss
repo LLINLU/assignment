@@ -6,6 +6,12 @@
   height: 80%;
 }
 
+@media screen and (max-width: 480px){
+  #universe {
+    height:60%;
+  }
+  }
+
 #galaxy {
   position: relative;
   width: 100%;
