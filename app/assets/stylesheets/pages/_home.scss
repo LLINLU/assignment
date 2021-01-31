@@ -51,7 +51,10 @@ section {
     background-image:linear-gradient(to top, #167ffb30  0%, #f3e3ea 90%);
   }
   section:nth-of-type(2){
-    background-image: linear-gradient(to top, #f9e8aa 0%, #ccdef5 100%);
+    background-image: linear-gradient(to top,  #fbfcdb 0%, #f9dddd  50%, #ccdef5 100%);
+  }
+   section:nth-of-type(3) {
+  background-image: linear-gradient(to top, #0466da4d  0%, #f4dde0 50%, #fbfcdb 100%);
   }
   }
 
@@ -588,7 +591,7 @@ $panelcount:4;
   .project-image-group {
     position: absolute;
     right: 85%;
-    top: 60%;
+    top: 50%;
   }
   .project-image {
     width:330px;
