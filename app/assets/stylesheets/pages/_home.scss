@@ -714,7 +714,7 @@ $panelcount:4;
 
   }
 
-
+//desktop screen slides to right
  .simplicruit_num {
   opacity:0.1;
   transform: translateX(32px);
@@ -722,13 +722,14 @@ $panelcount:4;
   z-index:998;
 }
 
+// desktop screen slides to right
 .cook_num {
 opacity:0.1;
  transform: translateX(32px);
   transition:0.5s all ease-in-out;
   z-index:998;
 }
-
+//desktop appears
 .num-appear {
   opacity:1;
   transform: translateX(0px);
@@ -787,20 +788,24 @@ opacity:0.1;
 
 @media screen and (max-width:480px) {
   .simplicruit-image-group {
-    width: 400px;
+    width: 320px;
     position: absolute;
-    top: 66%;
-    right: 1%;
+    top: 62%;
+    right: 12%;
     z-index: 10000;
 }
 
   .monitor {
-  width: 430px;
+  width: 350px;
   position: absolute;
-  top: 62%;
+  top: 58%;
   opacity: 0.8;
-  right: 0%;
+  right: 5%;
   z-index: 9999;
+  }
+
+  .simplicruit-image {
+    width: 300px;
   }
 }
 
