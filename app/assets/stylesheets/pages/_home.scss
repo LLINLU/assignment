@@ -843,16 +843,23 @@ opacity:0.1;
   top: 52px;
   color: #343a40;
   left: 102px;
-
 }
 
 @media screen and (max-width:480px) {
-  .yaha-sub2  {
-  position: absolute;
+  .yaha-sub1  {
+  position: relative;
+  top: 40px;
+  color: #343a40;
+  left: 40px;
+}
+  .yaha-sub2 {
+  position: relative;
   top: 52px;
   color: #343a40;
-  left: 30px;
+  left: 40px;
 }
+
+
 }
 
 
