@@ -846,6 +846,15 @@ opacity:0.1;
 
 }
 
+@media screen and (max-width:480px) {
+  .yaha-sub2  {
+  position: absolute;
+  top: 52px;
+  color: #343a40;
+  left: 30px;
+}
+}
+
 
 .mug_contact, .mug_see {
   width:220px;
