@@ -927,6 +927,21 @@ opacity:0.1;
 }
 
 
+@media screen and (max-width:480px) {
+
+  .lovelygirl {
+    position: absolute;
+    left: 5%;
+    top: 10%;
+    z-index: 100000;
+    height: 160px;
+
+}
+
+}
+
+
+
 // @media screen and (max-width: 480px){
 // #js-wrapper{
 //   display:none;
