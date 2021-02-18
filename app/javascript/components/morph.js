@@ -19,7 +19,7 @@ let tween3 = KUTE.fromTo('#blob4', {path: '#blob4' }, { path: '#blob5' }, // to 
    { // options
       easing: 'easingCubicInOut',
       yoyo: true, repeat: 1100, duration: 3500 }).start();
-}
+ }
 }
 
 export { morphBlobs};
