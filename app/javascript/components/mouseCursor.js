@@ -72,6 +72,7 @@ if(learnMore){
    //     console.log('good');
 
    //  });
+   if (contactBtns){
 
     contactBtns.forEach(contactBtn => {
       contactBtn.addEventListener('mouseleave',() => {
@@ -84,7 +85,9 @@ if(learnMore){
     });
 
     });
+  }
 
+if(headlines) {
     headlines.forEach(headline => {
       headline.addEventListener('mouseleave',() => {
       mouseCursor.classList.remove('button-grow');
