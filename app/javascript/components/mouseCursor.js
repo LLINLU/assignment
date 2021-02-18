@@ -19,18 +19,22 @@ const hoverChange = () => {
   let learnMore = document.querySelector('#learn-more');
   let headlines = document.querySelectorAll('.js-headline')
   let contactBtns = document.querySelectorAll('.btn-contact')
+ if(navLinks){
   navLinks.forEach(link => {
     link.addEventListener('mouseleave',() => {
       mouseCursor.classList.remove('link-grow');
       // link.classList.remove('hovered-link');
 
     });
+
     link.addEventListener('mouseover',() => {
       mouseCursor.classList.add('link-grow');
       // link.classList.add('hovered-link');
     });
   });
+}
 
+if(learnMore){
   learnMore.addEventListener('mouseleave',() => {
       mouseCursor.classList.remove('button-grow');
       // learnMore.classList.remove('hovered-button');
@@ -41,6 +45,7 @@ const hoverChange = () => {
       // learnMore.classList.add('hovered-button');
 
     });
+ }
    // headline.addEventListener('mouseleave',() => {
    //    mouseCursor.classList.remove('button-grow');
    //    console.log('hello');
@@ -91,6 +96,7 @@ const hoverChange = () => {
     });
 
     });
+}
 
 }
 
