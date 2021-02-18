@@ -1,5 +1,6 @@
 const scrollApear = () => {
   const introText = document.querySelector ('.text');
+  if(introText){
   console.log(introText);
   let introPosition = introText.getBoundingClientRect().top;
   console.log(introPosition);
@@ -12,6 +13,7 @@ const scrollApear = () => {
     else if (introPosition >= screenPosition && true) {
       introText.classList.remove('intro-appear');
     }
+  }
   }
 
 window.addEventListener('scroll',scrollApear)
