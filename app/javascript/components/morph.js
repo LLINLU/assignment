@@ -1,6 +1,8 @@
 
 const morphBlobs = () => {
+const blob = document.querySelector('#blob3');
 // var tween1 = KUTE.to('#blob1', { path: '#blob2' }).start();
+if(blob){
 let tween = KUTE.fromTo('#blob3', {path: '#blob3' }, { path: '#blob2' }, // to shape
    { // options
       easing: 'easingCubicInOut',
@@ -18,6 +20,6 @@ let tween3 = KUTE.fromTo('#blob4', {path: '#blob4' }, { path: '#blob5' }, // to 
       easing: 'easingCubicInOut',
       yoyo: true, repeat: 1100, duration: 3500 }).start();
 }
-
+}
 
 export { morphBlobs};
