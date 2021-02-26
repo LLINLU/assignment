@@ -9,4 +9,27 @@
   font-family: 'Yusei Magic', sans-serif;
   text-align: center;
   transform:translateY(30%);
+  animation:color-change 10s infinite;
+  z-index:99999999999;
+}
+
+
+
+@keyframes color-change {
+   0% {
+        color:white;
+      }
+    25% {
+        color: #cfb4d6;
+      }
+    50% {
+        color: #b294b9;
+      }
+      75% {
+        color: #925e9ee6;
+
+      }
+      100% {
+        color:#d4a8deed;
+      }
 }
