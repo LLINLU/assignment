@@ -9,8 +9,9 @@
   font-family: 'Yusei Magic', sans-serif;
   text-align: center;
   transform:translateY(30%);
-  animation:color-change 10s infinite;
+  animation:color-change 5s infinite;
   z-index:99999999999;
+  animation-direction: alternate;
 }
 
 
