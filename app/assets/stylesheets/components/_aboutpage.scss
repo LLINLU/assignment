@@ -21,6 +21,10 @@
     top: 10px;
 }
 
+.back-button:hover {
+  transform: translateX(-12px);
+
+}
 
 
 @keyframes color-change {
