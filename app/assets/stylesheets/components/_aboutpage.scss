@@ -61,7 +61,19 @@
 }
 
 
+.introduction {
+  width:45%;
+  transform:translateY(-60px);
+
+    color: #5f584b;
+    font-size: 24px;
+}
+
+
 .txt-pic {
   display:flex;
   flex-direction:row;
+  justify-content: space-between;
+  margin-left:100px;
+
 }
