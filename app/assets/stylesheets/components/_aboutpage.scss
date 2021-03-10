@@ -57,12 +57,13 @@
 .self-picture{
   position:absolute;
   left:55%;
+  transform:translateX(100px);
   width:370px;
 }
 
 
 .introduction {
-  width:45%;
+  width:55%;
   transform:translateY(-60px);
        font-family: 'Dosis';
 
