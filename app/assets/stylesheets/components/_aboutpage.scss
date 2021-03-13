@@ -100,18 +100,18 @@
 
 .daisy {
   position:absolute;
-  right:20%;
+  right:280px;
   top:140%;
   width:60px;
-  transform:translateX(-280px);
-  animation:revolve;
+  transform:translateX(-580px);
+  animation:rotation 6s infinite linear;
+
 }
 
 
-@keyframes revolve {
- 0%  {-webkit-transform: rotate(0deg);}
-  100% {-webkit-transform: rotate(360deg);}
+@keyframes rotation {
+    from {transform:rotate(0deg);}
+    to {transform:rotate(360deg);}
 }
-
 
 
