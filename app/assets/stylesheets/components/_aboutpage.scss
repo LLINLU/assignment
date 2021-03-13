@@ -86,14 +86,15 @@
 .ribbon {
   z-index:1000;
   position:absolute;
-      right: 0px;
-    bottom: 30px;
+  right: 0px;
+  top:90%;
 }
 
 
 .pic_group {
   position:relative;
   transform:translateY(-420px);
+  right:50px;
 }
 
 
