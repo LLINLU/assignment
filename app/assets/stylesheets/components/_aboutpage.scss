@@ -54,11 +54,13 @@
 }
 
 
-.self-picture{
+.self-picture {
   position:absolute;
-  left:55%;
-  transform:translateX(100px);
+  // left:100%;
+  // transform:translateX(100px);
   width:370px;
+  right:10%;
+  top:100%;
 }
 
 
@@ -83,7 +85,24 @@
 
 .ribbon {
   z-index:1000;
-  position:relative;
-      right: 48px;
+  position:absolute;
+      right: 0px;
     bottom: 30px;
 }
+
+
+.pic_group {
+  position:relative;
+  transform:translateY(-420px);
+}
+
+
+.daisy {
+  position:absolute;
+  right:10%;
+  top:100%;
+  width:60px;
+}
+
+
+
