@@ -19,6 +19,7 @@
   position: absolute;
     left: 20px;
     top: 10px;
+    width:260px;
 }
 
 .back-button:hover {
@@ -118,6 +119,7 @@
 .top-daisy {
   position:relative;
   left:12px;
+  top:30px;
   width:90px;
  animation:spin 6s infinite linear;
 }
@@ -143,6 +145,7 @@
     from {transform:rotate(0deg);}
     to {transform:rotate(360deg);}
 }
+
 
 
 
