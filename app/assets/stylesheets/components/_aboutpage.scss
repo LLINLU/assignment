@@ -152,11 +152,20 @@
 
 
 .branch {
-
   position:absolute;
   top:-80px;
   left:30px;
   width:380px;
   transform: rotate(10deg);
 
+}
+
+@media screen and (max-width:480px) {
+  .big_title {
+    top: 50px;
+    font-size: 60px;
+    margin: auto auto;
+    text-align: center;
+    padding: auto auto;
+}
 }
