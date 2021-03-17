@@ -72,6 +72,9 @@
 
     color: #5f584b;
     font-size: 24px;
+    position:relative;
+    top:70px;
+
        line-height: 46px;
 }
 
@@ -149,6 +152,10 @@
 
 
 .branch {
+
+  position:absolute;
+  top:-90px;
+  left:30px;
   width:260px;
 
 }
