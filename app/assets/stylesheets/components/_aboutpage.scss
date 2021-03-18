@@ -175,5 +175,14 @@
     padding: auto auto;
     position:relative;
     top:180px;
+    z-index:2;
+}
+
+.top-daisy {
+  display:none;
+}
+.daisy-on-text {
+  width:55px;
+
 }
 }
