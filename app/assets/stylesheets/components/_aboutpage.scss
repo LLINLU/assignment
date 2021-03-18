@@ -182,7 +182,11 @@
   display:none;
 }
 .daisy-on-text {
-  width:55px;
 
+     width: 32px;
+    position: absolute;
+    right: 85px;
+    top: 224px;
+    z-index: 1000000000000000;
 }
 }
