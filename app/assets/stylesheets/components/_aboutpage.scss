@@ -49,7 +49,7 @@
 
 .intro-text {
   position:relative;
-  height:110vh;
+  height:122vh;
   background-image:linear-gradient(to top, #ccdef5 0%,  #f3e3ea 100%);
 
 }
@@ -151,13 +151,12 @@
 
 
 
-.branch {
+.leaf {
   position:absolute;
-  top:-80px;
+  top:-110px;
   left:30px;
-  width:380px;
-  transform: rotate(10deg);
-
+  width:320px;
+  transform: rotate(-5deg);
 }
 
 .hima {
@@ -166,6 +165,9 @@
   right:40px;
 }
 
+.leaf {
+  width:300px;
+}
 @media screen and (max-width:480px) {
   .big_title {
     top: 50px;
@@ -215,7 +217,7 @@
     height: 1400px;
 
 }
-.branch {
+.leaf {
     position: absolute;
     top: -100px;
 }
