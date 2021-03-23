@@ -158,8 +158,17 @@
   width:320px;
   transform: rotate(-18deg);
   opacity:0.7;
+   transform-origin: bottom left;
+  transform-box: fill-box;
+  animation:move 6s infinite linear;
 
 }
+
+@keyframes move {
+    from {transform:rotate(-18deg);}
+    to {transform:rotate(3deg);}
+}
+
 
 .hima {
   width:120px;
