@@ -153,7 +153,7 @@
 
 .leaf {
   position:absolute;
-  top:-110px;
+  top:-90px;
   left:50px;
   width:320px;
   transform: rotate(-18deg);
@@ -161,6 +161,7 @@
    transform-origin: bottom left;
   transform-box: fill-box;
   animation:move 6s infinite linear;
+  animation-direction: alternate;
 
 }
 
