@@ -1,5 +1,5 @@
 .about-page {
-  height:110vh;
+  height:100vh;
   background-color: #F3E3EA;
 }
 
@@ -8,7 +8,7 @@
   color:white;
   font-family: 'Yusei Magic', sans-serif;
   text-align: center;
-  transform:translateY(30%);
+  transform:translateY(40%);
   animation:color-change 5s infinite;
   z-index:99999999999;
   animation-direction: alternate;
@@ -49,7 +49,7 @@
 
 .intro-text {
   position:relative;
-  height:100vh;
+  height:105vh;
   background-image:linear-gradient(to top, #ccdef5 0%,  #f3e3ea 100%);
 
 }
