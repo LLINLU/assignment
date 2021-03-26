@@ -1,24 +1,24 @@
 const birdAppear = () => {
   // const num = document.querySelector ('.js-number');
-  const bird = document.querySelectorAll ('.hima');
-  if(introText){
-  bird.forEach(bird) => {
+  const bird = document.querySelector('.hima');
+  if(bird){
+
 
   let birdPosition = bird.getBoundingClientRect().top;
 
-  let screenPosition = window.innerWidth / 1.2;
+  let screenPosition = window.innerWidth / 1.9;
 
     if (birdPosition < screenPosition) {
 
      bird.classList.add('intro-appear');
     }
-    else if (numPosition >= screenPosition && true) {
-      num.classList.remove('intro-appear');
+    else if (birdPosition >= screenPosition && true) {
+      bird.classList.remove('intro-appear');
     }
   }
 }
-}
 
-window.addEventListener('scroll',birdAppear)
+
+window.addEventListener('scroll', birdAppear)
 
 export {birdAppear}
