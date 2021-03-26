@@ -6,7 +6,7 @@ const birdAppear = () => {
 
   let birdPosition = bird.getBoundingClientRect().top;
 
-  let screenPosition = window.innerHeight / 1.2;
+  let screenPosition = window.innerHeight / 2;
 
     if (birdPosition < screenPosition) {
 
