@@ -16,6 +16,8 @@ const birdAppear = () => {
       bird.classList.remove('intro-appear');
     }
   }
+
+
 }
 
 
