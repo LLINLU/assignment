@@ -1,12 +1,12 @@
 const birdAppear = () => {
   // const num = document.querySelector ('.js-number');
-  const bird = document.querySelector('.hima');
+  const bird = document.querySelector('.self-picture');
   if(bird){
 
 
   let birdPosition = bird.getBoundingClientRect().top;
 
-  let screenPosition = window.innerWidth / 1.9;
+  let screenPosition = window.innerHeight / 1.2;
 
     if (birdPosition < screenPosition) {
 
