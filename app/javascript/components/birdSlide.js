@@ -1,7 +1,6 @@
 const birdAppear = () => {
   // const num = document.querySelector ('.js-number');
   const bird = document.querySelector('.self-picture');
-  const picture = documnet.querySelector('.hima');
   if(bird){
 
 
@@ -19,21 +18,7 @@ const birdAppear = () => {
   }
 
 
-   if(picture){
 
-
-  let picPosition = picture.getBoundingClientRect().top;
-
-  let screenPosition = window.innerHeight / 2;
-
-    if (picPosition < screenPosition) {
-
-     picture.classList.add('intro-appear');
-    }
-    else if (picPosition >= screenPosition && true) {
-      pic.classList.remove('intro-appear');
-    }
-  }
 
 
 }
