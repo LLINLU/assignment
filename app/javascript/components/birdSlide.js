@@ -19,19 +19,19 @@ const birdAppear = () => {
   }
 
 
-   if(bird){
+   if(picture){
 
 
-  let birdPosition = bird.getBoundingClientRect().top;
+  let picPosition = picture.getBoundingClientRect().top;
 
   let screenPosition = window.innerHeight / 2;
 
-    if (birdPosition < screenPosition) {
+    if (picPosition < screenPosition) {
 
-     bird.classList.add('intro-appear');
+     picture.classList.add('intro-appear');
     }
-    else if (birdPosition >= screenPosition && true) {
-      bird.classList.remove('intro-appear');
+    else if (picPosition >= screenPosition && true) {
+      pic.classList.remove('intro-appear');
     }
   }
 
