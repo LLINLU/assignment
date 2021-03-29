@@ -19,6 +19,7 @@
   position: absolute;
     left: 20px;
     top: 10px;
+     transition: transform 330ms ease-in-out;
 }
 
 .back-button:hover {
