@@ -214,6 +214,7 @@
     position:relative;
     top:180px;
     z-index:2;
+        transform: translateY(-10px);
 }
 
 .top-daisy {
@@ -228,7 +229,7 @@
     z-index: 1000000000000000;
 }
 .about-page{
-  height:580px;
+  height:480px;
 }
 .introduction{
   width: 80%;
