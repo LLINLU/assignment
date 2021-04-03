@@ -278,9 +278,10 @@ right: -30px;
     top:240px;
   }
   .chat{
-       position: absolute;
-    left: 15vw;
-    bottom: 400px;
+   left: 28vw;
+    bottom: 490px;
+    width: 54px;
+    z-index: 1000000;
   }
 
 }
