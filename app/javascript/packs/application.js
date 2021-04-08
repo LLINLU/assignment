@@ -39,7 +39,8 @@ import { morphBlobs } from '../components/morph';
 import { flightPath } from '../components/flightPath';
 import { scrollTop } from '../components/scrollTop';
 import { birdAppear } from '../components/birdSlide';
-import { himaAppear } from '../components/himaSlide'
+import { himaAppear } from '../components/himaSlide';
+import { leafSlide } from '../component/leafAppear'
 document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
@@ -58,6 +59,7 @@ document.addEventListener('turbolinks:load', () => {
   flightPath();
   scrollTop();
   birdAppear();
-  himaAppear()
+  himaAppear();
+  leafSlide()
 
 });
