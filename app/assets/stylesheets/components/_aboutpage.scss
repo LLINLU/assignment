@@ -18,9 +18,23 @@
 .cloud {
   position:absolute;
   right:100px;
-  animation:movearoud 5s infinite;
+  animation:movearound  5s infinite;
+  animation-direction: alternate;
 
 }
+
+@keyframes movearound {
+   0% {
+        transform:translateX(0px);
+      }
+    50% {
+        transform:translateX(20px);
+      }
+      100%{
+        transform:translateX(0px);
+      }
+
+    }
 
 .back-button {
   z-index:10;
