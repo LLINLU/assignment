@@ -40,7 +40,7 @@ import { flightPath } from '../components/flightPath';
 import { scrollTop } from '../components/scrollTop';
 import { birdAppear } from '../components/birdSlide';
 import { himaAppear } from '../components/himaSlide';
-import { leafSlide } from '../component/leafAppear'
+import { leafSlide } from '../components/leafAppear'
 document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
