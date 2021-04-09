@@ -14,7 +14,7 @@ const leafSlide = () => {
   .fromTo(
     leaf,
     5.2,
-    {width: '180px'},
+    {width: '180px', opacity:0},
     {width: '230px', ease: Power2.easeInOut },
     "-=1.2"
   )
