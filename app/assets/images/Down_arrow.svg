@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="58px" viewBox="0 0 28 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Landing-page_01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Background-img" transform="translate(-736.000000, -669.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Group" transform="translate(750.000000, 698.000000) rotate(270.000000) translate(-750.000000, -698.000000) translate(721.500000, 684.500000)">
+                <line x1="1.22689076" y1="14.5" x2="56.5" y2="14.5" id="Line"></line>
+                <line x1="1.24562245" y1="14.7456225" x2="11.7456225" y2="0.736867355" id="Path"></line>
+                <line x1="1.24562245" y1="14.7456225" x2="11.7456225" y2="25.7368674" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>
