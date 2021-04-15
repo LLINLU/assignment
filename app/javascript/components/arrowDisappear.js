@@ -1,9 +1,10 @@
 const arrowDisappear = () => {
   const arrow = document.querySelector ('.arrow_down');
 
-let arrowPosition = arrow.getBoundingClientRect().top;
+
 
 window.addEventListener("scroll", () => {
+  let arrowPosition = arrow.getBoundingClientRect().top;
 
   const currentScroll = window.pageYOffset;
   if (currentScroll <= arrowPosition) {
