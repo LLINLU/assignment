@@ -1,18 +1,23 @@
+const arrowDisappear = () => {
+  const arrow = document.querySelector ('.arrow_down');
+
+let arrowPosition = arrow.getBoundingClientRect().top;
+
 window.addEventListener("scroll", () => {
+
   const currentScroll = window.pageYOffset;
-  if (currentScroll <= 0) {
-    body.classList.remove(scrollUp);
-    return;
+  if (currentScroll <= arrowPosition) {
+    arrow.style.display = "block"
+
+  } else {
+
+
+    // down
+ arrow.style.display = "none"
+
   }
 
-  if (currentScroll > lastScroll && !body.classList.contains(scrollDown)) {
-    // down
-    body.classList.remove(scrollUp);
-    body.classList.add(scrollDown);
-  } else if (currentScroll < lastScroll && body.classList.contains(scrollDown)) {
-    // up
-    body.classList.remove(scrollDown);
-    body.classList.add(scrollUp);
-  }
-  lastScroll = currentScroll;
 });
+}
+
+export { arrowDisappear }
