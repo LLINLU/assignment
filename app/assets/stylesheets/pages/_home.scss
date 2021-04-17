@@ -973,7 +973,29 @@ opacity:0.1;
   left:300px;
   bottom:60px;
   width:90px;
+  animation:move 15s linear infinite;
+  animation-direction:alternate;
 }
+
+
+
+@keyframes move {
+   0% 100%{
+    transform: rotate(0deg);
+    opacity:0.8;
+  }
+
+  25% {
+    transform: rotate(-20deg);
+    opacity:0.7;
+  }
+
+  75% {
+    transform: rotate(0deg);
+    opacity:1;
+  }
+}
+
 
 .aha-title {
   position: absolute;
