@@ -229,6 +229,13 @@
 .leaf {
   width:300px;
 }
+
+
+
+.skill_block{
+  height: 100vh;
+    background-image: linear-gradient(to top, #ccdef5 0%, #ccdef5 100%);
+}
 @media screen and (max-width:480px) {
   .big_title {
     top: 50px;
