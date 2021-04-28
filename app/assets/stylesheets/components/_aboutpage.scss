@@ -46,7 +46,7 @@
 
 .back-button {
   z-index:10;
-  position: absolute;
+  position: fixed;
     left: 20px;
     top: 10px;
      transition: transform 330ms ease-in-out;
