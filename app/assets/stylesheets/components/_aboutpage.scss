@@ -107,7 +107,10 @@
    transform:translateY(5px);
 }
 
-
+.himaonbranch {
+  position:relative;
+  bottom:-430px;
+}
 
 
 .introduction {
@@ -227,7 +230,7 @@
 
 .hima {
   width:120px;
-  position:relative;
+  position:absolute;
   right:40px;
   bottom:70px;
   opacity:0.5;
