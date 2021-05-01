@@ -159,14 +159,14 @@
   position: absolute;
   right: 30px;
   top: 380px;
+  animation:movearound  5s infinite;
 }
 
 .daisy {
   position:absolute;
   right: 320px;
-    top: 300px;
-    width: 60px;
-
+  top: 300px;
+  width: 60px;
   animation:rotation 6s infinite linear;
 
 }
