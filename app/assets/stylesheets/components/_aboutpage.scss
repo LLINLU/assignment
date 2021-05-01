@@ -95,14 +95,12 @@
 
 
 .self-picture {
-  position:absolute;
+
   // left:100%;
   // transform:translateX(100px);
   width:370px;
   right:10%;
-  top:120%;
   opacity:0.5;
-  transform: translateY(30px);
   transition: transform 330ms ease-in-out;
 }
 
@@ -135,6 +133,8 @@
 
 
 .txt-pic {
+  position: relative;
+  align-items:center;
   display:flex;
   flex-direction:row;
   justify-content: space-between;
@@ -284,6 +284,7 @@
   width: 80%;
   margin: auto auto;
 }
+
 .txt-pic{
   margin-left:0px;
   display:flex;
