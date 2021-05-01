@@ -146,8 +146,8 @@
 .ribbon {
   z-index:1000;
   position:absolute;
-  right: 100px;
-  top:115%;
+  right: -10px;
+
 }
 
 
@@ -155,12 +155,17 @@
 
 }
 
+.cloud_pic{
+  position: absolute;
+  right: 30px;
+  top: 380px;
+}
 
 .daisy {
   position:absolute;
-  right:430px;
-  top:140%;
-  width:70px;
+  right: 320px;
+    top: 300px;
+    width: 60px;
 
   animation:rotation 6s infinite linear;
 
