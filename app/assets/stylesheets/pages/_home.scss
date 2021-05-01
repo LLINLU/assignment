@@ -941,6 +941,26 @@ opacity:0.1;
   right:50%;
   bottom:20px;
   height:40px;
+  animation: bounce 1s infinite alternate;
+  -webkit-animation: bounce 1s infinite alternate;
+
+}
+
+@keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-15px);
+  }
 }
 
 
@@ -1004,17 +1024,3 @@ opacity:0.1;
 }
 
 
-// @media screen and (max-width: 480px){
-// #js-wrapper{
-//   display:none;
-
-//   }
-// }
-
-// @media screen and (max-width: 480px){
-
-// .scrollmagic-pin-spacer {
-//   display:none;
-
-// }
-// }
