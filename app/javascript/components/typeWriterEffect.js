@@ -37,7 +37,7 @@ if (direction == 'forward'){
 
   }
 
-  setInterval(cycle,200);
+  setInterval(cycle,300);
   }
 
 
