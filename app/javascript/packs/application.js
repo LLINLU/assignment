@@ -43,6 +43,7 @@ import { himaAppear } from '../components/himaSlide';
 import { leafSlide } from '../components/leafAppear';
 import { arrowDisappear } from '../components/arrowDisappear';
 import { scrollIntoView } from '../components/scrollIntoView';
+import { typeWriterEffect } from '../components/typeWriterEffect';
 document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
@@ -65,5 +66,6 @@ document.addEventListener('turbolinks:load', () => {
   leafSlide();
   arrowDisappear();
   scrollIntoView();
+  typeWriterEffect();
 
 });
