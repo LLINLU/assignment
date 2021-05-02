@@ -1,6 +1,6 @@
 const typeWriterEffect = () => {
 
-const words = ['think', 'create', 'code'];
+const words = ['think', 'design', 'create', 'code'];
 let count = 0;
 let letter = 0;
 let wordToPrint = "";
