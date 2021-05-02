@@ -258,6 +258,21 @@
   height: 80vh;
     background-image: linear-gradient(to top, #c6eada  0%, #ccdef5 100%);
 }
+
+.greeting {
+    color:white;
+    font-family: 'Chalkduster';
+    position: absolute;
+    top: 500px;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
+
 @media screen and (max-width:480px) {
   .big_title {
     top: 50px;
