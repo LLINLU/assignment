@@ -41,7 +41,8 @@ import { scrollTop } from '../components/scrollTop';
 import { birdAppear } from '../components/birdSlide';
 import { himaAppear } from '../components/himaSlide';
 import { leafSlide } from '../components/leafAppear';
-import { arrowDisappear } from '../components/arrowDisappear'
+import { arrowDisappear } from '../components/arrowDisappear';
+import { scrollIntoView } from '../components/scrollIntoView';
 document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
@@ -63,5 +64,6 @@ document.addEventListener('turbolinks:load', () => {
   himaAppear();
   leafSlide();
   arrowDisappear();
+  scrollIntoView();
 
 });
