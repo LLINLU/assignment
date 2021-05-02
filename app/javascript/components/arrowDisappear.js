@@ -1,7 +1,7 @@
 const arrowDisappear = () => {
   const arrow = document.querySelector ('.arrow_down');
 
-
+if (arrow) {
 
 window.addEventListener("scroll", () => {
   let arrowPosition = arrow.getBoundingClientRect().top;
@@ -19,6 +19,7 @@ window.addEventListener("scroll", () => {
   }
 
 });
+}
 }
 
 export { arrowDisappear }
