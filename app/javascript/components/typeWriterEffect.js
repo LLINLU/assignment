@@ -7,13 +7,13 @@ let wordToPrint = "";
 let direction = 'forward';
 
 const inputWords = document.querySelector('#inputWords');
-console.log ('d');
+
 
 if (inputWords) {
 
-console.log ('d');
+
 const cycle = () => {
-  console.log('im cycle');
+
   let word = words[count];
 
 
