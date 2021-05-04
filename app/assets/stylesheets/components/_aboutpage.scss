@@ -306,12 +306,19 @@
   display:flex;
   flex-direction: row;
   justify-content: space-between;
+  width: 80%;
+  margin: auto auto;
+  text-align: center;
 }
 
 .whiteboard_left, .whiteboard_center, .whiteboard_right {
   width:290px;
+
 }
 
+.whiteboard_left, .whiteboard_center {
+  margin-right:60px;
+}
 
 @media screen and (max-width:480px) {
   .big_title {
