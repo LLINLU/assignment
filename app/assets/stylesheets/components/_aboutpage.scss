@@ -302,7 +302,15 @@
   }
 }
 
+.boardbox {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 
+.whiteboard_left, .whiteboard_center, .whiteboard_right {
+  width:290px;
+}
 
 
 @media screen and (max-width:480px) {
