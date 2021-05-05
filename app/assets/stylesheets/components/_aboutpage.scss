@@ -321,6 +321,21 @@
   margin-right:60px;
 }
 
+
+.from-left{
+  transform:translateX(-50%);
+}
+
+.from-right {
+  transform:translateY(50%);
+}
+
+.from-left, .from-right {
+  transition:transform 400ms ease-in;
+}
+
+
+
 @media screen and (max-width:480px) {
   .big_title {
     top: 50px;

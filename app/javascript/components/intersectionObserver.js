@@ -3,7 +3,7 @@ const intersectionObserver =() =>{
 const skillSection = document.querySelector('.skill_block');
 const whiteboardR = document.querySelector('.whiteboard_right');
 const whiteboardL = document.querySelector('.whiteboard_left');
-const slider = document.querySelectorAll('.slide-in');
+const sliders = document.querySelectorAll('.slide-in');
 const  options = {};
 if(skillSection) {
 const observer = new IntersectionObserver(function (entries, observer) {
@@ -16,7 +16,7 @@ options);
 observer.observe(skillSection);
 }
 
-if(whiteboardL) {
+if(slider) {
   const appearOptions = {
     threshold: 0,
     rootMargin: "0px 0px -100px 0px"
@@ -34,6 +34,10 @@ if(whiteboardL) {
     })
   },
     appearOptions);
+
+  sliders.forEach(slider => {
+    appearOnscroll.observe(slider);
+  });
 }
 
 
