@@ -16,7 +16,7 @@ options);
 observer.observe(skillSection);
 }
 
-if(slider) {
+if(sliders) {
   const appearOptions = {
     threshold: 0,
     rootMargin: "0px 0px -100px 0px"
