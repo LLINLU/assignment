@@ -349,6 +349,7 @@
     position: absolute;
     bottom: 80px;
     left: 36px;
+    font-size:14px;
     text-align:left;
     font-family:chalkduster;
     color: #525271;
@@ -357,13 +358,14 @@
 
 .text-over-board.middle {
     position: absolute;
-    bottom: 40px;
+    bottom: 38px;
     left: 36px;
     text-align:left;
     font-family:chalkduster;
     color: #525271;
     line-height:30px;
     font-size:14px;
+    color:#BCA1BF;
 }
 
 
@@ -378,7 +380,7 @@
     position:relative;
     top:180px;
     z-index:2;
-        transform: translateY(-10px);
+    transform: translateY(-10px);
 }
 
 .top-daisy {
