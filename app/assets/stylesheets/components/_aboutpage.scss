@@ -377,13 +377,13 @@
     color: #525271;
     line-height:30px;
     font-size:14px;
-    color:#917794;
+  color: #525271;
 }
 
 .board-title{
    position: absolute;
     bottom: 85px;
-    left: 180px;
+    left: 195px;
     padding:0 10px;
   background-color: #8999bb;
     z-index: 3000;
@@ -405,7 +405,19 @@
     color:white;
     font-size:13px;
     border-radius: 4px;
+}
 
+.board-title-right {
+    position: absolute;
+    bottom: 85px;
+    left: 220px;
+    padding:0 10px;
+  background-color: #8999bb;
+    z-index: 3000;
+    font-family: 'Dosis';
+    color:white;
+    font-size:13px;
+    border-radius: 4px;
 
 }
 
