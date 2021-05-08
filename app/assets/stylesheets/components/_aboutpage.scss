@@ -358,16 +358,27 @@
 
 .text-over-board.middle {
     position: absolute;
-    bottom: 38px;
+    bottom: 36px;
     left: 36px;
     text-align:left;
     font-family:chalkduster;
     color: #525271;
     line-height:30px;
     font-size:14px;
-    color:#BCA1BF;
+    color:#917794;
 }
 
+.text-over-board.right{
+    position: absolute;
+    bottom: 36px;
+    left: 36px;
+    text-align:left;
+    font-family:chalkduster;
+    color: #525271;
+    line-height:30px;
+    font-size:14px;
+    color:#917794;
+}
 
 
 @media screen and (max-width:480px) {
