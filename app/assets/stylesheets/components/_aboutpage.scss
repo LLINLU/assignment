@@ -347,12 +347,23 @@
 
 .text-over-board.left {
     position: absolute;
-    bottom: 73px;
+    bottom: 80px;
     left: 36px;
     text-align:left;
     font-family:chalkduster;
     color: #525271;
     line-height:30px;
+}
+
+.text-over-board.middle {
+    position: absolute;
+    bottom: 40px;
+    left: 36px;
+    text-align:left;
+    font-family:chalkduster;
+    color: #525271;
+    line-height:30px;
+    font-size:14px;
 }
 
 
