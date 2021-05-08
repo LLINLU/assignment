@@ -342,8 +342,16 @@
 }
 
 .container-board {
-    position: relative;
+  position: relative;
 }
+
+.text-over-board {
+    position: absolute;
+    bottom: 200px;
+    left: 36px;
+}
+
+
 
 @media screen and (max-width:480px) {
   .big_title {
