@@ -265,6 +265,10 @@
     background-image: linear-gradient(to top, #c6eada  0%, #ccdef5 100%);
 }
 
+.Arrow_up {
+
+}
+
 .greeting {
     color:white;
     font-family: 'Chalkduster';
@@ -284,6 +288,13 @@
   animation: bounce 0.5s infinite alternate;
   -webkit-animation: bounce 0.5s infinite alternate;
 
+}
+
+
+.skill_copy {
+  color: white;
+    font-family: 'Chalkduster';
+    font-size: 22px;
 }
 
 @keyframes bounce {
