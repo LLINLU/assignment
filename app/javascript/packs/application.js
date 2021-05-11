@@ -44,7 +44,8 @@ import { leafSlide } from '../components/leafAppear';
 import { arrowDisappear } from '../components/arrowDisappear';
 import { scrollIntoView } from '../components/scrollIntoView';
 import { typeWriterEffect } from '../components/typeWriterEffect';
-import { intersectionObserver } from '../components/intersectionObserver'
+import { intersectionObserver } from '../components/intersectionObserver';
+import { typeWriterSkill } from '../components/typeWriterSkill';
 document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
@@ -69,4 +70,5 @@ document.addEventListener('turbolinks:load', () => {
   scrollIntoView();
   typeWriterEffect();
   intersectionObserver();
+  typeWriterSkill();
 });
