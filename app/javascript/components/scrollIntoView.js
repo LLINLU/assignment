@@ -2,6 +2,7 @@ const scrollIntoView = () => {
   const arrow = document.querySelector ('.arrow_down');
   const worksection = document.querySelector('#work');
   const down = document.querySelector('.downward');
+  const up = document.querySelector('.upward')
   const introsection = document.querySelector('#intro');
 
 if (arrow) {
@@ -22,10 +23,20 @@ down.addEventListener("click", () => {
 
 
 });
-
-
-
 };
+
+
+if (up) {
+down.addEventListener("click", () => {
+  introsection.scrollIntoView({behavior:"smooth"});
+
+
+
+});
+};
+
+
+
 }
 
 export { scrollIntoView }
