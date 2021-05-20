@@ -27,7 +27,7 @@ down.addEventListener("click", () => {
 
 
 if (up) {
-down.addEventListener("click", () => {
+up.addEventListener("click", () => {
   introsection.scrollIntoView({behavior:"smooth"});
 
 
