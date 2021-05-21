@@ -282,6 +282,7 @@
     top: 460px;
     width: 100%;
     text-align: center;
+    z-index: 100;
 }
 
 .downward {
@@ -445,13 +446,12 @@
 
 @media screen and (max-width:480px) {
   .big_title {
-    top: 50px;
-    font-size: 72px;
+    font-size: 80px;
     margin: auto auto;
     text-align: center;
     padding: auto auto;
     position:relative;
-    top:180px;
+    top:230px;
     z-index:2;
     transform: translateY(-10px);
 }
@@ -461,11 +461,10 @@
 }
 .daisy-on-text {
 
-     width: 36px;
-    position: absolute;
-    right: 85px;
-    // top: 224px;
-    z-index: 1000000000000000;
+   width: 36px;
+   top:260px;
+   right:40px;
+   z-index: 1000000000000000;
 }
 .about-page{
   height:480px;
