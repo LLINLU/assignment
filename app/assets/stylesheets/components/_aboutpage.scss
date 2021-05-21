@@ -475,13 +475,14 @@
 }
 
 .txt-pic{
-  margin-left:0px;
+  // margin-left:0px;
   display:flex;
   flex-direction: column-reverse;
 }
 .self-picture {
 right: -30px;
-    top: 100%;
+top: 100%;
+width:300px;
 
 
 }
@@ -508,7 +509,8 @@ right: -30px;
   }
 
   .ribbon{
-    right:-45px;
+    right:5px;
+    width:200px;
   }
 
   .daisy{
