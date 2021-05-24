@@ -500,7 +500,7 @@ width:300px;
 }
 .intro-text {
     position: relative;
-    height: 1400px;
+    height: 1300px;
 
 }
 .leaf {
@@ -536,6 +536,12 @@ width:300px;
     display: flex;
     flex-direction: column;
     width: auto;
+  }
+
+  .skill_copy{
+        text-align: center;
+    width: 80%;
+    margin: auto auto;
   }
 
 .skill_block{
