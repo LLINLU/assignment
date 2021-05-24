@@ -532,6 +532,15 @@ width:300px;
     z-index: 1000000;
   }
 
+  .boardbox {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+  }
+
+  .whiteboard_left, .whiteboard_center, .whiteboard_right {
+    margin:auto auto;
+  }
 }
 
 
