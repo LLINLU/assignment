@@ -88,7 +88,7 @@
 
 .intro-text {
 
-  height:105vh;
+  height:100vh;
   background-image:linear-gradient(to top, #ccdef5 0%,  #f3e3ea 100%);
 
 }
@@ -330,8 +330,7 @@
   text-align: center;
   overflow-x: hidden;
   margin-top:60px;
-  position:relative;
-  bottom:70px;
+ margin-bottom:40px;
 }
 
 .whiteboard_left, .whiteboard_center, .whiteboard_right {
