@@ -444,7 +444,59 @@ top:0px;
 }
 
 
-@media screen and (max-width:480px) {
+
+
+@media screen and (max-width:960px) {
+  .big_title {
+    font-size:10em;
+  }
+
+  .introduction {
+    font-size:18px;
+    line-height:36px;
+  }
+
+  .self-picture {
+    width:340px;
+  }
+
+  .daisy{
+    right:290px;
+    width:50px;
+  }
+  }
+
+
+
+@media screen and (max-width:1280px) {
+  .skill_copy {
+    bottom:40px;
+  }
+  .daisy {
+    right: 310px;
+    top: 310px;
+  }
+  .introduction {
+    line-height:40px;
+  }
+
+  .daisy-on-text {
+    top:235px;
+  }
+  }
+
+
+  @media screen and (max-width:1080px) {
+    .chat {
+    right: 60px;
+    transform: translateY(35px);
+    }
+
+  }
+
+
+
+  @media screen and (max-width:480px) {
   .big_title {
     font-size: 80px;
     margin: auto auto;
@@ -500,7 +552,7 @@ width:300px;
 }
 .intro-text {
     position: relative;
-    height: 1300px;
+    height: auto;
 
 }
 .leaf {
@@ -516,6 +568,7 @@ width:300px;
   }
 
   .ribbon{
+    top:30px;
     right:25px;
     width:200px;
   }
@@ -542,10 +595,22 @@ width:300px;
         text-align: center;
     width: 80%;
     margin: auto auto;
+    padding-bottom:30px;
   }
 
 .skill_block{
-height:135vh;
+height:auto;
+}
+
+
+  .upward {
+    text-align: center;
+    position: relative;
+    top: 0px;
+}
+
+.boardbox {
+  transform: translateY(0px);
 }
 
   .whiteboard_left, .whiteboard_center, .whiteboard_right {
@@ -555,51 +620,3 @@ height:135vh;
 }
 
 
-
-@media screen and (max-width:960px) {
-  .big_title {
-    font-size:10em;
-  }
-
-  .introduction {
-    font-size:18px;
-    line-height:36px;
-  }
-
-  .self-picture {
-    width:340px;
-  }
-
-  .daisy{
-    right:290px;
-    width:50px;
-  }
-  }
-
-
-
-@media screen and (max-width:1280px) {
-  .skill_copy {
-    bottom:40px;
-  }
-  .daisy {
-    right: 310px;
-    top: 310px;
-  }
-  .introduction {
-    line-height:40px;
-  }
-
-  .daisy-on-text {
-    top:235px;
-  }
-  }
-
-
-  @media screen and (max-width:1080px) {
-    .chat {
-    right: 60px;
-    transform: translateY(35px);
-    }
-
-  }
