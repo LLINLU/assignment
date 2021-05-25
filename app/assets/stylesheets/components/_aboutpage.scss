@@ -134,9 +134,9 @@
 
     color: #5f584b;
     color:#514552;
-    font-size: 24px;
 
-    font-size:20px;
+
+    font-size:21px;
 
        line-height: 46px;
 }
@@ -266,7 +266,7 @@
 
 
 .skill_block{
-  height: auto;
+  height: 100vh;
     background-image: linear-gradient(to top, #c6eada  0%, #ccdef5 100%);
 }
 
@@ -329,8 +329,8 @@
   margin: auto auto;
   text-align: center;
   overflow-x: hidden;
-  margin-top:60px;
- margin-bottom:40px;
+  transform:translateY(50%);
+
 }
 
 .whiteboard_left, .whiteboard_center, .whiteboard_right {
@@ -576,7 +576,7 @@ height:135vh;
 
 
 
-@media screen and (max-width:1240px) {
+@media screen and (max-width:1280px) {
   .skill_copy {
     bottom:40px;
   }
@@ -587,4 +587,17 @@ height:135vh;
   .introduction {
     line-height:40px;
   }
+
+  .daisy-on-text {
+    top:235px;
+  }
+  }
+
+
+  @media screen and (max-width:1080px) {
+    .chat {
+    right: 60px;
+    transform: translateY(35px);
+    }
+
   }
