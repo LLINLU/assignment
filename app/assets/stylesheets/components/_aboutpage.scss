@@ -558,12 +558,30 @@ height:135vh;
   .big_title {
     font-size:10em;
   }
+
+  .introduction {
+    font-size:18px;
+    line-height:36px;
+  }
+
+  .self-picture {
+    width:340px;
+  }
+
+  .daisy{
+    right:290px;
+    width:50px;
+  }
   }
 
 
 
-@media screen and (max-width:1280px) {
+@media screen and (max-width:1240px) {
   .skill_copy {
     bottom:40px;
+  }
+  .daisy {
+    right: 310px;
+    top: 310px;
   }
   }
