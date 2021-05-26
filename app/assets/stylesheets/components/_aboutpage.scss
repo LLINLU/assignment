@@ -1,5 +1,5 @@
 .about-page {
-  height:97vh;
+  height:auto;
   background-color: #F3E3EA;
 }
 
@@ -19,10 +19,12 @@
   color:white;
   font-family: 'Yusei Magic', sans-serif;
   text-align: center;
-  transform:translateY(50%);
+  // transform:translateY(50%);
   animation:color-change 5s infinite;
   z-index:99999999999;
   animation-direction: alternate;
+  padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .cloud {
@@ -618,6 +620,10 @@ height:auto;
     left: 200px;
     top: -36px;
 
+}
+
+.Arrow_up {
+  padding-bottom:20px;
 }
 
   .whiteboard_left, .whiteboard_center, .whiteboard_right {
