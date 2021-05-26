@@ -284,7 +284,7 @@
     font-family: 'Chalkduster';
     font-size:22px;
     position: absolute;
-    top: 70%;
+    top: 480px;
     width: 100%;
     text-align: center;
     z-index: 100;
@@ -295,9 +295,10 @@
   margin: auto auto;
   text-align: center;
   position:absolute;
-  top:80%;
+  top:560px;
   animation: bounce 0.5s infinite alternate;
   -webkit-animation: bounce 0.5s infinite alternate;
+  z-index:2;
 
 }
 
