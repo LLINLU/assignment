@@ -516,6 +516,31 @@
 
 }
 
+
+@media screen and (max-width:1200px) {
+  .boardbox {
+   width: 70%;
+   flex-wrap: wrap;
+ }
+
+ .whiteboard_left, .whiteboard_center, .whiteboard_right {
+   width: 200px;
+    flex: 1 1 auto;
+    margin-right:16px;
+
+}
+
+.text-over-board.right {
+
+    bottom: 50px;
+    left: 36px;
+    line-height: 24px;
+    font-size: 12px;
+
+}
+}
+
+
   @media screen and (max-width:1080px) {
     .chat {
     right: 60px;
