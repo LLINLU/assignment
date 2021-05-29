@@ -519,8 +519,21 @@
     bottom: 56px;
 
 }
+
+.text-over-board.middle {
+    position: absolute;
+    bottom: 28px;
+    left: 30px;
 }
 
+.text-over-board.left {
+    bottom: 56px;
+    left: 36px;
+    font-size: 14px;
+    line-height: 27px;
+
+}
+}
 
 @media screen and (max-width:1200px) {
   .boardbox {
