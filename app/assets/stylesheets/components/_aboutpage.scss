@@ -677,6 +677,17 @@
 
   }
 
+@media screen and (max-width:1080px) {
+  .boardbox {
+    flex-direction:column;
+    transform:translateY(0px);
+  }
+   .whiteboard_left, .whiteboard_center, .whiteboard_right {
+    margin:auto;
+    width:240px;
+   }
+}
+
 
 
   @media screen and (max-width:480px) {
