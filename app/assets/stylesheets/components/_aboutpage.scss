@@ -446,6 +446,13 @@
 
 }
 
+  .saboten {
+
+    width: 40px;
+    position: absolute;
+    left: 10px;
+    bottom: 24px;
+}
 
 
 
@@ -489,6 +496,14 @@
   .daisy-on-text {
     top:235px;
   }
+
+  .saboten {
+
+    width: 40px;
+    position: absolute;
+    left: 10px;
+    bottom: 24px;
+}
 
 //   .boardbox {
 //     width: 70%;
@@ -576,9 +591,9 @@
 .saboten {
   width: 40px;
   position: absolute;
-  left: 200px;
+  // left: 200px;
 }
-}
+
 }
 
 @media screen and (max-width:1200px) {
