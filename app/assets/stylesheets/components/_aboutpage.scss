@@ -709,6 +709,13 @@
     }
 }
 
+@media screen and (max-width: 960px) {
+.chat {
+
+    position: absolute;
+    top: 290px;
+  }
+}
 
 
   @media screen and (max-width:480px) {
