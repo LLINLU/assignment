@@ -734,6 +734,20 @@
     line-height: 28px;
     font-size: 13px;
   }
+
+  .board-title-right {
+    position: absolute;
+    bottom: 68px;
+    left: 190px;
+    padding: 0 6px;
+  }
+
+  .text-over-board.right {
+    bottom: 60px;
+    line-height: 28px;
+    font-size: 13px;
+    margin-left: 20px;
+}
 }
 
 @media screen and (max-width: 960px) {
