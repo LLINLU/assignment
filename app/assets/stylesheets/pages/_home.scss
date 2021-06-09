@@ -845,6 +845,23 @@ opacity:0.1;
   left: 102px;
 }
 
+
+
+@media screen and (max-width:1240px) {
+  .about {
+    font-size:1.9em;
+  }
+  .girl_img{
+    height: 100%;
+    width: 660px;
+  }
+}
+
+
+
+
+
+
 @media screen and (max-width:480px) {
   .yaha-sub1  {
   position: relative;
