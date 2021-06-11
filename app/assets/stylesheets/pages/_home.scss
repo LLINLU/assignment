@@ -217,6 +217,9 @@ nav {
 //   scroll-snap-type: y mandatory;
 // }
 
+.paper_plane {
+  z-index:10000;
+}
 
 .wrapper{
   width: 400vw;
@@ -885,7 +888,14 @@ opacity:0.1;
   width: 240px;
 
   }
+  .simplicruit-image-group {
 
+    right: -13.4%;
+  }
+ .monitor {
+
+    right: -15%;
+  }
   .slogan {
     font-size:20px;
   }
