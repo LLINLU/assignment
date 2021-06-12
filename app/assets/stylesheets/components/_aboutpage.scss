@@ -97,15 +97,16 @@
 
 .social-icons{
   position: relative;
-  bottom: 220px;
+  bottom: 219px;
   display: flex;
   flex-direction: column;
   left: 300px;
+  color: #113a63;
 }
 
 .fa-linkedin-in, .fa-behance {
 
-padding-bottom:13px;
+padding-bottom:14px;
 }
 
 .upward {
@@ -173,11 +174,13 @@ padding-bottom:13px;
 .ribbon {
   z-index:1000;
   position:absolute;
-    right: 2px;
-    bottom: 360px;
-    width: 140px;
+  right: 2px;
+  bottom: 360px;
+  width: 140px;
 
 }
+
+
 
 
 .pic_group {
