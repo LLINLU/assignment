@@ -189,7 +189,7 @@
   width:180px;
   position:absolute;
   right:40px;
-  top:70px;
+bottom:60px;
 }
 
 
@@ -584,8 +584,8 @@ bottom:90px;
 .branch {
     width: 180px;
     position: absolute;
-    right: 80px;
-    top: 60px;
+    right: 120px;
+
 }
 
 .hima {
@@ -833,8 +833,8 @@ width:300px;
 }
 .hima {
 
-    right: 40px;
-    bottom: 60px;
+    right: 10px;
+    bottom: 130px;
   }
 
   .ribbon{
@@ -871,8 +871,15 @@ width:300px;
 
 .skill_block{
 height:auto;
+padding-top:0px;
 }
 
+
+
+.boardbox  {
+  padding-top:0px;
+
+}
 
   .upward {
     text-align: center;
@@ -890,9 +897,8 @@ height:auto;
 
 .branch {
     position: relative;
-    left: 200px;
-    top: -36px;
-
+    left: 180px;
+    top: -100px;
 }
 
 .Arrow_up {
