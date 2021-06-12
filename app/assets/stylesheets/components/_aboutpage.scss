@@ -110,6 +110,10 @@
   color:#183f6d;
 }
 
+.fab, .far {
+  transition: all 1s ease-out;
+}
+
 .fa-linkedin-in, .fa-behance {
 
 padding-bottom:14px;
@@ -121,7 +125,7 @@ font-size:18px;
 }
 
 .far:hover {
-  font-size:18px;
+  font-size:20px;
 }
 
 .upward {
