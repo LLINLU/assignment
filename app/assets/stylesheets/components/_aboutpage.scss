@@ -830,12 +830,21 @@ bottom:90px;
   flex-direction: column-reverse;
 }
 .self-picture {
-right: -30px;
+
 top: 100%;
-width:300px;
+width:280px;
+position:relative;
 
 
 }
+
+.social-icons {
+
+    bottom: 170px;
+
+    left: 280px;
+
+    }
 .pic_group{
      position: absolute;
     transform: translateY(60px);
