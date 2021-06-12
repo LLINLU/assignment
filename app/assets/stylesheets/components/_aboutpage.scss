@@ -96,8 +96,16 @@
 }
 
 .social-icons{
-  color: #78789e;
-  background: #c6e9db;
+  position: relative;
+  bottom: 220px;
+  display: flex;
+  flex-direction: column;
+  left: 300px;
+}
+
+.fa-linkedin-in, .fa-behance {
+
+padding-bottom:13px;
 }
 
 .upward {
