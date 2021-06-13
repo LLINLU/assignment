@@ -216,6 +216,21 @@
 
 
 .hamburger .line{
-
-  transition: all .5s ease-in-out;
+ transition: all .5s ease-in-out;
 }
+
+/*ANIMATION*/
+
+.menu-btn .open .line:nth-child(2) {
+ transform: translateX(-50px);
+ background:transparent;
+}
+
+.menu-btn .open .line:nth-child(1) {
+  transform: rotate(45deg) translate(35px, -35px);
+}
+
+.menu-btn .open .line:nth-child(3) {
+  transform: rotate(-45deg) translate(35px, -35px);
+}
+
