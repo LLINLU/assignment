@@ -227,10 +227,10 @@
 }
 
 .hamburger.open .line:nth-child(1) {
-  transform: rotate(45deg) translate(35px, -35px);
+  transform: rotate(45deg) translate(30px, -20px);
 }
 
 .hamburger.open .line:nth-child(3) {
-  transform: rotate(-45deg) translate(35px, -35px);
+  transform: rotate(-45deg) translate(30px, 20px);
 }
 
