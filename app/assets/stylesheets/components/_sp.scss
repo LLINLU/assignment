@@ -213,3 +213,9 @@
 .hamburger {
   transform: translateY(10px);
 }
+
+
+.hamburger .line{
+
+  transition: all .5s ease-in-out;
+}
