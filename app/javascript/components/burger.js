@@ -1,8 +1,8 @@
 const burgerMenu = () => {
 const menuBtn = document.querySelector('.hamburger');
-let menuopen = false;
+let menuOpen = false;
 menuBtn.addEventListener('click', () => {
-  if(!menuopen) {
+  if(!menuOpen) {
     menuBtn.classList.add('open');
     menuOpen = true;
   } else {
