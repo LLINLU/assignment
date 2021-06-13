@@ -29,6 +29,7 @@
 .slide-sp {
   width:100%;
   float:none;
+  height:55vh;
 }
 
 @media screen and (max-width: 480px){
@@ -163,6 +164,13 @@
 
 }
 
+.Project-headline-sp {
+    position: relative;
+    margin: auto auto;
+    width: 200px;
+    top: 40px;
+    left: 80px;
+}
 
 .project-number-sp3 {
     position: absolute;
