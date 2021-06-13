@@ -793,36 +793,7 @@ opacity:0.1;
 }
 
 
-@media screen and (max-width:480px) {
-  .simplicruit-image-group {
-    width: 320px;
-    position: absolute;
-    top: 62%;
-    right: 13%;
-    z-index: 10000;
-}
 
-  .monitor {
-  width: 350px;
-  position: absolute;
-  top: 58%;
-  opacity: 0.8;
-  right: 7%;
-  z-index: 9999;
-  }
-
-  .simplicruit-image {
-    width: 308px;
-  }
-
-  .hotlady {
-    height: 200px;
-    position: absolute;
-    right: 1%;
-    top: 72%;
-    z-index: 110000;
-  }
-}
 
 .blob {
  height:490px;
@@ -998,7 +969,38 @@ opacity:0.1;
 
 }
 
+
+  .simplicruit-image-group {
+    top: 62%;
+    z-index: 10000;
 }
+
+  .monitor {
+  width: 300px;
+  position: absolute;
+  top: 58%;
+  opacity: 0.8;
+  right: 10%;
+  z-index: 9999;
+  }
+
+  .simplicruit-image {
+    width: 280px;
+    right: 98px;
+    top: -5px;
+  }
+
+  .hotlady {
+    height: 200px;
+    position: absolute;
+    right: 1%;
+    top: 72%;
+    z-index: 110000;
+  }
+}
+
+
+
 
 .arrow_down {
   position:absolute;
