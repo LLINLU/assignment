@@ -72,12 +72,6 @@
   background:white;
  }
 
- .hamburger {
-  position: absolute;
-  cursor:pointer;
-  right:5%;
-  top:20%;
- }
 
 
  .straight-line-sp {
@@ -223,7 +217,13 @@
 }
 
 .hamburger {
-  transform: translateY(10px);
+
+    position: fixed;
+    cursor: pointer;
+    right: 5%;
+    top: 1%;
+    z-index: 1000000000000000000000;
+
 }
 
 
@@ -233,8 +233,10 @@
 
 
 .footnote {
-  text-align:center;
-  background-color:blue;
+    text-align: center;
+    background-color: #594e5a;
+    color: white;
+    font-size: 11px;
 }
 
 
@@ -244,15 +246,18 @@
 .hamburger.open .line:nth-child(2) {
  transform: translateX(-50px);
  background:transparent;
+ z-index:100000000000000000;
 }
 
 .hamburger.open .line:nth-child(1) {
   transform: rotate(45deg) ;
   transform-origin: top left;
+  z-index: 1000000000000000000000;
 }
 
 .hamburger.open .line:nth-child(3) {
   transform: rotate(-45deg);
    transform-origin: top left;
+   z-index: 1000000000000000000000;
 }
 
