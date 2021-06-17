@@ -24,6 +24,17 @@
   display:none;
 }
 
+.intro-sp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 1em;
+  justify-content: space-between;
+  max-width: 90%;
+  margin: auto;
+  font-size: 16px;
+  padding-top: 30px;
+}
 
 
 .slide-sp {
@@ -220,7 +231,7 @@
 
     position: fixed;
     cursor: pointer;
-    right: 5%;
+    left: 5%;
     top: 1%;
     z-index: 1000000000000000000000;
 
@@ -243,9 +254,14 @@
 width:100%;
 height: 48px;
 background-color: #736372;
+position:fixed;
+z-index: 100000000000000000;
 
 }
 
+.hamburger {
+
+}
 
 /*ANIMATION*/
 
