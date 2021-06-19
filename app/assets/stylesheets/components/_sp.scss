@@ -34,6 +34,10 @@
   clip-path:circle(1000px at 90% -10%);
   -webkit-clip-path: circle(1000px at 90% -10%);
   pointer-events:all;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 50%;
 }
 
 
