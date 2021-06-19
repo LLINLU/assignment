@@ -21,6 +21,8 @@
   height:100vh;
   width:100%;
   flex-direction:column;
+  justify-content:space-around;
+  align-items:center;
 
   clip-path:circle(50px at 10% -10%);
   -webkit-clip-path: circle(50px at 10% -10%);
