@@ -23,16 +23,17 @@
   flex-direction:column;
   justify-content:space-around;
   align-items:center;
-
   clip-path:circle(50px at 10% -10%);
   -webkit-clip-path: circle(50px at 10% -10%);
   transition: all 1s ease-out;
+  pointer-events:none;
 }
 
 
 .nav-link-sp.openmenu{
   clip-path:circle(1000px at 90% -10%);
   -webkit-clip-path: circle(1000px at 90% -10%);
+  pointer-events:all;
 }
 
 
