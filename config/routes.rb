@@ -5,7 +5,7 @@ Rails.application.routes.draw do
   # get '/works', to: 'pages#works'
   match '/about', to: 'pages#about', via: :get
 
-  get '/services', to: 'pages#services'
+  get '/inspirations', to: 'pages#inspirations'
   get '/sp', to: 'pages#sp'
   get '/works', to: 'works#index'
   get '/works/cookpal', to: 'works#cookpal'
