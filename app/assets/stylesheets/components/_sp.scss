@@ -308,3 +308,24 @@ z-index: 100000000000000000;
    z-index: 1000000000000000000000;
 }
 
+.nav-link-sp li {
+  opacity:0;
+}
+
+.nav-link-sp li:nth-child(1) {
+  translation:all 0.5s ease 0.2s;
+}
+
+.nav-link-sp li:nth-child(2) {
+  translation: all 0.5s ease 0.4s;
+}
+
+.nav-link-sp li:nth-child(3) {
+  translation: all 0.5s ease 0.6s;
+}
+
+.nav-link-sp li:nth-child(4) {
+  translation: all 0.5s ease 0.8s;
+}
+
+
