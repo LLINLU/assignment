@@ -8,25 +8,15 @@ menuBtn.addEventListener('click', () => {
     console.log('d');
     menuBtn.classList.add('open');
     links.classList.add('openmenu');
-    navs.forEach( nav => {
-      nav.classList.add('fade');
-    }
-      );
-    }
-
+    navs.forEach()
     menuOpen = true;
-
-
   } else {
     console.log('w')
     menuBtn.classList.remove('open');
-    links.classList.remove('openmenu');
-    navs.forEach(nav=> {
-      nav.classList.remove('fade');
-    })
+    links.classList.remove('openmenu')
     menuOpen = false;
   }
-);
+});
 
 }
 

@@ -24,6 +24,6 @@ const birdAppear = () => {
 }
 
 
-window.addEventListener('scroll', birdAppear)
+window.addEventListener('scroll', birdAppear);
 
 export {birdAppear}
