@@ -16,7 +16,8 @@ menuBtn.addEventListener('click', () => {
   } else {
     console.log('w')
     menuBtn.classList.remove('open');
-    links.classList.remove('openmenu')
+    links.classList.remove('openmenu');
+    navs.forEach(nav => {nav.classList.remove('fade')});
 
 
 
