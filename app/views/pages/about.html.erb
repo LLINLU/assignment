@@ -1,19 +1,26 @@
 
 
   <div class="about-page">
-<!--   <nav>
-  <ul class = 'nav-link'>
-      <li class = 'link1' style="font-weight:700;"><%= link_to 'about', about_path %></li>
-      <li class = 'link2'><%= link_to 'works', works_path %></li>
 
-      <li class = 'link4'><a href="">contact</a></li>
-  </ul>
-  </nav> -->
- <!--  <%= link_to root_path, :class => "back-button js-headline" do %>
-      <%= image_tag "back_arrow.svg", :class => "back-button" %>
-  <% end %> -->
   <a href='/' style="color:white;" class="Home back-button js-headline">Home  </a>
   <a href='/works' style="color:white;" class="work js-headline">Works</a>
+
+    <nav class='nav-sp'>
+    <div class="hamburger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+  <ul class = 'nav-link-sp'>
+    <li class = 'link'><%= link_to 'about', about_path %></li>
+    <li class = 'link'><%= link_to 'works', works_path %></li>
+    <li class = 'link'><%= link_to 'inspirations', inspirations_path %></li>
+    <li class = 'link'><a href="">contact</a></li>
+  </ul>
+  </nav>
+
+
+
    <%= image_tag "Daisy.png", :class => "daisy-on-text" %>
   <div class="big_title">ABOUT ME</div>
  <!--  <%= image_tag "Daisy.png", :class => "top-daisy" %> -->
