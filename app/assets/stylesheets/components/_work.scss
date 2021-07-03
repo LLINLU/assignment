@@ -1,3 +1,18 @@
 .work_headline {
   font-size: 40px;
 }
+
+.work_big_title {
+    font-size: 10em;
+    color: white;
+    font-family: 'Yusei Magic', sans-serif;
+    text-align: center;
+    -webkit-animation: color-change 5s infinite;
+    animation: color-change 5s infinite;
+    z-index: 99999999999;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    transform: translateY(-16px);
+  }
