@@ -9,10 +9,11 @@
     text-align: center;
     -webkit-animation: color-change 5s infinite;
     animation: color-change 5s infinite;
-    z-index: 99999999999;
+    z-index: 999;
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
     padding-top: 1em;
     padding-bottom: 1em;
     transform: translateY(-16px);
+    position:relative;
   }
