@@ -36,7 +36,7 @@ up.addEventListener("click", () => {
 };
 
 
-if (work_downward ) {
+if (work_down) {
 work_down.addEventListener("click", () => {
   introsection.scrollIntoView({behavior:"smooth"});
 
