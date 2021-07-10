@@ -29,3 +29,12 @@
   -webkit-animation: bounce 0.5s infinite alternate;
   z-index:2;
 }
+
+
+.work_cloud {
+      -webkit-animation: movearound 5s infinite;
+    animation: movearound 5s infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+
+}
