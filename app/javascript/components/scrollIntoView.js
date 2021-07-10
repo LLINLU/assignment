@@ -4,7 +4,7 @@ const scrollIntoView = () => {
   const down = document.querySelector('.downward');
   const up = document.querySelector('.upward')
   const introsection = document.querySelector('#intro');
-  const down = document.querySelector('.downward');
+  const work_down = document.querySelector('.work_downward');
 
 if (arrow) {
 
