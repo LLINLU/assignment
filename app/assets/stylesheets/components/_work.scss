@@ -38,6 +38,20 @@
     animation-direction: alternate;
 }
 
+.work_greeting_messaging{
+  color: white;
+  font-family: 'Chalkduster';
+  font-size: 22px;
+  position: absolute;
+  top: 480px;
+  text-align: center;
+  z-index: 100;
+  margin: auto 20%;
+}
+
 .work_greeting {
+  margin:auto auto;
   text-align:center;
+  width:100%;
+
 }
