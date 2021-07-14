@@ -36,6 +36,8 @@
     animation: movearound 5s infinite;
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
+    position:reltaive;
+    bottom:40px;
 }
 
 .work_greeting_messaging{
@@ -59,4 +61,5 @@
 .portfolio {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-template-rows:300px;
 }
