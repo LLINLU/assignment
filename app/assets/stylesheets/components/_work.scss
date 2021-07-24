@@ -60,12 +60,13 @@
 .portfolio {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows:300px;
+  grid-template-rows:340px;
   background-color:#f3e3ea;
 }
 
 .thumbnail {
-  text-align:center;
+  text-align:right;
+  margin: auto 0;
 }
 
 .title {
@@ -74,7 +75,7 @@
 }
 
 .introduction1 {
-  margin: auto 0;
+  margin: auto 100px;
 }
 
 .portfolio {
