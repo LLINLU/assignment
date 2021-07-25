@@ -58,15 +58,24 @@
 }
 
 .portfolio {
+  background-color:#f3e3ea;
+}
+@media screen and (min-width: 480px){
+.portfolio {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows:340px;
   background-color:#f3e3ea;
 }
+.thumbnail img {
+  width:340px;
+}
+}
 
 .thumbnail {
   text-align:right;
   margin: auto 0;
+  height: 340px;
 }
 
 .title {
@@ -81,3 +90,9 @@
 .portfolio {
   padding-top: 80px;
 }
+
+@media screen and (max-width: 480px){
+  .work_big_title {
+    font-size:72px;
+  }
+  }
