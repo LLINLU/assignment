@@ -67,9 +67,6 @@
   grid-template-rows:340px;
   background-color:#f3e3ea;
 }
-.thumbnail img {
-  width:340px;
-}
 }
 
 .thumbnail {
@@ -95,4 +92,13 @@
   .work_big_title {
     font-size:72px;
   }
+  .cover{
+  width:340px;
+}
+.thumbnail {
+    text-align: center;
   }
+  .work_greeting_messaging {
+    font-size:20px;
+  }
+}
