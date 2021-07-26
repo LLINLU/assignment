@@ -40,6 +40,10 @@
     bottom:40px;
 }
 
+
+.cover:hover{
+  transform:scale(1.1);
+}
 .work_greeting_messaging{
   color: white;
   font-family: 'Chalkduster';
@@ -104,4 +108,5 @@
   .work_greeting_messaging {
     font-size:20px;
   }
+
 }
