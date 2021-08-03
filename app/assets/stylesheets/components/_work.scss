@@ -89,8 +89,12 @@ transition: all 0.4s ease-out;
 .title {
   font-size:32px;
   margin-bottom:1em;
+  color: #2a415d;
 }
 
+.title:hover{
+  color:#623e69;
+}
 .introduction1 {
   margin: auto 100px;
 }
@@ -137,3 +141,6 @@ transition: all 0.4s ease-out;
 }
 
 }
+
+
+
