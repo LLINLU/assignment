@@ -94,8 +94,9 @@ transition: all 0.4s ease-out;
 
 .title:hover{
   color:#623e69;
-  transform:translateX(10px);
+  transform:translateX(-3px);
 }
+
 .introduction1 {
   margin: auto 100px;
 }
@@ -139,6 +140,9 @@ transition: all 0.4s ease-out;
 .thumbnail {
 
     height: 290px;
+}
+.introduction1{
+  display:none;
 }
 
 }
