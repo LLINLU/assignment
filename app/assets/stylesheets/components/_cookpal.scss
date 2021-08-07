@@ -1,5 +1,11 @@
 .nav-head {
-       box-shadow: 0 0 70px rgba(0, 0, 0, .1);
-      height:40px;
-      background-color:white;
+    box-shadow: 0 0 70px rgba(0, 0, 0, .1);
+    height:40px;
+    background-color:white;
+    position:fixed;
+    top:0px;
+}
+.cookpal_big_title {
+  position:absolute;
+  top:50px;
 }
