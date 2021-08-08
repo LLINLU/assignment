@@ -7,9 +7,7 @@
 }
 
 .cookpal_big_title {
-  transform: translate(50%);
-  position:absolute;
-  top:40%;
+
   font-size: 10em;
   color: white;
   font-family: 'Yusei Magic', sans-serif;
@@ -22,3 +20,9 @@
 }
 
 
+
+.cookpal_intro_copy {
+  transform: translate(50%);
+  position:absolute;
+  top:40%;
+}
