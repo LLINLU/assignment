@@ -148,17 +148,26 @@ transition: all 0.4s ease-out;
 
 }
 
-.title{
-  border-bottom:1px solid white;
-  width: 0%;
+.title {
+  display:inline-block;
+  position: relative;
+
+}
+
+.title:after {
+  content: '';
+  position: absolute;
+  width: 100%;
   transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #623e69;
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
 
-.title:hover{
-  width: 100%;
+.title:hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
-
