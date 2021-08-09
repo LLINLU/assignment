@@ -4,6 +4,7 @@
     background-color:#F3E3EA;
     position: sticky;
     top:0px;
+    z-index: 0;
 }
 
 .cookpal_big_title {
@@ -41,3 +42,11 @@
  left:20px;
  top:10px;
 }
+
+.cookpal_nav_home {
+ position:fixed;
+ left:200px;
+ top:10px;
+}
+
+
