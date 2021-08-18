@@ -71,3 +71,19 @@ transition: all 0.4s ease-out;
   transform:translateY(-50%);
   z-index:1000;
 }
+
+
+.navbar_cookpal ul li .dot::before {
+  content: '';
+  position:relative;
+  top:50%;
+  border-radius:50%;
+  display: block;
+  transition: .2s ease-out;
+  height:5px;
+  width:5px;
+  border:1px solid #666;
+  transform: translateX(-300%);
+  top:15px;
+  // transform: translateY(-50%);
+}
