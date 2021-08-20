@@ -90,3 +90,10 @@ transition: all 0.4s ease-out;
 .navbar_cookpal ul li .dot.active::before {
  background-color: #666;
 }
+
+
+.navbar_cookpal ul li:hover .dot::before {
+background-color: #666;
+}
+
+  ]
