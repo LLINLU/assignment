@@ -1,6 +1,7 @@
 const slideAppear = () => {
   // const num = document.querySelector ('.js-number');
   const nums = document.querySelectorAll ('.js-number');
+  if (nums) {
   nums.forEach((num) => {
   console.log(num);
   let numPosition = num.getBoundingClientRect().left;
@@ -15,6 +16,7 @@ const slideAppear = () => {
       num.classList.remove('num-appear');
     }
   });
+}
 }
 window.addEventListener('scroll',slideAppear)
 

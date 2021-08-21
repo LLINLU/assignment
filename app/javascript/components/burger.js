@@ -3,6 +3,7 @@ const menuBtn = document.querySelector('.hamburger');
 const links = document.querySelector('.nav-link-sp');
 const navs = document.querySelectorAll('.nav-link-sp li');
 let menuOpen = false;
+if(menuBtn){
 menuBtn.addEventListener('click', () => {
   if(!menuOpen) {
     console.log('d');
@@ -28,6 +29,7 @@ menuBtn.addEventListener('click', () => {
   }
 });
 
+}
 }
 
 export { burgerMenu }
