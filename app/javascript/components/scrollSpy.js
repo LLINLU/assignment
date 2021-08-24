@@ -22,5 +22,6 @@
 
 
 const scrollSpy = () => {
+let section = document.querySelectorAll('.sec');
 
 }
