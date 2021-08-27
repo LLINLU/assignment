@@ -23,7 +23,7 @@
 
 const scrollSpy = () => {
 let section = document.querySelectorAll('.sec');
-let link = document.querySelectorAll('.navbar_cookpal a.dot');
+let navLinks = document.querySelectorAll('.navbar_cookpal a.dot');
 window.onscroll = () => {
   section.forEach(sec => {
     let top = window.scrollY;
