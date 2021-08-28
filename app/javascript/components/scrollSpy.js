@@ -42,3 +42,4 @@ window.onscroll = () => {
 }
 
 }
+export { scrollSpy }
