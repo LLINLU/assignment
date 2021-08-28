@@ -27,7 +27,7 @@ let navLinks = document.querySelectorAll('.navbar_cookpal a.dot');
 window.onscroll = () => {
   section.forEach(sec => {
     let top = window.scrollY;
-    let offset = sec.offsetTop-100;
+    let offset = sec.offsetTop-300;
     let height = sec.offsetHeight;
     let id = sec.getAttribute('id');
     if (top >= offset && top < offset + height) {
