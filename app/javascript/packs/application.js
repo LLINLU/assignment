@@ -75,7 +75,7 @@ document.addEventListener('turbolinks:load', () => {
   intersectionObserver();
   typeWriterSkill();
   burgerMenu();
-  scrollSpy();
+  // scrollSpy();
   navAppear();
 
 });

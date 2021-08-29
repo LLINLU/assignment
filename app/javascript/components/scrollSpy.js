@@ -67,8 +67,8 @@ window.onscroll = () => {
       li.classList.add('active')
     }
   })
-}
-}
+    }
+  }
 }
 
 export { scrollSpy }
