@@ -11,7 +11,7 @@ window.onscroll = () => {
       let current = '';
   section.forEach(sec => {
     // let top = window.scrollY;
-    console.log(pageYOffset);
+
     let sectionTop = sec.offsetTop-300;
     let sectionHeight = sec.clientHeight;
     if(pageYOffset >= sectionTop - sectionHeight / 3) {
