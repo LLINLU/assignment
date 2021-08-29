@@ -66,12 +66,16 @@ transition: all 0.4s ease-out;
 
 
 .navbar_cookpal {
+  visibility: hidden;
   position:fixed;
   top:50%; right:30px;
   transform:translateY(-50%);
   z-index:1000;
 }
 
+.navbar_cookpal_show {
+ visibility: visible;
+}
 
 .navbar_cookpal ul li .dot::before {
   content: '';

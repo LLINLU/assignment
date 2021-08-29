@@ -48,6 +48,8 @@
 const scrollSpy = () => {
 let section = document.querySelectorAll('.sec');
 let navLinks = document.querySelectorAll('.navbar_cookpal a.dot');
+
+if (navLinks) {
 window.onscroll = () => {
   let current = '';
   section.forEach(sec => {
@@ -65,7 +67,7 @@ window.onscroll = () => {
       li.classList.add('active')
     }
   })
-
+}
 }
 }
 
