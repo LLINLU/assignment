@@ -1,1 +1,83 @@
 
+<div class="about-page">
+  <div class='nav-head' style="background-color:white; z-index:1">
+    <%= image_tag "back_arrow_small.svg", :class => "cookpal_nav_arrow js-headline back-button" %>
+     <%= link_to root_path, :class => "logo_linlu js-headline", target: "_blank" do %>
+    <%= image_tag "Linlu.svg", :class => "js-headline" %>
+     <% end %>
+    <a href='/about' style="color:#7d727b; text-shadow: none;" class="cookpal_nav_about work js-headline">Up to Next: Simplicruit</a>
+</div>
+<!--
+<a href='/' style="color:white;" class="Home back-button js-headline"> Home</a> -->
+<%= image_tag "work_cookpal_cover.svg", :class => "" %>
+
+    <nav class='nav-sp'>
+    <div class="hamburger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+  <ul class = 'nav-link-sp'>
+    <li class = 'link'><%= link_to 'about', about_path %></li>
+    <li class = 'link'><%= link_to 'works', works_path %></li>
+    <li class = 'link'><%= link_to 'inspirations', inspirations_path %></li>
+    <li class = 'link'><a href="">contact</a></li>
+  </ul>
+  </nav>
+
+
+<div class='cookpal_intro_copy'>
+  <div class="cookpal_big_title">Cookpal</div>
+  <div class='cookpal_micro_copy'>Find a pal to share cooking experience</div>
+  <div class= "downward js-headline cookpal-down">
+    <%= image_tag "downward.svg", :class => "js-headline" %>
+  </div>
+</div>
+</div>
+
+
+  <nav class="navbar_cookpal">
+  <ul>
+  <li>
+    <a href="#overview" class="dot overview active" data-scroll='overview'>
+      <span>Overview</span>
+    </a>
+  </li>
+  <li>
+    <a href="#problem" class="dot problem" data-scroll='problem'>
+      <span>Problem</span>
+    </a>
+  </li>
+  <li>
+    <a href="#research" class="dot research" data-scroll='reserach'>
+      <span>Research</span>
+    </a>
+  </li>
+  <li>
+    <a href="#userflow" class="dot userflow" data-scroll='userflow'>
+      <span>User flow</span>
+    </a>
+  </li>
+  <li>
+    <a href="#styleguide" class="dot styleguide" data-scroll='styleguide'>
+      <span>Styleguide</span>
+    </a>
+  </li>
+  </ul>
+  </nav>
+
+ <div class="sec" id='oveview'>
+  overview
+ </div>
+ <div class="sec" id='problem'>
+  problem
+  </div>
+  <div class="sec" id='research'>
+    research
+  </div>
+  <div class="sec" id='userflow'>
+      userflow
+  </div>
+  <div class="sec" id='styleguide'>
+    styleguide
+  </div>
