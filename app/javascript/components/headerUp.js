@@ -4,7 +4,9 @@ let header =  document.getElementById ('PDP-header');
 if(header) {
 window.onscroll = () => {
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-
+if (scrollTop > lastScrollTop) {
+  header.style.top = '-40px'
+}
 
 
 }
