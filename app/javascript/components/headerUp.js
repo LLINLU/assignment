@@ -15,3 +15,4 @@ lastScrollTop = scrollTop;
 }
 
 
+export { headerUp}
