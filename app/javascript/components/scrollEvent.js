@@ -10,6 +10,15 @@ let logo = document.querySelector ('.logo_linlu');
 if (mastHead){
 window.onscroll = () => {
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+  if (scrollTop > lastScrollTop) {
+  header.style.top = '-40px';
+  logo.style.top = '-40px';
+
+} else {
+  header.style.top = '0';
+logo.style.top = '5px';
+}
+lastScrollTop = scrollTop;
   if (pageYOffset > mastHead.clientHeight - 120) {
     navBar.classList.add("navbar_cookpal_show");
       let current = '';
