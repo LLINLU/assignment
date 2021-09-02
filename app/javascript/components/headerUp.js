@@ -1,16 +1,18 @@
 const headerUp = () => {
 let lastScrollTop = 0;
 let header =  document.querySelector ('.PDP-header');
+let logo = document.querySelector ('.logo_linlu');
 if (header) {
 window.onscroll = () => {
-  console.log('ff');
+
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 if (scrollTop > lastScrollTop) {
-  header.style.display = 'none';
-  console.log('ddd');
+  header.style.top = '-40px';
+  logo.style.top = '-40px';
+
 } else {
-  header.style.display = 'block';
-  console.log('ff');
+  header.style.top = '0';
+logo.style.top = '5px';
 }
 lastScrollTop = scrollTop;
     }
