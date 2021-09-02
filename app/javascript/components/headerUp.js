@@ -1,13 +1,16 @@
-const headerUp= () => {
+const headerUp = () => {
 let lastScrollTop = 0;
-let header =  document.getElementById ('PDP-header');
+let header =  document.querySelector ('.PDP-header');
 if (header) {
 window.onscroll = () => {
+  console.log('ff');
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 if (scrollTop > lastScrollTop) {
-  header.style.top = '-40px';
+  header.style.display = 'none';
+  console.log('ddd');
 } else {
-  header.style.top = '0px';
+  header.style.display = 'block';
+  console.log('ff');
 }
 lastScrollTop = scrollTop;
     }
@@ -15,4 +18,4 @@ lastScrollTop = scrollTop;
 }
 
 
-export { headerUp}
+export { headerUp }
