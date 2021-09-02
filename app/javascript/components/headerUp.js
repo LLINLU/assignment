@@ -5,9 +5,9 @@ if (header) {
 window.onscroll = () => {
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 if (scrollTop > lastScrollTop) {
-  header.style.top = '-40px'；
+  header.style.top = '-40px';
 } else {
-  navbar.style.top = '0px';
+  header.style.top = '0px';
 }
 lastScrollTop = scrollTop;
     }
