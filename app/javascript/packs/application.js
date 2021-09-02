@@ -50,7 +50,7 @@ import { burgerMenu } from '../components/burger';
 import { scrollSpy } from '../components/scrollSpy';
 
 // import { headerUp } from '../components/headerUp';
-import { navAppear, headerUp } from '../components/navAppear';
+import { scrollEvent} from '../components/scrollEvent';
 document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
@@ -80,5 +80,5 @@ document.addEventListener('turbolinks:load', () => {
   // scrollSpy();
 
   // headerUp();
-  navAppear();
+  scrollEvent();
 });
