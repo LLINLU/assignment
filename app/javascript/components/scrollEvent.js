@@ -18,7 +18,9 @@ window.onscroll = () => {
 
 } else {
   header.style.top = '0';
-logo.style.top = '5px';
+ logo.style.top = '5px';
+ uptoNext.style.top = '5px';
+
 }
 lastScrollTop = scrollTop;
   if (pageYOffset > mastHead.clientHeight - 120) {
