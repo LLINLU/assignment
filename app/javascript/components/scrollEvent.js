@@ -8,6 +8,7 @@ let lastScrollTop = 0;
 let header =  document.querySelector ('.PDP-header');
 let logo = document.querySelector ('.logo_linlu');
 let uptoNext = document.querySelector('.cookpal_nav_about');
+let arrow = document.querySelector('.cookpal_nav_arrow ');
 if (mastHead){
 window.onscroll = () => {
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
@@ -15,12 +16,13 @@ window.onscroll = () => {
   header.style.top = '-40px';
   logo.style.top = '-40px';
   uptoNext.style.top = '-40px';
+  arrow.style.top = '-40px';
 
 } else {
   header.style.top = '0';
  logo.style.top = '5px';
- uptoNext.style.top = '5px';
-
+ uptoNext.style.top = '6px';
+ arrow.style.top = '5px';
 }
 lastScrollTop = scrollTop;
   if (pageYOffset > mastHead.clientHeight - 120) {
