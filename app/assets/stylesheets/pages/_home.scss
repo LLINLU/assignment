@@ -529,7 +529,7 @@ $panelcount:4;
   position:absolute;
   top:65%;
   left:30%;
-  color:#fff;
+  color:#113258e8;
   font-family: 'Ubuntu', sans-serif;
 
 & .description-title {
@@ -651,7 +651,7 @@ $panelcount:4;
 }
 
 .cheese {
-  width:300px;
+  width:200px;
   position:absolute;
   right:10px;
   top:70%;
@@ -665,11 +665,11 @@ $panelcount:4;
   }
 
   50% {
-    transform: rotate(15deg) scale(1);
+    transform: rotate(15deg) scale(0.82);
   }
 
   100% {
-    transform: rotate(-15deg) scale(0.9);
+    transform: rotate(-15deg) scale(0.83);
   }
 }
 
