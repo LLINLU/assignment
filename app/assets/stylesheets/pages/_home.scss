@@ -490,22 +490,22 @@ $panelcount:4;
 
 }
 
-@keyframes sway {
-   0% 100%{
-    transform: rotate(18deg);
-    opacity:0.8;
-  }
+// @keyframes sway {
+//    0% 100%{
+//     transform: rotate(18deg);
+//     opacity:0.8;
+//   }
 
-  25% {
-    transform: rotate(-40deg);
-    opacity:0;
-  }
+//   25% {
+//     transform: rotate(-40deg);
+//     opacity:0.8;
+//   }
 
-  75% {
-    transform: rotate(0deg);
-    opacity:1;
-  }
-}
+//   75% {
+//     transform: rotate(0deg);
+//     opacity:1;
+//   }
+// }
 
 @keyframes fade-in {
    0% 100%{
@@ -559,19 +559,19 @@ $panelcount:4;
   animation-direction:alternate;
 }
 
-@keyframes pop{
-   0% {
-    transform: rotate(-3deg) scale(1.05);
-  }
+// @keyframes pop{
+//    0% {
+//     transform: rotate(-3deg) scale(1.05);
+//   }
 
-  50% {
-    transform: rotate(0deg) scale(1);
-  }
+//   50% {
+//     transform: rotate(0deg) scale(1);
+//   }
 
-  100% {
-    transform: rotate(-3deg) scale(0.95);
-  }
-}
+//   100% {
+//     transform: rotate(-3deg) scale(0.95);
+//   }
+// }
 
 
 .project-image-group {
@@ -590,7 +590,7 @@ $panelcount:4;
   opacity: 0.9;
   position:absolute;
   left:0;
-  transition: all 4s ease-in-out;
+  transition: all 0.5s alternate;
   z-index:10000;
 }
 
@@ -623,6 +623,7 @@ $panelcount:4;
 
 .bubble {
   position:relative;
+  width: 300px;
   right:10%;
   animation:size-change 6s ease-in-out infinite;
   animation-direction:alternate;
@@ -637,7 +638,7 @@ $panelcount:4;
 
 @keyframes size-change {
   0% {
-    transform:scale(1.2);
+    transform:scale(1);
   }
 
   50% {
@@ -869,6 +870,7 @@ opacity:0.1;
   }
   .slogan {
     font-size:20px;
+    color: #214063e3;
   }
 
   .yaha-sub2 {
