@@ -89,10 +89,11 @@ section {
 nav {
   .nav-link {
     display:flex;
-    justify-content:center;
+    justify-content:right;
     height:3em;
     background-color:transparent;
     z-index:998;
+    padding-top:10px;
   }
 
   li{
