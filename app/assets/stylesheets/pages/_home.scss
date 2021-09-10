@@ -20,8 +20,9 @@
   display:flex;
   display: flex;
   justify-content: space-between;
-  width: 80%;
+  width: 100%;
   margin: auto auto;
+  height:55px;
 }
 
 
@@ -103,6 +104,7 @@ nav {
     background-color:transparent;
     z-index:998;
     padding-top:10px;
+    padding-right: 10%;
   }
 
   li{
