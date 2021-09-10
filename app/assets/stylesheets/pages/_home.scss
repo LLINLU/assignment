@@ -25,6 +25,7 @@
   height:55px;
   position: fixed;
   z-index: 100;
+  top:0;
 }
 
 
@@ -347,8 +348,8 @@ $panelcount:4;
   top:0;
   left:1vh;
   transform:translate(50%,50%);
-  background:#F9E67E;
-  background-color:#F9E67E;
+
+  background-color:#f7e687;
   border-radius:50%;
   height:98px;
   width: 8px;

@@ -8,12 +8,12 @@ window.onscroll = () => {
 
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 if (scrollTop > lastScrollTop) {
-  navbar.style.display =='none';
-  console.log('eee');
+  navbar.style.top = '-50px';
+
   // logo.style.top = '-40px';
 
 } else {
-  navbar.style.display =='block';
+  navbar.style.top = '5px';
 // logo.style.top = '5px';
 }
 lastScrollTop = scrollTop;
