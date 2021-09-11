@@ -13,7 +13,7 @@ if (scrollTop > lastScrollTop) {
   // logo.style.top = '-40px';
 
 } else {
-  navbar.style.top = '5px';
+  navbar.style.top = '0px';
 // logo.style.top = '5px';
 }
 lastScrollTop = scrollTop;
