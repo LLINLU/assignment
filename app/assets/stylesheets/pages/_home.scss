@@ -443,7 +443,12 @@ $panelcount:4;
   position: absolute;
     top: 45%;
     left: 30%;
-}
+//     width:230px;
+ }
+
+ .Project-headline img {
+  width:230px;
+ }
 
 @media screen and (max-width: 480px){
 
