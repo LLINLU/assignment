@@ -47,7 +47,7 @@ section {
   }
 
   &:nth-of-type(2){
-    background-image: linear-gradient(to right, #f3e3ea 0%, #efdef8b3 100%);
+    background-image: linear-gradient(to right, #f3e3ea 0%,  #fff7e6 60%, #efdef8b3 100%);
   }
 
   &:nth-of-type(3) {
@@ -847,18 +847,18 @@ opacity:0.1;
 
 
 .yaha-sub1 {
-  position: relative;
-  top: 48px;
+  // position: relative;
+  // top: 48px;
   color: #343a40;
-  left: 102px;
+  // left: 102px;
 }
 
 
 .yaha-sub2 {
-  position: relative;
-  top: 52px;
+  // position: relative;
+  // top: 52px;
   color: #343a40;
-  left: 102px;
+  // left: 102px;
 }
 .about{
   padding-top:3em;
