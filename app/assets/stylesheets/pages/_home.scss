@@ -51,7 +51,7 @@ section {
   }
 
   &:nth-of-type(3) {
-  background-image: linear-gradient(to right,  #efdef8b3 0%, #043dda40  100%);
+  background-image: linear-gradient(to right,  #efdef8b3 0%, #acd0fb40 40%, #043dda40  100%);
   }
   &:nth-of-type(4) {
   background-image: linear-gradient(to right, #043dda40 0%, #e3eeff 40%, #ffebef 100%);
@@ -409,6 +409,8 @@ $panelcount:4;
   }
   p{
     color:#677c92cc;
+    font-size: 18px;
+    font-family: 'Ubuntu';
   }
 
 }
@@ -555,7 +557,7 @@ $panelcount:4;
   position:absolute;
   top:65%;
   left:30%;
-  color:#113258e8;
+  color:#654c65;
   font-family: 'Ubuntu', sans-serif;
 
 & .description-title {
@@ -649,8 +651,9 @@ $panelcount:4;
 
 .bubble {
   position:relative;
-  width: 300px;
+  width: 230px;
   right:10%;
+  top:24px;
   animation:size-change 6s ease-in-out infinite;
   animation-direction:alternate;
 }
@@ -897,7 +900,7 @@ opacity:0.1;
 .bubble {
   position: relative;
   right: 10%;
-  width: 240px;
+  width: 230px;
 
   }
   .simplicruit-image-group {
@@ -910,7 +913,7 @@ opacity:0.1;
   }
   .slogan {
     font-size:18px;
-    color: #214063e3;
+    color: #5c5167;
   }
 
   .yaha-sub2 {
@@ -1067,6 +1070,7 @@ right:0%;
   right:50%;
   // bottom:20px;
   height:20px;
+  bottom:10%;
   animation: bounce 1s infinite alternate;
   -webkit-animation: bounce 1s infinite alternate;
 

@@ -9,7 +9,7 @@ let header =  document.querySelector ('.PDP-header');
 let logo = document.querySelector ('.logo_linlu');
 let uptoNext = document.querySelector('.cookpal_nav_about');
 let arrow = document.querySelector('.cookpal_nav_arrow ');
-if (mastHead){
+if (navBar){
 window.onscroll = () => {
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
   if (scrollTop > lastScrollTop) {

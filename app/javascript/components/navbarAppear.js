@@ -15,7 +15,7 @@ if (scrollTop > lastScrollTop) {
 } else {
   navbar.style.top = '0px';
   navbar.style.height = '40px';
-  navbar.style.backgroundColor = '#F5E4EB';
+  // navbar.style.backgroundColor = '#F5E4EB';
   logo.style.visibility='hidden';
 
 // logo.style.top = '5px';
