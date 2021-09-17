@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="491px" height="65px" viewBox="0 0 491 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 5</title>
+    <g id="Landing-page_04" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(1.000000, 1.000000)" fill="#D8D8D8" stroke="#979797">
+            <g id="Group-4" transform="translate(258.000000, 0.000000)">
+                <g id="N" transform="translate(191.000000, 7.000000)">
+                    <rect id="Rectangle" x="0" y="7" width="12" height="41"></rect>
+                    <rect id="Rectangle" x="28" y="0" width="12" height="46"></rect>
+                    <polygon id="Path-3" stroke-linejoin="round" transform="translate(18.500000, 20.000000) scale(1, -1) translate(-18.500000, -20.000000) " points="12 8 25 8 12 32"></polygon>
+                </g>
+                <g id="E" transform="translate(48.000000, 8.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="8" height="47"></rect>
+                    <circle id="Oval" cx="16.5" cy="23.5" r="6.5"></circle>
+                    <rect id="Rectangle" x="8" y="34" width="20" height="13"></rect>
+                    <rect id="Rectangle" x="8" y="0" width="20" height="13"></rect>
+                </g>
+                <g id="D" transform="translate(0.000000, 7.000000)">
+                    <rect id="Rectangle" stroke-linejoin="round" x="0" y="0" width="27" height="48"></rect>
+                    <path d="M26.9994644,1.90403249e-14 C37.209171,1.89051396 45,11.9160763 45,24 C45,36.0839237 37.209171,46.109486 26.9994644,48 L26.9994644,1.90403249e-14 Z" id="Combined-Shape" stroke-linejoin="bevel"></path>
+                </g>
+                <g id="S" transform="translate(76.000000, 0.000000)" stroke-width="1.14545455">
+                    <path d="M28.4074484,2.29071824 C28.5323685,2.29071824 28.6570085,2.29179724 28.7813574,2.29394544 L28.7813574,36.6511274 C28.6570085,36.6532756 28.5323685,36.6543546 28.4074484,36.6543546 C17.8597605,36.6543546 9.30916996,28.9617926 9.30916996,19.4725364 C9.30916996,9.98328027 17.8597605,2.29071824 28.4074484,2.29071824 Z" id="Combined-Shape" transform="translate(19.045264, 19.472536) rotate(45.000000) translate(-19.045264, -19.472536) "></path>
+                    <path d="M37.5714665,26.3456454 C37.6963866,26.3456454 37.8210265,26.3467244 37.9453755,26.3488726 L37.9453755,60.7060546 C37.8210265,60.7082028 37.6963866,60.7092818 37.5714665,60.7092818 C27.0237785,60.7092818 18.473188,53.0167197 18.473188,43.5274636 C18.473188,34.0382074 27.0237785,26.3456454 37.5714665,26.3456454 Z" id="Combined-Shape" transform="translate(28.209282, 43.527464) scale(-1, -1) rotate(45.000000) translate(-28.209282, -43.527464) "></path>
+                </g>
+                <g id="I" transform="translate(121.000000, 8.000000)">
+                    <circle id="Oval" cx="6.5" cy="6.5" r="6.5"></circle>
+                    <rect id="Rectangle" x="0" y="16" width="13" height="30"></rect>
+                </g>
+                <path d="M162.502616,8 C162.81751,8 163.130959,8.00619216 163.442845,8.01846134 L163.44272,32 L186,32.000801 C185.733468,44.7482671 175.315385,55 162.502616,55 C149.522479,55 139,44.4786916 139,31.5 C139,18.5213084 149.522479,8 162.502616,8 Z" id="Combined-Shape"></path>
+            </g>
+            <g id="Group-3" transform="translate(0.000000, 7.000000)">
+                <path d="M230.5,1 C230.667323,1 230.834269,1.00148516 231.000824,1.00444195 L231.000824,47.9955581 C230.834269,47.9985148 230.667323,48 230.5,48 C216.416739,48 205,37.4786916 205,24.5 C205,11.5213084 216.416739,1 230.5,1 Z" id="C"></path>
+                <g id="I" transform="translate(188.000000, 1.000000)">
+                    <circle id="Oval" cx="6.5" cy="6.5" r="6.5"></circle>
+                    <rect id="Rectangle" x="0" y="16" width="13" height="30"></rect>
+                </g>
+                <g id="H" transform="translate(140.000000, 1.000000)">
+                    <circle id="Oval" cx="21.5" cy="23.5" r="6.5"></circle>
+                    <rect id="Rectangle" x="0" y="0" width="12" height="46"></rect>
+                    <rect id="Rectangle" x="28" y="0" width="12" height="46"></rect>
+                </g>
+                <path d="M23.5026155,1 C23.8175102,1 24.1309585,1.00619216 24.4428453,1.01846134 L24.4427201,25 L47,25.000801 C46.7334675,37.7482671 36.315385,48 23.5026155,48 C10.5224794,48 0,37.4786916 0,24.5 C0,11.5213084 10.5224794,1 23.5026155,1 Z" id="Combined-Shape"></path>
+                <g id="R" transform="translate(51.000000, 0.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="11" height="47"></rect>
+                    <polygon id="Path-2" stroke-linejoin="bevel" points="14.7677597 26.3108592 14.7677597 47 25.7677597 47"></polygon>
+                    <path d="M23.4988895,0 C23.6667194,0 23.8337768,0.00317523283 24,0.00946653571 L24,23.9905335 C23.8337768,23.9968248 23.6667194,24 23.4988895,24 C16.5953302,24 10.9988895,18.627417 10.9988895,12 C10.9988895,5.372583 16.5953302,0 23.4988895,0 Z" id="Combined-Shape" transform="translate(17.499445, 12.000000) scale(-1, 1) translate(-17.499445, -12.000000) "></path>
+                </g>
+                <g id="P" transform="translate(109.000000, 0.000000)">
+                    <g id="Combined-Shape-2" transform="translate(11.000000, 0.000000)" stroke-width="1.16666667">
+                        <path d="M14.5847843,0 C14.7800975,0 14.9745139,0.00368598369 15.1679622,0.010989443 L15.1679622,27.9890106 C14.9745139,27.996314 14.7800975,28 14.5847843,28 C6.53063171,28 0.00145097366,21.7319865 0.00145097366,14 C0.00145097366,6.2680135 6.53063171,0 14.5847843,0 Z" id="Combined-Shape" transform="translate(7.584707, 14.000000) scale(-1, 1) translate(-7.584707, -14.000000) "></path>
+                    </g>
+                    <rect id="Rectangle" x="0" y="0" width="11" height="47"></rect>
+                </g>
+                <polygon id="Triangle" stroke-linejoin="round" points="92 1 105 47 79 47"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
