@@ -117,3 +117,12 @@
   animation-delay: 0s;
 }
 
+.frame {
+  width:400px;
+  position: absolute;
+    top:45%;
+    opacity:0.8;
+  right:8%;
+    z-index: 99999;
+}
+
