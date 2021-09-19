@@ -30,11 +30,11 @@
  -->
 
 
- <div class="about-page">
-<!--
-<a href='/' style="color:white;" class="Home back-button js-headline"> Home</a> -->
-  <a href='/' style="color:white; z-index:1000" class="back-button js-headline">Home</a>
-  <a href='/about' style="color:white;" class="work js-headline">About</a>
+
+  <div class="about-page">
+
+  <a href='/' style="color:white;" class="Home back-button js-headline">Home  </a>
+  <a href='/works' style="color:white;" class="work js-headline">Works</a>
 
     <nav class='nav-sp'>
     <div class="hamburger">
@@ -53,9 +53,9 @@
 
 
    <%= image_tag "Daisy.png", :class => "daisy-on-text" %>
-  <div class="work_big_title">Selected Work</div>
+  <div class="big_title">ABOUT ME</div>
  <!--  <%= image_tag "Daisy.png", :class => "top-daisy" %> -->
-
+   <%= image_tag "chat_left.svg", :class => "chat" %>
   <div class="intro-about">
     <div id="universe" style = "top: 0%;
     z-index: 1;
@@ -79,19 +79,11 @@
 
     </div>
   </div>
-   <%= image_tag "white_cloud.svg", :class => "work_cloud" %>
-
-   <div class="work_greeting">
-   <div class= "work_greeting_messaging" style=";">
- Bringing happiness and convenience to people through user-centered design inspires me to keep seeking progress everyday.
-   </div>
-   </div>
-
-
-    <div class= "work_downward js-headline">
+   <%= image_tag "white_cloud.svg", :class => "cloud" %>
+   <div class= "greeting">Hi, I'm Linlu. I <span id="inputWords"></span></div>
+   <div class= "downward js-headline">
     <%= image_tag "downward.svg", :class => "js-headline" %>
   </div>
-
   </div>
 
 

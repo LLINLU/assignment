@@ -9,6 +9,8 @@ window.onscroll = () => {
   let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 if (scrollTop > lastScrollTop) {
   navbar.style.top = '-50px';
+  logo.style.visibility='visible';
+
 
   // logo.style.top = '-40px';
 
