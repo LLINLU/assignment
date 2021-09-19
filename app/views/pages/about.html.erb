@@ -56,6 +56,19 @@
 
 
  <div class="about-page">
+     <nav class='nav-sp'>
+    <div class="hamburger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+  <ul class = 'nav-link-sp'>
+    <li class = 'link'><%= link_to 'about', about_path %></li>
+    <li class = 'link'><%= link_to 'works', works_path %></li>
+    <li class = 'link'><%= link_to 'inspirations', inspirations_path %></li>
+    <li class = 'link'><a href="">contact</a></li>
+  </ul>
+  </nav>
    <nav class="navbar_home">
       <%= link_to works_cookpal_path, :class => "brand_logo" do %>
       <%= image_tag "Logo_lin.svg", :class => "js-headline" %>

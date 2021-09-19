@@ -3,17 +3,17 @@
 }
 
 .work_big_title {
-    font-size: 10em;
+    font-size: 3em;
     color: white;
     font-family: 'Yusei Magic', sans-serif;
-    text-align: center;
+    // text-align: center;
     -webkit-animation: color-change 5s infinite;
     animation: color-change 5s infinite;
     z-index: 999;
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
-    padding-top: 1em;
-    padding-bottom: 1em;
+    padding-top: 2em;
+    padding-left:3.5em;
     transform: translateY(-16px);
     position:relative;
   }
@@ -24,10 +24,10 @@
   margin: auto auto;
   text-align: center;
   position:absolute;
-  top:560px;
+  top:460px;
   animation: bounce 0.5s infinite alternate;
   -webkit-animation: bounce 0.5s infinite alternate;
-  z-index:2;
+  z-index:111112;
 }
 
 
@@ -48,14 +48,14 @@
   box-shadow: 0 0 70px rgba(0, 0, 0, .1);
 }
 .work_greeting_messaging{
-  color: white;
-  font-family: 'Chalkduster';
+  color: #b7b4bfed;
+  font-family: 'Ubuntu';
   font-size: 22px;
   position: absolute;
-  top: 480px;
+  top: 380px;
   text-align: center;
   z-index: 100;
-  margin: auto 20%;
+  margin: auto 30%;
 }
 
 .work_greeting {
@@ -91,6 +91,7 @@ transition: all 0.4s ease-out;
   font-size:32px;
   margin-bottom:1em;
   color: #2a415d;
+  font-family:'Ubuntu';
 }
 
 .title:hover{
@@ -103,7 +104,7 @@ transition: all 0.4s ease-out;
 }
 
 .portfolio {
-  padding-top: 80px;
+  // padding-top: 80px;
 }
 .work_greeting_messaging {
   font-size:16px;
@@ -151,6 +152,11 @@ transition: all 0.4s ease-out;
 .title {
   display:inline-block;
   position: relative;
+}
+
+.sub-title {
+  font-family: 'Ubuntu';
+  color: #425567;
 }
 
 .title:after {

@@ -32,8 +32,7 @@
 
  <div class="about-page">
 
-  <a href='/' style="color:white; z-index:1000" class="back-button js-headline">Home</a>
-  <a href='/about' style="color:white;" class="work js-headline">About</a>
+
 
     <nav class='nav-sp'>
     <div class="hamburger">
@@ -48,10 +47,19 @@
     <li class = 'link'><a href="">contact</a></li>
   </ul>
   </nav>
+   <nav class="navbar_home">
+      <%= link_to works_cookpal_path, :class => "brand_logo" do %>
+      <%= image_tag "Logo_lin.svg", :class => "js-headline" %>
+      <% end %>
+  <ul class = 'nav-link'>
+      <li class = 'link1'><%= link_to 'about', about_path %></li>
+      <li class = 'link2'><%= link_to 'works', works_path %></li>
+     <!--  <li class = 'link3'><%= link_to 'inspirations', inspirations_path %></li> -->
+      <li class = 'link4'><a href="">contact</a></li>
+  </ul>
+  </nav>
 
 
-
-   <%= image_tag "Daisy.png", :class => "daisy-on-text" %>
   <div class="work_big_title">Selected Work</div>
  <!--  <%= image_tag "Daisy.png", :class => "top-daisy" %> -->
 
@@ -81,15 +89,15 @@
    <%= image_tag "white_cloud.svg", :class => "work_cloud" %>
 
    <div class="work_greeting">
-   <div class= "work_greeting_messaging" style=";">
+<!--    <div class= "work_greeting_messaging" style=";">
  Bringing happiness and convenience to people through user-centered design
-   </div>
+   </div> -->
    </div>
 
 
-    <div class= "work_downward js-headline">
+<!--     <div class= "work_downward js-headline">
     <%= image_tag "downward.svg", :class => "js-headline" %>
-  </div>
+  </div> -->
 
   </div>
 
@@ -98,7 +106,7 @@
   <div class="portfolio" style="height:auto;">
   <div class="thumbnail" style="background-color:;">
    <%= link_to works_cookpal_path, :class => "", target: "_blank" do %>
-   <%= image_tag "cookpal_cover.svg", :class => "cover js-headline" %>
+   <%= image_tag "cookpal_cover_updated.svg", :class => "cover js-headline" %>
    <% end %>
   </div>
   <div class="introduction1" style="background-color:;" >

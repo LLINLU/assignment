@@ -24,7 +24,7 @@
   margin: auto auto;
   height:55px;
   position: fixed;
-  z-index: 100;
+  z-index: 9999;
   top:0;
 }
 
@@ -124,7 +124,7 @@ nav {
   // }
 
   a{
-    background: radial-gradient(circle at var(--x,-40px) var(--y,-40px), #7261C4 32px, #56495a 32px);
+    background: radial-gradient(circle at var(--x,-40px) var(--y,-40px), #7261C4 32px, #7b747d 32px);
     background-clip: text;
     -webkit-background-clip: text;
     color:transparent;
