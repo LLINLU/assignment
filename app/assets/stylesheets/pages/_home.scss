@@ -322,7 +322,9 @@ $panelcount:4;
   position:absolute;
   bottom: 7%;
   left: 35%;
-  width:30px;
+  width:22px;
+    animation: bounce 1s infinite alternate;
+  -webkit-animation: bounce 1s infinite alternate;
 }
 
 
@@ -415,7 +417,7 @@ $panelcount:4;
     color:#cdb0d2;
   }
   p{
-    color:#677c92cc;
+    color:#614c65bf;
     font-size: 18px;
     font-family: 'Ubuntu';
   }
