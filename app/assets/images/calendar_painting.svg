@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="325px" height="335px" viewBox="0 0 325 335" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>calendar_painting</title>
+    <g id="Landing-page_02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="calendar_painting" transform="translate(1.000000, 1.000000)">
+            <g id="frame" transform="translate(0.000000, 70.000000)">
+                <rect id="Rectangle" stroke="#FDFCFF" stroke-width="0.974264706" x="0" y="0" width="323" height="263" rx="17.5367647"></rect>
+                <rect id="Rectangle" stroke="#CEB0D2" x="27" y="21" width="272" height="219" rx="14"></rect>
+            </g>
+            <g id="content" transform="translate(40.000000, 102.000000)">
+                <rect id="Rectangle" fill="#FFF1F1" x="10" y="70" width="228" height="3"></rect>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="0.5" fill="#EFD9D9" cx="10" cy="9.5" rx="10" ry="9.5"></ellipse>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="0.5" fill="#EFD9D9" cx="10" cy="183.5" rx="10" ry="9.5"></ellipse>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="0.5" fill="#E3D6E5" cx="238" cy="183.5" rx="10" ry="9.5"></ellipse>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="0.5" fill="#E3D6E5" cx="238" cy="9.5" rx="10" ry="9.5"></ellipse>
+                <g id="My-Work" transform="translate(13.000000, 89.000000)" stroke="#979797" stroke-width="0.873329569">
+                    <g id="Group-2" transform="translate(87.332957, 0.000000)">
+                        <circle id="O" fill="#7F7070" cx="62.2769234" cy="19.2132505" r="17.4665914"></circle>
+                        <g id="R" transform="translate(84.983492, 0.000000)">
+                            <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="8.38396386" height="35.7229765"></rect>
+                            <polygon id="Path-2" fill="#7F7070" stroke-linejoin="bevel" points="12.5759458 20.4131294 12.5759458 35.7229765 20.9599097 35.7229765"></polygon>
+                            <path d="M19.1325831,0 C19.2765953,0 19.4199459,0.00235358925 19.5625823,0.00701700265 L19.5625823,17.8544712 C19.4199459,17.8591346 19.2765953,17.8614882 19.1325831,17.8614882 C13.1967918,17.8614882 8.38488209,13.8630579 8.38488209,8.93074411 C8.38488209,3.99843034 13.1967918,0 19.1325831,0 Z" id="Combined-Shape" fill="#D8D8D8" transform="translate(13.973732, 8.930744) scale(-1, 1) translate(-13.973732, -8.930744) "></path>
+                        </g>
+                        <g id="K" transform="translate(111.183379, 0.873330)">
+                            <rect id="Rectangle" fill="#D8D8D8" x="0" y="0" width="8.73329569" height="34.9331828"></rect>
+                            <polygon id="Path-16" fill="#EFDFDF" stroke-linejoin="round" points="8.73329569 18.5552245 20.1234479 0 8.73329569 0"></polygon>
+                            <polygon id="Path-16" fill="#EFDFDF" stroke-linejoin="round" transform="translate(14.428372, 26.199887) scale(1, -1) translate(-14.428372, -26.199887) " points="8.73329569 34.9331828 13.2413102 28.0202245 20.1234479 17.4665914 8.73329569 17.4665914"></polygon>
+                        </g>
+                        <g id="W" transform="translate(0.000000, 1.316052)">
+                            <polygon id="Path-15" fill="#F2DBDB" stroke-linejoin="round" points="0 0 31.7767029 0 15.8883514 37.110449"></polygon>
+                            <polygon id="Path-15" fill="#D8D8D8" stroke-linejoin="round" points="15.7199322 0 47.4966351 0 31.6082837 37.110449"></polygon>
+                            <line x1="23.6196978" y1="18.5552245" x2="31.6082837" y2="0" id="Path-14"></line>
+                        </g>
+                    </g>
+                    <g id="M" transform="translate(0.000000, 1.316052)">
+                        <polygon id="Path-15" fill="#D8D8D8" stroke-linejoin="round" transform="translate(15.888351, 18.555225) scale(1, -1) translate(-15.888351, -18.555225) " points="1.55134495e-14 7.44645577e-14 31.7767029 7.44645577e-14 15.8883514 37.110449"></polygon>
+                        <polygon id="Path-15" fill="#F2DBDB" stroke-linejoin="round" transform="translate(31.608284, 18.555225) scale(1, -1) translate(-31.608284, -18.555225) " points="15.7199322 4.96430385e-14 47.4966351 4.96430385e-14 31.6082837 37.110449"></polygon>
+                        <line x1="23.6304388" y1="17.814761" x2="32.9220606" y2="37.110449" id="Path-17"></line>
+                    </g>
+                    <g id="y" transform="translate(38.177348, 1.316052)" stroke-linecap="square" stroke-linejoin="round">
+                        <polygon id="Path-20" fill="#D8D8D8" points="-1.55134495e-15 -7.98942651e-14 10.7291074 13.487339 22.0782946 -7.98942651e-14"></polygon>
+                        <polygon id="Path-22" fill="#7F7070" points="24.3719219 0.767202892 6.86496173 22.1597973 13.0021488 37.110449 24.3719219 21.3922225"></polygon>
+                    </g>
+                </g>
+                <g id="logo" transform="translate(17.000000, 48.000000)" stroke="#7B6D7E">
+                    <polyline id="Path-15" stroke-linecap="round" stroke-linejoin="round" points="2.57571742e-14 -1.95399252e-14 2.57571742e-14 16.81826 5.64433973 16.81826 5.64433973 10.6864202 11.1238019 16.81826 11.1238019 7.07297701"></polyline>
+                    <circle id="Oval" stroke-width="0.5" cx="5.80999252" cy="7.57297701" r="1"></circle>
+                </g>
+            </g>
+            <g id="string1" transform="translate(83.000000, 31.000000)" stroke="#979797">
+                <g id="I" fill="#EDD9D9">
+                    <ellipse id="Oval" cx="11" cy="10" rx="10.5" ry="10"></ellipse>
+                </g>
+                <line x1="10.6082837" y1="90" x2="10.5" y2="20.5" id="Path-23"></line>
+            </g>
+            <g id="string2" transform="translate(148.000000, 16.000000)" stroke="#979797">
+                <ellipse id="Oval" fill="#FFF1F1" cx="10.5" cy="10" rx="10.5" ry="10"></ellipse>
+                <line x1="9.60828368" y1="98" x2="9.60828368" y2="19.6132812" id="Path-23"></line>
+            </g>
+            <g id="string3" transform="translate(205.000000, 0.000000)" stroke="#979797">
+                <ellipse id="Oval" fill="#E3D6E5" cx="10.5" cy="10" rx="10.5" ry="10"></ellipse>
+                <line x1="10.5" y1="105.5" x2="10.5" y2="19.5" id="Path-23"></line>
+            </g>
+        </g>
+    </g>
+</svg>
