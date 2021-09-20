@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="123px" viewBox="0 0 119 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>yellow_paper_plane</title>
+    <g id="Landing-page_04" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yellow_paper_plane" transform="translate(59.000000, 61.500000) rotate(120.000000) translate(-59.000000, -61.500000) translate(13.000000, 21.000000)" stroke="#979797" stroke-width="0.5">
+            <g id="Group-3" transform="translate(0.130704, 0.046571)">
+                <polygon id="Path-2" fill="#E6E6E6" stroke-linejoin="round" points="28.7243842 64.9434374 58.7303669 79.666919 90.8456037 1.05043952e-13"></polygon>
+                <polygon id="Path-3" fill="#D8D8D8" points="37.4703476 69.2705882 28.3815023 79.07303 28.7243842 64.9434374"></polygon>
+                <polygon id="Path-4" fill="#D8D8D8" points="28.3815023 79.07303 16.9215725 56.9188463 90.8456037 1.13822822e-13 28.7306727 64.7418438"></polygon>
+                <polygon id="Path-5" fill="#E6E6E6" points="16.9215725 56.9188463 1.75073253e-14 45.1116987 90.8456037 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
