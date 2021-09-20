@@ -43,7 +43,7 @@ section {
   // }
 
   &:nth-of-type(1){
-    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+    background-image: linear-gradient(to top,  #F3E3EA, 0%, #F3E3EA 100%);
   }
 
   &:nth-of-type(2){
@@ -307,14 +307,8 @@ $panelcount:4;
 }
 
 .plane {
-  /* define the size of your plane */
-  width: 15.2%;
-  max-width: 800px;
-  height: 30.6%;
-  position: absolute;
-  top: 70vh;
-  left:50%;
-  margin: 0 auto;
+
+
   z-index:1000;
  }
 
@@ -330,7 +324,11 @@ $panelcount:4;
 
 
 .plane img {
-  display:none;
+  // display:none;
+      position: absolute;
+    left: 45%;
+    bottom: 60%;
+    width:220px;
  }
 
 
