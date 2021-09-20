@@ -104,6 +104,7 @@
   color: #113a63;
   overflow-x: hidden !important;
   width:20px;
+  visibility: hidden;
 }
 
 
@@ -213,6 +214,7 @@ font-size:18px;
  top: 335px;
     right: 30px;
   animation:movearound  5s infinite;
+  visibility:hidden;
 }
 
 .daisy {
@@ -221,6 +223,7 @@ font-size:18px;
   top: 260px;
   width: 60px;
   animation:rotation 6s infinite linear;
+  display:none;
 
 }
 
