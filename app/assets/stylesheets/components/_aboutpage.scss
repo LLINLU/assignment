@@ -320,13 +320,15 @@ bottom:90px;
 
 .greeting {
     color:white;
-    font-family: 'Chalkduster';
-    font-size:22px;
+    font-family: 'Ubuntu';
+    font-size:100px;
     position: absolute;
-    top: 480px;
+    // top: 480px;
     width: 100%;
-    text-align: center;
+    // text-align: center;
     z-index: 100;
+    opacity:0.5;
+    padding-left:10%;
 }
 
 .downward {
