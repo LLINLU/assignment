@@ -51,6 +51,7 @@ import { scrollSpy } from '../components/scrollSpy';
 import { scrollEvent} from '../components/scrollEvent';
 import { backToTop } from '../components/backToTop';
 import { navbarAppear } from '../components/navbarAppear';
+import { moveCalendar } from '../components/moveCalendar';
 document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
@@ -80,4 +81,5 @@ document.addEventListener('turbolinks:load', () => {
   scrollEvent();
   backToTop();
   navbarAppear();
+  moveCalendar();
 });
