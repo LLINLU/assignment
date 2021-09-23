@@ -1,5 +1,6 @@
 const moveCalendar = () => {
 const calendar = document.querySelector('.calendarMove');
+if (calendar){
 window.addEventListener('scroll', ()=> {
 const scrolled = window.pageYOffset;
 const val = scrolled * 0.5;
@@ -10,7 +11,7 @@ calendar.style. width = `${0.1 * val}px`;
 
 
 })
-
-
+}
+}
 
 export {moveCalendar}
