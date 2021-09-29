@@ -199,8 +199,16 @@ font-size:18px;
   width: 80%;
   padding-top:50px;
   margin: auto auto;
-
 }
+
+
+// .txt-pic {
+//   padding-top:90px;
+//   margin: auto auto;
+//   }
+
+
+
 
 .ribbon {
   z-index:1000;
@@ -210,8 +218,6 @@ font-size:18px;
   width: 140px;
 
 }
-
-
 
 
 .pic_group {
@@ -513,11 +519,15 @@ bottom:90px;
 .footcopy {
   padding-top: 30px;
   color: #676767;
-
 }
 
 
-
+@media screen and (max-width:480px) {
+.footcopy {
+  padding-top: 60px;
+  color: #676767;
+}
+}
 
 @media screen and (max-width:960px) {
   .big_title {
@@ -866,6 +876,8 @@ bottom:90px;
   display:flex;
   flex-direction: column-reverse;
 }
+
+
 .self-picture {
 
   top: 100%;
@@ -876,10 +888,11 @@ bottom:90px;
 
 }
 .social-icons-buttom {
-      position: absolute;
-    top: -32px;
+    position: absolute;
+    bottom: -52px;
     z-index: 10000000000;
 }
+
 .social-icons {
 
        overflow-x: hidden !important;
