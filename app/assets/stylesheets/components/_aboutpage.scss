@@ -871,11 +871,15 @@ bottom:90px;
   top: 100%;
     width: 300px;
     position: relative;
-       margin-left: 4em;
+    margin-left: 4em;
     margin-top: 2em;
 
 }
-
+.social-icons-buttom {
+      position: absolute;
+    top: -32px;
+    z-index: 10000000000;
+}
 .social-icons {
 
        overflow-x: hidden !important;
