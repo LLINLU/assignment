@@ -580,9 +580,8 @@ $panelcount:4;
 @media screen and (max-width:480px) {
   .description {
     position: absolute;
-     top: 22%;
+    top: 28%;
     left: 12%;
-    // padding:0 20px;
   }
 
 }
@@ -634,10 +633,10 @@ $panelcount:4;
   .project-image-group {
     position: absolute;
     right: 95%;
-    top: 35%;
+    top: 43%;
   }
   .project-image {
-    width:350px;
+    width:320px;
   }
 }
 
@@ -1033,7 +1032,7 @@ opacity:0.1;
 
 
   .simplicruit-image-group {
-    top: 62%;
+    top: 68%;
     z-index: 10000;
 right:0%;
     width:280px;
@@ -1043,7 +1042,7 @@ right:0%;
   .monitor {
   width: 300px;
   position: absolute;
-  top: 58%;
+  top: 64%;
   opacity: 0.8;
   right: 10%;
   z-index: 9999;
