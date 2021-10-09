@@ -366,10 +366,14 @@ z-index: 100000000000000000;
 }
 
 .plane-transition-sp  {
-      width: 100%;
+    width: 100%;
     height: 100px;
     background-color: #e3edfd;s
     position: relative;
     padding-left: 30%;
 }
 
+
+.plane-transition-sp img {
+  width: 60px;
+}
