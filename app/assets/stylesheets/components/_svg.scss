@@ -27,10 +27,17 @@ svg {
   svg {
   width:390px;
   height:auto;
-  // margin-left: 2%;
+  margin-left:10px;
 }
 }
 
+@media screen and (max-width: 376px){
+  svg {
+  width:370px;
+  height:auto;
+  margin-left:0px;
+}
+}
 
 .girl_img {
   text-align: right;
