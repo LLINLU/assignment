@@ -5,10 +5,10 @@
 }
 
 
-.girl_img_sp svg {
-  transform:translateX(20px);
+// .girl_img_sp svg {
+//   transform:translateX(20px);
 
-}
+// }
 
 .intro-sp {
   background-image: linear-gradient(to top, #F4E3EA 0%, #FAEAEE 509%, #F4ECF1 100%);
@@ -342,10 +342,10 @@ z-index: 100000000000000000;
 .frame-sp {
     width: 330px;
     position: absolute;
-    top: 59%;
+    top: 58%;
     opacity: 0.8;
     z-index: 99999;
-    transform: translateX(16%);
+    right:23px;
 }
 
 
@@ -382,6 +382,6 @@ z-index: 100000000000000000;
 .graphic-image-sp {
   width:330px;
    position:absolute;
-    right: 48px;
+  right:40px;
     top: -5px;
 }
