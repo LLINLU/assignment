@@ -340,12 +340,12 @@ z-index: 100000000000000000;
 
 
 .frame-sp {
-    width: 285px;
+    width: 330px;
     position: absolute;
     top: 59%;
     opacity: 0.8;
-    right: 20%;
     z-index: 99999;
+    transform: translateX(16%);
 }
 
 
@@ -380,5 +380,8 @@ z-index: 100000000000000000;
 
 
 .graphic-image-sp {
-  width:320px;
+  width:330px;
+   position:absolute;
+    right: 48px;
+    top: -5px;
 }
