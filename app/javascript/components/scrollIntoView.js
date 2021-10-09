@@ -8,6 +8,8 @@ const scrollIntoView = () => {
   const portfolio = document.querySelector('.portfolio');
   const homeContact = document.querySelector('#contact');
   const curlyArrow = document.querySelector('.curly-arrow');
+  const cookpal_down = document.querySelector('.cookpal-down');
+  const cookpal_overview = document.querySelector('#overview');
 
 if (arrow) {
 
@@ -40,17 +42,22 @@ up.addEventListener("click", () => {
 
 
 if (work_down) {
-work_down.addEventListener("click", () => {
+  work_down.addEventListener("click", () => {
   portfolio.scrollIntoView({behavior:"smooth"});
 });
 };
 
 if (curlyArrow) {
-curlyArrow.addEventListener("click", () => {
+  curlyArrow.addEventListener("click", () => {
   homeContact.scrollIntoView({behavior:"smooth"});
 });
 };
 
+if (cookpal_down) {
+  cookpal_down.addEventListener("click", () => {
+  cookpal_overview.scrollIntoView({behavior:"smooth"});
+});
+};
 
 
 }
