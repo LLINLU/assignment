@@ -8,8 +8,6 @@ calendar.style.transform = `translateX(${0.5 * val}%)`;
 calendar.style. height = `${0.7 * val}px`;
 calendar.style. width = `${0.7 * val}px`;
 
-
-
 })
 
 }

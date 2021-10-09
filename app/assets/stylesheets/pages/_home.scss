@@ -65,7 +65,7 @@ section {
     background-image:linear-gradient(to top, #f3e3ea  0%, #f3e3ea 90%);
   }
   section:nth-of-type(2){
-    background-image: linear-gradient(to top,  #eddeeb 0%, #f9dddd  50%, #f3e3ea 100%);
+    background-image: linear-gradient(to top,  #eddeeb 0%, #ffeded  50%, #f3e3ea 100%);
   }
    section:nth-of-type(3) {
   background-image: linear-gradient(to top, #0466da4d  0%, #167ffb40  50%, #eddeeb 100%);
@@ -1034,17 +1034,17 @@ opacity:0.1;
   .simplicruit-image-group {
     top: 68%;
     z-index: 10000;
-    right:7%;
+    right:2%;
     width:280px;
 
 }
 
   .monitor {
-  width: 300px;
+  width: 330px;
   position: absolute;
   top: 64%;
   opacity: 0.8;
-  right: 16%;
+  right: 11%;
   z-index: 9999;
   }
 
