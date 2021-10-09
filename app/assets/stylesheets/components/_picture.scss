@@ -70,7 +70,7 @@
  }
 }
 
-.project-image-group img, .simplicruit-image-group img {
+.project-image-group img, .simplicruit-image-group img, .graphic-image-group img {
   -webkit-animation-name: imgFade;
   -webkit-animation-timing-function: ease-in-out;
   -webkit-animation-iteration-count: infinite;
@@ -123,6 +123,6 @@
     top:45%;
     opacity:0.8;
   right:8%;
-    z-index: 99999;
+    z-index: 9999;
 }
 
