@@ -22,14 +22,6 @@ arrow.addEventListener("click", () => {
 
 };
 
-if (down) {
-down.addEventListener("click", () => {
-  introsection.scrollIntoView({behavior:"smooth"});
-
-
-
-});
-};
 
 
 if (up) {
