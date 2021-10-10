@@ -404,18 +404,39 @@ z-index: 100000000000000000;
 .lastMsg {
   text-align:center;
   font-family: 'Ubuntu', sans-serif;
-  font-size:22px;
-   color:#4e3c4e;
+  font-size:26px;
+  color:#4e3c4e;
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 60px;
 }
 
+
+
 .social-icons-buttom-sp {
-font-size:30px;
+
 color:#4e3c4e;
 text-align:center;
 }
 
 
 .social-icons-buttom-sp a {
-    margin: 0 10px;
+margin: 0 10px;
 color:#4e3c4e;
+font-size:26px;
 }
+
+.social-icons-buttom-sp a:hover {
+color:#755875;
+}
+
+
+.plant-sp{
+    height: 180px;
+    width: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+    position: absolute;
+    bottom: -10px;
+    left: 120px;
+  }
