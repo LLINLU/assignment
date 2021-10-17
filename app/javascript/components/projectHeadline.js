@@ -1,17 +1,17 @@
 const headlineAppear = () => {
-  const introText = document.querySelector ('.text');
-  if(introText){
-  console.log(introText);
-  let introPosition = introText.getBoundingClientRect().top;
-  console.log(introPosition);
+  const popupHl= document.querySelector ('.popupHl');
+  if(popupHl){
+
+  let HlPosition = popupHl.getBoundingClientRect().top;
+
   let screenPosition = window.innerHeight / 1.2;
 
-    if (introPosition < screenPosition) {
-      console.log('yes')
-      introText.classList.add('intro-appear');
+    if (HlPosition < screenPosition) {
+
+      popupHl.classList.add('intro-appear');
     }
-    else if (introPosition >= screenPosition && true) {
-      introText.classList.remove('intro-appear');
+    else if (HlPosition >= screenPosition && true) {
+      popupHl.classList.remove('intro-appear');
     }
   }
   }
