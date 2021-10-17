@@ -18,4 +18,4 @@ const headlineAppear = () => {
 
 window.addEventListener('scroll',scrollApear)
 
-export {scrollApear}
+export {headlineAppear}
