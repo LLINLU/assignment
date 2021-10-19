@@ -1,10 +1,11 @@
 const headlineAppear = () => {
-  const popupHl= document.querySelector ('.popupHl');
-  if(popupHl){
+  const popupHls= document.querySelectorAll ('.popupHl');
+  if(popupHls){
 
-  let HlPosition = popupHl.getBoundingClientRect().top;
+ popupHls.forEach(popupHl => {
+    let HlPosition = popupHl.getBoundingClientRect().top;
 
-  let screenPosition = window.innerHeight / 1.2;
+  let screenPosition = window.innerHeight / 2;
 
     if (HlPosition < screenPosition) {
 
@@ -13,9 +14,10 @@ const headlineAppear = () => {
     else if (HlPosition >= screenPosition && true) {
       popupHl.classList.remove('hl-appear');
     }
-  }
-  }
+  });
+ }
+}
 
-window.addEventListener('scroll',scrollApear)
+window.addEventListener('scroll',headlineAppear)
 
 export {headlineAppear}
