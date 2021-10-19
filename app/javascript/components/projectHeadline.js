@@ -8,10 +8,10 @@ const headlineAppear = () => {
 
     if (HlPosition < screenPosition) {
 
-      popupHl.classList.add('intro-appear');
+      popupHl.classList.add('hl-appear');
     }
     else if (HlPosition >= screenPosition && true) {
-      popupHl.classList.remove('intro-appear');
+      popupHl.classList.remove('hl-appear');
     }
   }
   }
