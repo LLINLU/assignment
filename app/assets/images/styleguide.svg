@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1517px" height="1023px" viewBox="0 0 1517 1023" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 26</title>
+    <defs>
+        <linearGradient x1="-5.80845622%" y1="77.2485141%" x2="95.5097062%" y2="34.1661165%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" offset="0%"></stop>
+            <stop stop-color="#D7A1A1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-16.1743272%" y1="73.1243606%" x2="87.2973444%" y2="35.9927388%" id="linearGradient-2">
+            <stop stop-color="#E6CCEE" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-16.1743272%" y1="73.1243606%" x2="87.2973444%" y2="35.9927388%" id="linearGradient-3">
+            <stop stop-color="#EDD7D7" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="cookpal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-266.000000, -3471.000000)">
+            <g id="Group-26" transform="translate(266.000000, 3471.000000)">
+                <g id="Group-18" transform="translate(936.000000, 0.000000)">
+                    <path d="M308.056526,0 L30.8087363,109.798779 C20.5390716,113.865887 15.5109058,125.488137 19.5780135,135.757802 C20.7737536,138.777109 22.6867335,141.459832 25.1516359,143.574134 L208.792176,301.094128 C217.316213,308.405729 229.210072,310.344237 239.614641,306.117696 L491,204 L491,204 L491,0 L308.056526,0 Z" id="Path-44" fill="url(#linearGradient-1)" opacity="0.229143415"></path>
+                    <path d="M308.056526,85 L30.8087363,194.798779 C20.5390716,198.865887 15.5109058,210.488137 19.5780135,220.757802 C20.7737536,223.777109 22.6867335,226.459832 25.1516359,228.574134 L208.792176,386.094128 C217.316213,393.405729 229.210072,395.344237 239.614641,391.117696 L491,289 L491,289 L491,85 L308.056526,85 Z" id="Path-44" fill="url(#linearGradient-2)" opacity="0.316336496"></path>
+                    <path d="M308.056526,176 L30.8087363,285.798779 C20.5390716,289.865887 15.5109058,301.488137 19.5780135,311.757802 C20.7737536,314.777109 22.6867335,317.459832 25.1516359,319.574134 L208.792176,477.094128 C217.316213,484.405729 229.210072,486.344237 239.614641,482.117696 L491,380 L491,380 L491,176 L308.056526,176 Z" id="Path-44" fill="url(#linearGradient-3)" opacity="0.316336496"></path>
+                </g>
+                <g id="Group-19" transform="translate(359.000000, 198.000000)">
+                    <rect id="Rectangle" fill="#6F5E74" x="0" y="0" width="120" height="120" rx="30"></rect>
+                    <text id="#6F5E74" font-family="LaoMN-Bold, Lao MN" font-size="23" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="13" y="70">#6F5E74</tspan>
+                    </text>
+                </g>
+                <g id="Group-20" transform="translate(539.000000, 196.000000)">
+                    <rect id="Rectangle" fill="#FFBBB6" x="0" y="0" width="120" height="120" rx="30"></rect>
+                    <text id="#FFBBB6" font-family="LaoMN-Bold, Lao MN" font-size="23" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="7" y="70">#FFBBB6</tspan>
+                    </text>
+                </g>
+                <g id="Group-21" transform="translate(722.000000, 196.000000)">
+                    <rect id="Rectangle" fill="#F1BCBC" x="0" y="0" width="120" height="120" rx="30"></rect>
+                    <text id="#F1BCBC" font-family="LaoMN-Bold, Lao MN" font-size="23" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="6" y="70">#F1BCBC</tspan>
+                    </text>
+                </g>
+                <g id="Group-22" transform="translate(902.000000, 196.000000)">
+                    <rect id="Rectangle" fill-opacity="0.906605114" fill="#F7B500" x="0" y="0" width="120" height="120" rx="30"></rect>
+                    <text id="#F7B500" font-family="LaoMN-Bold, Lao MN" font-size="23" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="12" y="70">#F7B500</tspan>
+                    </text>
+                </g>
+                <text id="FONT-FAMILY" font-family="Futura-Medium, Futura" font-size="23" font-weight="400" fill="#9DB0CF">
+                    <tspan x="40" y="431">FONT FAMILY </tspan>
+                </text>
+                <text id="HEADLINES" font-family="Futura-Medium, Futura" font-size="23" font-weight="400" fill="#9DB0CF">
+                    <tspan x="40" y="796">HEADLINES</tspan>
+                </text>
+                <text id="MAINTEXT" font-family="Futura-Medium, Futura" font-size="23" font-weight="400" fill="#9DB0CF">
+                    <tspan x="1075" y="811">MAINTEXT</tspan>
+                </text>
+                <text id="CHARACTER" font-family="Futura-Medium, Futura" font-size="23" font-weight="400" fill="#9DB0CF">
+                    <tspan x="1056" y="576">CHARACTER </tspan>
+                </text>
+                <text id="Futura" font-family="Futura-Medium, Futura" font-size="60" font-weight="400" fill="#494D4C">
+                    <tspan x="37" y="502">Futura</tspan>
+                </text>
+                <text id="Headline-1" font-family="Futura-Bold, Futura" font-size="40" font-weight="bold" fill="#6F5E74">
+                    <tspan x="40" y="862">Headline 1</tspan>
+                </text>
+                <text id="Main-text-1" font-family="Futura-Medium, Futura" font-size="36" font-weight="400" fill="#6F5E74">
+                    <tspan x="1010" y="872">Main text 1</tspan>
+                </text>
+                <text id="Main-text-2" font-family="Futura-Medium, Futura" font-size="31" font-weight="400" fill="#6F5E74">
+                    <tspan x="1034" y="937">Main text 2</tspan>
+                </text>
+                <text id="Headline-2" font-family="Futura-Bold, Futura" font-size="34" font-weight="bold" fill="#6F5E74">
+                    <tspan x="40" y="938">Headline 2</tspan>
+                </text>
+                <text id="Medium" font-family="Futura-Medium, Futura" font-size="38" font-weight="400" fill="#494D4C">
+                    <tspan x="358" y="499">Medium</tspan>
+                </text>
+                <text id="Bold" font-family="Futura-Bold, Futura" font-size="38" font-weight="bold" fill="#494D4C">
+                    <tspan x="569" y="499">Bold</tspan>
+                </text>
+                <text id="COLORS-&amp;-TYPOGRAPHY" font-family="Krungthep" font-size="60" font-weight="bold" fill="#6F5E74">
+                    <tspan x="0" y="64">COLORS &amp; TYPOGRAPHY</tspan>
+                </text>
+                <text id="ABCDEFGHIJKLMNOPQRST" font-family="Futura-Medium, Futura" font-size="34" font-weight="400" line-spacing="60" fill="#6D7278">
+                    <tspan x="370.810547" y="629">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmno</tspan>
+                    <tspan x="406.769531" y="689">pqrstuvwxyz1234567890!?@#$*^=+-:/?.,”|\~&gt;&lt;…</tspan>
+                </text>
+                <text id="A" font-family="LaoMN-Bold, Lao MN" font-size="200" font-weight="bold" fill="#B7C9E6">
+                    <tspan x="23" y="316">A</tspan>
+                </text>
+                <text id="a" font-family="LaoMN-Bold, Lao MN" font-size="172" font-weight="bold" fill="#9DB0CF">
+                    <tspan x="176" y="308">a</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
