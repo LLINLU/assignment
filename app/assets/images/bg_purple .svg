@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1923px" height="4220px" viewBox="0 0 1923 4220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg_purple </title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#6F5E74" offset="0%"></stop>
+            <stop stop-color="#FFD6D6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#D7A1A1" offset="0%"></stop>
+            <stop stop-color="#6F5E74" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="cookpal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -4536.000000)">
+            <g id="bg_purple-" transform="translate(0.000000, 4536.000000)">
+                <g id="bg1">
+                    <path d="M0,402.807917 C336.525,210.696079 688.629861,107.923259 1056.31458,94.4894578 C1423.99931,81.0556569 1712.89444,76.9631479 1923,82.2119309 L1923,1807 L0,1807 L0,402.807917 Z" id="Rectangle" fill="#6F5E74"></path>
+                    <path d="M1122.12605,1440 C1330.9593,1440 1698,966.774437 1698,743.222127 C1698,519.669818 1330.9593,630.445473 1122.12605,630.445473 C913.292799,630.445473 744,811.670427 744,1035.22274 C744,1258.77505 913.292799,1440 1122.12605,1440 Z" id="Oval" fill="#D7A1A1" opacity="0.138392857"></path>
+                    <path d="M966.729692,1476 C1175.34404,1476 1542,1002.20905 1542,778.389657 C1542,554.570259 1175.34404,665.478264 966.729692,665.478264 C758.115344,665.478264 589,846.919735 589,1070.73913 C589,1294.55853 758.115344,1476 966.729692,1476 Z" id="Oval" fill-opacity="0.102545892" fill="#EBAF9A" opacity="0.681431362"></path>
+                    <g id="DOTS-TRIN" transform="translate(241.000000, 184.000000) scale(1, -1) translate(-241.000000, -184.000000) translate(89.000000, 0.000000)">
+                        <circle id="Oval" fill="#D7A1A1" cx="257" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#D7A1A1" cx="177" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="132" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="91" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="48" cy="45" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="5" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="48" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="300" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="258" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="219" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="177" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="132" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="91" cy="4" r="4"></circle>
+                        <circle id="Oval" fill="#D7A1A1" cx="219" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="177.5" cy="100.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="135.5" cy="100.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="92.5" cy="100.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="48" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="94" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="134" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="178" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="219" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#D7A1A1" cx="219" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="177.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="135.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="92.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#D7A1A1" opacity="0.700265067" cx="49.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#D7A1A1" opacity="0.700265067" cx="94.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#D7A1A1" opacity="0.700265067" cx="137.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#D7A1A1" opacity="0.700265067" cx="179.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="92.5" cy="245.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="94.5" cy="196.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="94.5" cy="196.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="138" cy="195" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="50.5" cy="196.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="6.5" cy="196.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="6.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="5" cy="100" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="5" cy="45" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.61557583" fill="#EBAF9A" cx="49.5" cy="245.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.61557583" fill="#EBAF9A" cx="6.5" cy="245.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.655184659" fill="#D7A1A1" cx="48.5" cy="304.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.614701705" fill="#D7A1A1" cx="6" cy="361" r="6"></circle>
+                        <circle id="Oval" fill-opacity="0.541985358" fill="#D7A1A1" cx="5.5" cy="304.5" r="5.5"></circle>
+                    </g>
+                    <g id="DOTS-TRIN" opacity="0.618350074" transform="translate(1742.500000, 1558.000000) scale(-1, -1) translate(-1742.500000, -1558.000000) translate(1591.000000, 1374.000000)">
+                        <circle id="Oval" fill="#D7A1A1" cx="256" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#D7A1A1" cx="176" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="132" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="91" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="48" cy="45" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="5" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="48" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="299" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="257" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="219" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="176" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="132" cy="4" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.753769668" fill="#D7A1A1" cx="91" cy="4" r="4"></circle>
+                        <circle id="Oval" fill="#D7A1A1" cx="219" cy="45" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="48" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="93" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="133" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="176" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#EBAF9A" cx="219" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#D7A1A1" cx="219" cy="100" r="4"></circle>
+                        <circle id="Oval" fill="#D7A1A1" opacity="0.700265067" cx="49.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#D7A1A1" opacity="0.700265067" cx="94.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#D7A1A1" opacity="0.700265067" cx="135.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill="#D7A1A1" opacity="0.700265067" cx="175.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="91.5" cy="245.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="94.5" cy="196.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="94.5" cy="196.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="137" cy="195" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="50.5" cy="196.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="6.5" cy="196.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="6.5" cy="145.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="5" cy="100" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.615002185" fill="#EBAF9A" cx="5" cy="45" r="4"></circle>
+                        <circle id="Oval" fill-opacity="0.61557583" fill="#EBAF9A" cx="49.5" cy="245.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.61557583" fill="#EBAF9A" cx="6.5" cy="245.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.655184659" fill="#D7A1A1" cx="47.5" cy="304.5" r="5.5"></circle>
+                        <circle id="Oval" fill-opacity="0.614701705" fill="#D7A1A1" cx="6" cy="361" r="6"></circle>
+                        <circle id="Oval" fill-opacity="0.541985358" fill="#D7A1A1" cx="5.5" cy="304.5" r="5.5"></circle>
+                    </g>
+                </g>
+                <g id="Group-27" transform="translate(0.000000, 1726.000000)">
+                    <path d="M0,80 L1923,80 L1923,1544 C1465.88293,1511.93844 1123.13472,1474.6733 894.755375,1432.20458 C666.376031,1389.73585 368.12424,1307.80259 0,1186.4048 L0,80 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                    <path d="M619.450935,1076.54125 C842.01175,1076.36832 1233.54651,603.562432 1233.71985,380.351852 C1233.89307,157.141273 842.639247,268.051306 620.078431,268.224109 C397.517616,268.396911 216.955957,449.484922 216.782554,672.695501 C216.609401,895.906081 396.890119,1076.71392 619.450935,1076.54125 Z" id="Oval" fill-opacity="0.102545892" fill="#EBAF9A" opacity="0.681431362" transform="translate(725.251202, 658.529917) rotate(48.000000) translate(-725.251202, -658.529917) "></path>
+                    <line x1="236.5" y1="142" x2="236.5" y2="2490.33343" id="Path-48" stroke="url(#linearGradient-2)" stroke-width="6.66702206" opacity="0.330054874" stroke-linecap="square" stroke-dasharray="13.33404412350819,22.66787500996392"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
