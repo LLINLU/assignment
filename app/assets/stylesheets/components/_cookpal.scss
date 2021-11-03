@@ -198,9 +198,9 @@ opacity:0.3;
 
 .cp_iphone_02 {
   position: relative;
-  left: 400px;
+  // left: 400px;
   width: 260px;
-  top: 100px;
+  // top: 100px;
 }
 
 .visual_txt01 {
@@ -225,4 +225,10 @@ opacity:0.3;
 
 .cp_screen_txt .cp_iphone_01 {
   padding-bottom:30px;
+}
+
+
+.cp_screen {
+  display:flex;
+  flex-direction:row;
 }
