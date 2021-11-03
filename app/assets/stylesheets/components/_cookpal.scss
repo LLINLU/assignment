@@ -190,9 +190,9 @@ opacity:0.3;
 
 .cp_iphone_01 {
      position: relative;
-    left: 200px;
+    // left: 200px;
     width: 260px;
-    top: 240px;
+    // top: 240px;
 }
 
 
@@ -210,4 +210,19 @@ opacity:0.3;
     position: relative;
     top: 13em;
     color: white;
+}
+
+.cp_screen_txt {
+  display:flex;
+  flex-direction:column;
+}
+
+
+.cp_screen_txt .subheadline {
+  padding-bottom:30px;
+}
+
+
+.cp_screen_txt .cp_iphone_01 {
+  padding-bottom:30px;
 }
