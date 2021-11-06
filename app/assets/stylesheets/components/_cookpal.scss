@@ -269,11 +269,16 @@ justify-content: space-evenly;
     position: relative;
     /* top: 240px; */
     left: 5%;
-    padding-top: 320px;
+    padding-top: 400px;
     width: 80%;
 }
 
 
 .second_line img {
-  width:260px;
+  width:240px;
+}
+
+.screenshot:nth-child(2)  {
+    position: relative;
+    bottom: 50px;
 }
