@@ -236,9 +236,10 @@ opacity:0.3;
 
 
 .left_screen_txt {
-      position: relative;
+    position: relative;
     top: 240px;
     left: 10%;
+    align-items: center;
 }
 
 
@@ -246,4 +247,18 @@ opacity:0.3;
     position: relative;
     left: 240px;
     top:120px;
+    align-items: center;
+}
+
+.subheadline{
+  width: 60%;
+}
+
+.cp_iphone_02{
+  padding-bottom:30px;
+}
+
+
+.navbar_cookpal ul{
+  background-color: #ffffff7a;
 }
