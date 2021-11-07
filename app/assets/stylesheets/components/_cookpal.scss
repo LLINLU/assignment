@@ -266,11 +266,10 @@ padding-top:240px;
 
 .second_line {
 justify-content: space-evenly;
-    position: relative;
-    /* top: 240px; */
-    left: 5%;
-    padding-top: 400px;
-    width: 80%;
+position: relative;
+left: 5%;
+width: 80%;
+padding-top: 250px;
 }
 
 
@@ -284,9 +283,27 @@ justify-content: space-evenly;
 }
 
 .title_onboarding {
-    top: 100px;
-    left: 64%;
+
     color: white;
     font-size: 32px;
     font-weight: bold;
+}
+
+
+.cp_title_intro {
+  display:flex;
+  flex-direction:column;
+  position:relative;
+  top: 100px;
+  left: 60%;
+  display:inline-block;
+  text-align:right;
+  color:white;
+}
+
+
+
+.subtitle_onboarding {
+
+  text-align:right;
 }
