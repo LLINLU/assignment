@@ -134,5 +134,8 @@
                 <line x1="4.41739704" y1="11.291995" x2="3.98967301" y2="27.1725204" id="Path-4" stroke-width="3" stroke-linecap="round" transform="translate(4.203535, 19.232258) rotate(-1.542823) translate(-4.203535, -19.232258) "></line>
             </g>
         </g>
+        <g id="Home-Indicator" transform="translate(0.000000, 672.000000)" fill="#000000">
+            <rect x="120.5" y="21" width="134" height="5" rx="2.5"></rect>
+        </g>
     </g>
 </svg>

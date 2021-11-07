@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="374px" height="709px" viewBox="0 0 374 709" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Onboard1</title>
+    <title>Onboard1_thin</title>
     <defs>
         <rect id="path-1" x="0" y="0" width="375" height="700" rx="39"></rect>
     </defs>
-    <g id="Onboard1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-26" transform="translate(0.000000, 9.000000)" fill="#FFFFFF" stroke="#D7A1A1" stroke-width="2">
-            <rect id="Rectangle" x="1" y="1" width="372" height="698" rx="50"></rect>
+    <g id="Onboard1_thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-26" transform="translate(0.000000, 9.000000)" fill="#FFFFFF" stroke="#D7A1A1">
+            <rect id="Rectangle" x="0.5" y="0.5" width="373" height="699" rx="50"></rect>
         </g>
         <g id="Display-Shape" transform="translate(0.000000, 9.000000)">
             <mask id="mask-2" fill="white">
@@ -58,6 +58,9 @@
                 <path d="M4.28520158,3.74811293e-13 C2.78565089,3.74811293e-13 1.7750261,2.03861733 1.06432911,3.42622741 C0.353632125,4.8138375 -0.456953984,5.97499577 0.310497856,8.00484433 C1.0779497,10.0346929 2.72693709,10.9041761 3.92318816,10.9041761 C5.11943924,10.9041761 6.59172675,9.83333061 7.2817604,8.42666742 C7.97179405,7.02000423 7.78999653,5.13292323 7.2817604,3.76256029 C6.77352427,2.39219735 5.78475227,3.74811293e-13 4.28520158,3.74811293e-13 Z" id="Path-3" stroke-width="2.5"></path>
                 <line x1="4.41739704" y1="11.291995" x2="3.98967301" y2="27.1725204" id="Path-4" stroke-width="3" stroke-linecap="round" transform="translate(4.203535, 19.232258) rotate(-1.542823) translate(-4.203535, -19.232258) "></line>
             </g>
+        </g>
+        <g id="Home-Indicator" transform="translate(-1.000000, 672.000000)" fill="#000000">
+            <rect x="120.5" y="21" width="134" height="5" rx="2.5"></rect>
         </g>
     </g>
 </svg>
