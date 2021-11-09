@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1456px" height="1443px" viewBox="0 0 1456 1443" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1440px" height="1443px" viewBox="0 0 1440 1443" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>bg_02</title>
     <g id="layout_profile-web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="bg_02">
-            <rect id="Rectangle" fill="#DFE6EB" x="16" y="0" width="1440" height="1443"></rect>
-            <g id="DOTS-TRIN" opacity="0.618350074" transform="translate(197.500000, 148.328267) scale(1, -1) translate(-197.500000, -148.328267) translate(84.000000, 10.828267)">
+            <rect id="Rectangle" fill="#DFE6EB" x="0" y="0" width="1440" height="1443"></rect>
+            <g id="DOTS-TRIN" opacity="0.618350074" transform="translate(181.500000, 148.328267) scale(1, -1) translate(-181.500000, -148.328267) translate(68.000000, 10.828267)">
                 <circle id="Oval" fill="#D7A1A1" cx="192" cy="34" r="3"></circle>
                 <circle id="Oval" fill="#D7A1A1" cx="132" cy="34" r="3"></circle>
                 <circle id="Oval" fill="#EBAF9A" cx="99" cy="34" r="3"></circle>
@@ -44,7 +44,7 @@
                 <circle id="Oval" fill-opacity="0.614701705" fill="#D7A1A1" cx="4.5" cy="270.5" r="4.5"></circle>
                 <circle id="Oval" fill-opacity="0.541985358" fill="#D7A1A1" cx="4" cy="228" r="4"></circle>
             </g>
-            <g id="DOTS-TRIN" opacity="0.618350074" transform="translate(1328.500000, 859.328267) scale(-1, -1) translate(-1328.500000, -859.328267) translate(1215.000000, 721.828267)">
+            <g id="DOTS-TRIN" opacity="0.618350074" transform="translate(1312.500000, 859.328267) scale(-1, -1) translate(-1312.500000, -859.328267) translate(1199.000000, 721.828267)">
                 <circle id="Oval" fill="#D7A1A1" cx="192" cy="34" r="3"></circle>
                 <circle id="Oval" fill="#D7A1A1" cx="132" cy="34" r="3"></circle>
                 <circle id="Oval" fill="#EBAF9A" cx="99" cy="34" r="3"></circle>
@@ -84,8 +84,8 @@
                 <circle id="Oval" fill-opacity="0.614701705" fill="#D7A1A1" cx="4.5" cy="270.5" r="4.5"></circle>
                 <circle id="Oval" fill-opacity="0.541985358" fill="#D7A1A1" cx="4" cy="228" r="4"></circle>
             </g>
-            <path d="M425,1068.82827 C581.296584,1068.82827 856,714.333132 856,546.869215 C856,379.405298 581.296584,462.387779 425,462.387779 C268.703416,462.387779 142,598.144106 142,765.608023 C142,933.071939 268.703416,1068.82827 425,1068.82827 Z" id="Oval" fill="#B7C9E6" opacity="0.138392857"></path>
-            <path d="M283,880.828267 C439.296584,880.828267 714,526.333132 714,358.869215 C714,191.405298 439.296584,274.387779 283,274.387779 C126.703416,274.387779 0,410.144106 0,577.608023 C0,745.071939 126.703416,880.828267 283,880.828267 Z" id="Oval" fill="#B7C9E6" opacity="0.089750744"></path>
+            <path d="M409,1068.82827 C565.296584,1068.82827 840,714.333132 840,546.869215 C840,379.405298 565.296584,462.387779 409,462.387779 C252.703416,462.387779 126,598.144106 126,765.608023 C126,933.071939 252.703416,1068.82827 409,1068.82827 Z" id="Oval" fill="#B7C9E6" opacity="0.138392857"></path>
+            <path d="M291,878.828267 C447.296584,878.828267 722,524.333132 722,356.869215 C722,189.405298 447.296584,272.387779 291,272.387779 C134.703416,272.387779 8,408.144106 8,575.608023 C8,743.071939 134.703416,878.828267 291,878.828267 Z" id="Oval" fill="#B7C9E6" opacity="0.089750744"></path>
         </g>
     </g>
 </svg>
