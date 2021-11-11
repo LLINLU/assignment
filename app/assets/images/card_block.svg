@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1081px" height="457px" viewBox="0 0 1081 457" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1063px" height="457px" viewBox="0 0 1063 457" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Group 15</title>
     <defs>
         <rect id="path-1" x="0" y="0" width="358" height="113" rx="8"></rect>
@@ -32,12 +32,12 @@
                 <tspan x="19.064" y="33">Recipe Card</tspan>
             </text>
             <text id="Meal-for-two" font-family="Futura-Medium, Futura" font-size="16" font-weight="400" fill="#6F5E74">
-                <tspan x="941" y="291">Meal for two     </tspan>
+                <tspan x="923" y="292">Meal for two     </tspan>
             </text>
             <text id="Meal-for-three" font-family="Futura-Medium, Futura" font-size="16" font-weight="400" fill="#6F5E74">
-                <tspan x="398" y="420">Meal for three</tspan>
+                <tspan x="400" y="420">Meal for three</tspan>
             </text>
-            <g id="Group-14" transform="translate(681.000000, 310.171733)">
+            <g id="Group-14" transform="translate(663.000000, 310.171733)">
                 <g id="Rectangle">
                     <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                     <rect stroke-opacity="0.467684659" stroke="#6D7278" stroke-width="0.3" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd" x="0.15" y="0.15" width="357.7" height="112.7" rx="8"></rect>
