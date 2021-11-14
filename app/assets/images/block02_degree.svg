@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="867px" height="790px" viewBox="0 0 867 790" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="881px" height="790px" viewBox="0 0 881 790" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Artboard</title>
     <defs>
         <rect id="path-1" x="0.314666667" y="0.293333333" width="324" height="200" rx="12"></rect>
@@ -167,118 +167,119 @@
             <path d="M19.7065869,27.8019449 L25.7517477,21.6877608 C26.0431969,21.3929686 26.5159854,21.3929686 26.8074347,21.6877608 L27.5125738,22.4009879 C27.803712,22.6954654 27.804023,23.1724183 27.513818,23.4675251 L22.7227909,28.3358427 L27.5135069,33.2044749 C27.804023,33.4995817 27.8034009,33.9765346 27.5122628,34.2710121 L26.8071236,34.9842392 C26.5156744,35.2790314 26.0428859,35.2790314 25.7514367,34.9842392 L19.7065869,28.8697405 C19.4151377,28.5749484 19.4151377,28.096737 19.7065869,27.8019449 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
         </g>
         <line x1="13" y1="292.616" x2="335" y2="292.616" id="Path-18" stroke="#C6C6C6" stroke-width="0.5"></line>
-        <g id="Group" transform="translate(638.000000, 404.000000) rotate(20.000000) translate(-638.000000, -404.000000) translate(495.000000, 124.000000)">
-            <ellipse id="Oval" fill="#D7A1A1" cx="268.037899" cy="35.4084157" rx="1.52294261" ry="1.90367826"></ellipse>
-            <path d="M139.349249,86.8077288 L139.349249,114.745263 L158.998657,102.055853 C159.705226,101.599557 159.908112,100.656868 159.451816,99.9502992 C159.334615,99.768814 159.180142,99.6143412 158.998657,99.4971396 L139.349249,86.8077288 L139.349249,86.8077288 Z" id="Path-14" fill="#FFFFFF"></path>
-            <path d="M274.12967,2.5 C276.593431,2.5 278.823949,3.49863665 280.438526,5.11321368 C282.053103,6.7277907 283.051739,8.95830809 283.051739,11.4220696 L283.051739,11.4220696 L283.051739,548.462714 C283.051739,550.926475 282.053103,553.156993 280.438526,554.77157 C278.823949,556.386147 276.593431,557.384783 274.12967,557.384783 L274.12967,557.384783 L11.4220696,557.384783 C8.95830809,557.384783 6.7277907,556.386147 5.11321368,554.77157 C3.49863665,553.156993 2.5,550.926475 2.5,548.462714 L2.5,548.462714 L2.5,11.4220696 C2.5,8.95830809 3.49863665,6.7277907 5.11321368,5.11321368 C6.7277907,3.49863665 8.95830809,2.5 11.4220696,2.5 L11.4220696,2.5 Z" id="Rectangle" stroke="#D7A1A1" stroke-width="5" fill="#FFFFFF"></path>
-            <text id="Cooking-ingredients" font-family="Futura-Bold, Futura" font-size="10.6605983" font-weight="bold" fill="#494D4C">
-                <tspan x="36.5506226" y="352.093259">Cooking ingredients</tspan>
-            </text>
-            <text id="1-pack-instant-ramen" font-family="Futura-Medium, Futura" font-size="10.6605983" font-weight="400" fill="#494D4C">
-                <tspan x="53.3029913" y="304.166452">1 pack instant ramen</tspan>
-            </text>
-            <text id="Tins,-packets-and-ja" font-family="Futura-Bold, Futura" font-size="10.6605983" font-weight="bold" fill="#494D4C">
-                <tspan x="36.5506226" y="283.560842">Tins, packets and jars</tspan>
-                <tspan x="36.5506226" y="300.560842"></tspan>
-            </text>
-            <text id="½-tsp-flavourful-fat" font-family="Futura-Medium, Futura" font-size="10.6605983" font-weight="400" fill="#494D4C">
-                <tspan x="53.3029913" y="382.597997">½ tsp flavourful fat, such as lard, bacon </tspan>
-                <tspan x="53.3029913" y="396.597997">fat, sesame oil, chilli oil, butter or chicken </tspan>
-                <tspan x="53.3029913" y="410.597997">fat (optional)</tspan>
-                <tspan x="53.3029913" y="424.597997"></tspan>
-                <tspan x="53.3029913" y="438.597997">2 tbsp soy sauce (optional)</tspan>
-            </text>
-            <rect id="Rectangle" fill="#EBAF9A" opacity="0.417085193" x="31.9817948" y="255.854358" width="233.771691" height="1.52294261"></rect>
-            <rect id="Rectangle" fill="#EBAF9A" opacity="0.46484375" x="31.9817948" y="324.386776" width="233.771691" height="1.52294261"></rect>
-            <text id="1-tbsp-pickled-veget" font-family="Futura-Medium, Futura" font-size="10.6605983" font-weight="400">
-                <tspan x="51.0185774" y="135.119823" fill="#494D4C">1 tbsp pickled vegetables, such as </tspan>
-                <tspan x="218.923" y="135.119823" fill="#6F5E74">bamboo </tspan>
-                <tspan x="51.0185774" y="149.119823" fill="#6F5E74">shoots</tspan>
-                <tspan x="81.2461625" y="149.119823" fill="#494D4C">, beni shōga (ginger), mustard </tspan>
-                <tspan x="51.0185774" y="163.119823" fill="#494D4C">greens or kimchi</tspan>
-                <tspan x="51.0185774" y="177.119823" fill="#494D4C"></tspan>
-                <tspan x="51.0185774" y="191.119823" fill="#494D4C">small handful fresh greens, such as spinach </tspan>
-                <tspan x="51.0185774" y="205.119823" fill="#494D4C">or chopped </tspan>
-                <tspan x="110.401441" y="205.119823" fill="#6F5E74">cabbage</tspan>
-                <tspan x="153.33013" y="205.119823" fill="#494D4C">, and/or bean sprouts</tspan>
-                <tspan x="51.0185774" y="219.119823" fill="#494D4C"></tspan>
-                <tspan x="51.0185774" y="233.119823" fill="#494D4C">1 </tspan>
-                <tspan x="60.8879594" y="233.119823" fill="#6F5E74">spring onion</tspan>
-                <tspan x="120.9267" y="233.119823" fill="#494D4C">, finely chopped</tspan>
-            </text>
-            <g id="Group-2" transform="translate(99.362546, 14.096678)" fill="#494D4C" font-family="Futura-Bold, Futura" font-size="12.1835409" font-weight="bold">
-                <text id="Shopping-List">
-                    <tspan x="0" y="16">Shopping List</tspan>
+        <g id="Group-19" transform="translate(648.947879, 409.638156) rotate(20.000000) translate(-648.947879, -409.638156) translate(505.947879, 123.638156)">
+            <g id="Group" transform="translate(0.000000, 0.000000)">
+                <ellipse id="Oval" fill="#D7A1A1" cx="268.037899" cy="35.4084157" rx="1.52294261" ry="1.90367826"></ellipse>
+                <path d="M139.349249,86.8077288 L139.349249,114.745263 L158.998657,102.055853 C159.705226,101.599557 159.908112,100.656868 159.451816,99.9502992 C159.334615,99.768814 159.180142,99.6143412 158.998657,99.4971396 L139.349249,86.8077288 L139.349249,86.8077288 Z" id="Path-14" fill="#FFFFFF"></path>
+                <path d="M270.551739,2.5 C274.003519,2.5 277.128519,3.89911016 279.390574,6.16116524 C281.652629,8.42322031 283.051739,11.5482203 283.051739,15 L283.051739,15 L283.051739,557 C283.051739,560.45178 281.652629,563.57678 279.390574,565.838835 C277.128519,568.10089 274.003519,569.5 270.551739,569.5 L270.551739,569.5 L15,569.5 C11.5482203,569.5 8.42322031,568.10089 6.16116524,565.838835 C3.89911016,563.57678 2.5,560.45178 2.5,557 L2.5,557 L2.5,15 C2.5,11.5482203 3.89911016,8.42322031 6.16116524,6.16116524 C8.42322031,3.89911016 11.5482203,2.5 15,2.5 L15,2.5 Z" id="Rectangle" stroke="#D7A1A1" stroke-width="5" fill="#FFFFFF"></path>
+                <text id="Cooking-ingredients" font-family="Futura-Bold, Futura" font-size="10.6605983" font-weight="bold" fill="#494D4C">
+                    <tspan x="36.5506226" y="352.093259">Cooking ingredients</tspan>
                 </text>
-            </g>
-            <text id="Fruit-and-vegetables" font-family="Futura-Bold, Futura" font-size="10.6605983" font-weight="bold" fill="#494D4C">
-                <tspan x="35.7891513" y="105.376557">Fruit and vegetables</tspan>
-                <tspan x="152.906484" y="105.376557" font-size="12.1835409"></tspan>
-            </text>
-            <g id="chevron-left-solid" transform="translate(20.559725, 19.557043)" fill="#6F5E74" fill-rule="nonzero">
-                <path d="M0.193844331,5.6181668 L5.55473309,0.196067723 C5.81319219,-0.0653559076 6.23246417,-0.0653559076 6.49092328,0.196067723 L7.11624537,0.828562248 C7.37442864,1.08970688 7.37470448,1.5126719 7.11734872,1.77437453 L2.86863405,6.09163094 L7.11707288,10.4091664 C7.37470448,10.670869 7.37415281,11.093834 7.11596953,11.3549786 L6.49064744,11.9874732 C6.23218834,12.2488968 5.81291636,12.2488968 5.55445725,11.9874732 L0.193844331,6.56509508 C-0.064614777,6.30367145 -0.064614777,5.87959043 0.193844331,5.6181668 Z" id="Path"></path>
-            </g>
-            <g id="Rectangle">
-                <use fill-opacity="0.848666958" fill="#6F5E74" fill-rule="evenodd" xlink:href="#path-3"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
-            </g>
-            <g id="Rectangle">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
-            </g>
-            <g id="Rectangle">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
-            </g>
-            <g id="Rectangle">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-            </g>
-            <g id="Rectangle">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-            </g>
-            <g id="Rectangle">
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
-                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
-            </g>
-            <g id="Group-3" transform="translate(38.073565, 501.809590)">
-                <g id="Rectangle">
-                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
-                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                <text id="1-pack-instant-ramen" font-family="Futura-Medium, Futura" font-size="10.6605983" font-weight="400" fill="#494D4C">
+                    <tspan x="53.3029913" y="304.166452">1 pack instant ramen</tspan>
+                </text>
+                <text id="Tins,-packets-and-ja" font-family="Futura-Bold, Futura" font-size="10.6605983" font-weight="bold" fill="#494D4C">
+                    <tspan x="36.5506226" y="283.560842">Tins, packets and jars</tspan>
+                    <tspan x="36.5506226" y="300.560842"></tspan>
+                </text>
+                <text id="½-tsp-flavourful-fat" font-family="Futura-Medium, Futura" font-size="10.6605983" font-weight="400" fill="#494D4C">
+                    <tspan x="53.3029913" y="382.597997">½ tsp flavourful fat, such as lard, bacon </tspan>
+                    <tspan x="53.3029913" y="396.597997">fat, sesame oil, chilli oil, butter or chicken </tspan>
+                    <tspan x="53.3029913" y="410.597997">fat (optional)</tspan>
+                    <tspan x="53.3029913" y="424.597997"></tspan>
+                    <tspan x="53.3029913" y="438.597997">2 tbsp soy sauce (optional)</tspan>
+                </text>
+                <rect id="Rectangle" fill="#EBAF9A" opacity="0.417085193" x="31.9817948" y="255.854358" width="233.771691" height="1.52294261"></rect>
+                <rect id="Rectangle" fill="#EBAF9A" opacity="0.46484375" x="31.9817948" y="324.386776" width="233.771691" height="1.52294261"></rect>
+                <text id="1-tbsp-pickled-veget" font-family="Futura-Medium, Futura" font-size="10.6605983" font-weight="400">
+                    <tspan x="51.0185774" y="135.119823" fill="#494D4C">1 tbsp pickled vegetables, such as </tspan>
+                    <tspan x="218.923" y="135.119823" fill="#6F5E74">bamboo </tspan>
+                    <tspan x="51.0185774" y="149.119823" fill="#6F5E74">shoots</tspan>
+                    <tspan x="81.2461625" y="149.119823" fill="#494D4C">, beni shōga (ginger), mustard </tspan>
+                    <tspan x="51.0185774" y="163.119823" fill="#494D4C">greens or kimchi</tspan>
+                    <tspan x="51.0185774" y="177.119823" fill="#494D4C"></tspan>
+                    <tspan x="51.0185774" y="191.119823" fill="#494D4C">small handful fresh greens, such as spinach </tspan>
+                    <tspan x="51.0185774" y="205.119823" fill="#494D4C">or chopped </tspan>
+                    <tspan x="110.401441" y="205.119823" fill="#6F5E74">cabbage</tspan>
+                    <tspan x="153.33013" y="205.119823" fill="#494D4C">, and/or bean sprouts</tspan>
+                    <tspan x="51.0185774" y="219.119823" fill="#494D4C"></tspan>
+                    <tspan x="51.0185774" y="233.119823" fill="#494D4C">1 </tspan>
+                    <tspan x="60.8879594" y="233.119823" fill="#6F5E74">spring onion</tspan>
+                    <tspan x="120.9267" y="233.119823" fill="#494D4C">, finely chopped</tspan>
+                </text>
+                <g id="Group-2" transform="translate(99.362546, 14.096678)" fill="#494D4C" font-family="Futura-Bold, Futura" font-size="12.1835409" font-weight="bold">
+                    <text id="Shopping-List">
+                        <tspan x="0" y="16">Shopping List</tspan>
+                    </text>
+                </g>
+                <text id="Fruit-and-vegetables" font-family="Futura-Bold, Futura" font-size="10.6605983" font-weight="bold" fill="#494D4C">
+                    <tspan x="35.7891513" y="105.376557">Fruit and vegetables</tspan>
+                    <tspan x="152.906484" y="105.376557" font-size="12.1835409"></tspan>
+                </text>
+                <g id="chevron-left-solid" transform="translate(20.559725, 19.557043)" fill="#6F5E74" fill-rule="nonzero">
+                    <path d="M0.193844331,5.6181668 L5.55473309,0.196067723 C5.81319219,-0.0653559076 6.23246417,-0.0653559076 6.49092328,0.196067723 L7.11624537,0.828562248 C7.37442864,1.08970688 7.37470448,1.5126719 7.11734872,1.77437453 L2.86863405,6.09163094 L7.11707288,10.4091664 C7.37470448,10.670869 7.37415281,11.093834 7.11596953,11.3549786 L6.49064744,11.9874732 C6.23218834,12.2488968 5.81291636,12.2488968 5.55445725,11.9874732 L0.193844331,6.56509508 C-0.064614777,6.30367145 -0.064614777,5.87959043 0.193844331,5.6181668 Z" id="Path"></path>
                 </g>
                 <g id="Rectangle">
-                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
-                    <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                    <use fill-opacity="0.848666958" fill="#6F5E74" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                 </g>
-                <text id="slices-of-roasted-po" font-family="Futura-Medium, Futura" font-size="9.89912696" font-weight="400" fill="#494D4C">
-                    <tspan x="15.2294261" y="10">slices of roasted pork, ham or chicken </tspan>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                </g>
+                <g id="Group-3" transform="translate(38.073565, 501.809590)">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                    </g>
+                    <text id="slices-of-roasted-po" font-family="Futura-Medium, Futura" font-size="9.89912696" font-weight="400" fill="#494D4C">
+                        <tspan x="15.2294261" y="10">slices of roasted pork, ham or chicken </tspan>
+                    </text>
+                </g>
+                <text id="Meat,-fish-and-poult" font-family="Futura-Bold, Futura" font-size="10.6605983" font-weight="bold" fill="#494D4C">
+                    <tspan x="38.0735652" y="487.635152">Meat, fish and poultry</tspan>
+                    <tspan x="38.0735652" y="504.635152" font-family="Futura-Medium, Futura" font-weight="400"></tspan>
+                    <tspan x="38.0735652" y="518.635152" font-family="Futura-Medium, Futura" font-weight="400"></tspan>
+                    <tspan x="38.0735652" y="532.635152" font-family="Futura-Medium, Futura" font-weight="400"></tspan>
                 </text>
+                <rect id="Rectangle" fill="#EBAF9A" opacity="0.46484375" x="31.9817948" y="459.928668" width="233.771691" height="1.52294261"></rect>
+                <text id="1-tbsp-mirin-(option" font-family="Futura-Medium, Futura" font-size="9.13765566" font-weight="400" fill="#494D4C">
+                    <tspan x="63.9635896" y="537.461086">1 tbsp mirin (optional)</tspan>
+                </text>
+                <g id="check-solid" transform="translate(37.312094, 128.688651)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M2.58629564,5.56831841 L0.111513903,3.09353667 C-0.0371663436,2.94485642 -0.0371663436,2.70378829 0.111513903,2.55509317 L0.649942529,2.01664967 C0.798622776,1.86795455 1.03970578,1.86795455 1.18838603,2.01664967 L2.85551739,3.68376616 L6.42632702,0.112971407 C6.57500727,-0.0357088399 6.81609027,-0.0357088399 6.96477052,0.112971407 L7.50319915,0.651414905 C7.65187939,0.800095152 7.65187939,1.04116328 7.50319915,1.1898584 L3.12473914,5.56833328 C2.97604402,5.71701353 2.73497589,5.71701353 2.58629564,5.56831841 L2.58629564,5.56831841 Z" id="Path"></path>
+                </g>
+                <line x1="4.01191326" y1="45.0225821" x2="281.725464" y2="45.0225821" id="Path-3" stroke="#DBDBDB" stroke-width="0.761471305"></line>
             </g>
-            <text id="Meat,-fish-and-poult" font-family="Futura-Bold, Futura" font-size="10.6605983" font-weight="bold" fill="#494D4C">
-                <tspan x="38.0735652" y="487.635152">Meat, fish and poultry</tspan>
-                <tspan x="38.0735652" y="504.635152" font-family="Futura-Medium, Futura" font-weight="400"></tspan>
-                <tspan x="38.0735652" y="518.635152" font-family="Futura-Medium, Futura" font-weight="400"></tspan>
-                <tspan x="38.0735652" y="532.635152" font-family="Futura-Medium, Futura" font-weight="400"></tspan>
-            </text>
-            <rect id="Rectangle" fill="#EBAF9A" opacity="0.46484375" x="31.9817948" y="459.928668" width="233.771691" height="1.52294261"></rect>
-            <text id="1-tbsp-mirin-(option" font-family="Futura-Medium, Futura" font-size="9.13765566" font-weight="400" fill="#494D4C">
-                <tspan x="63.9635896" y="537.461086">1 tbsp mirin (optional)</tspan>
-            </text>
-            <g id="check-solid" transform="translate(37.312094, 128.688651)" fill="#FFFFFF" fill-rule="nonzero">
-                <path d="M2.58629564,5.56831841 L0.111513903,3.09353667 C-0.0371663436,2.94485642 -0.0371663436,2.70378829 0.111513903,2.55509317 L0.649942529,2.01664967 C0.798622776,1.86795455 1.03970578,1.86795455 1.18838603,2.01664967 L2.85551739,3.68376616 L6.42632702,0.112971407 C6.57500727,-0.0357088399 6.81609027,-0.0357088399 6.96477052,0.112971407 L7.50319915,0.651414905 C7.65187939,0.800095152 7.65187939,1.04116328 7.50319915,1.1898584 L3.12473914,5.56833328 C2.97604402,5.71701353 2.73497589,5.71701353 2.58629564,5.56831841 L2.58629564,5.56831841 Z" id="Path"></path>
-            </g>
-            <line x1="4.01191326" y1="45.0225821" x2="281.725464" y2="45.0225821" id="Path-3" stroke="#DBDBDB" stroke-width="0.761471305"></line>
         </g>
         <text id="Recipe-details" font-family="Futura-Bold, Futura" font-size="32" font-weight="bold" fill="#6F5E74">
-            <tspan x="616.84" y="33">Recipe details</tspan>
+            <tspan x="639.84" y="33">Recipe details</tspan>
         </text>
         <g id="Group-16" transform="translate(16.000000, 716.000000)" fill="#6F5E74" font-family="Futura-Medium, Futura" font-size="16" font-weight="400" line-spacing="20">
             <g id="Group-18">
                 <text id="The-recipe-details-c">
-                    <tspan x="0" y="17">The recipe details containing shopping list </tspan>
-                    <tspan x="0" y="37">helps you and your cook pals cooperate </tspan>
-                    <tspan x="0" y="57">much easier </tspan>
+                    <tspan x="0" y="17">The recipe details containing shopping list helps </tspan>
+                    <tspan x="0" y="37">you and your cook pals cooperate much easier </tspan>
                 </text>
             </g>
         </g>
