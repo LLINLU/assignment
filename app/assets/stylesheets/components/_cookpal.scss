@@ -34,7 +34,7 @@
 }
 
 .cookpal-down {
-  top: 460px;
+  top: 480px;
 }
 
 .cookpal_nav_arrow {
@@ -111,7 +111,7 @@ background-color: #666;
 
 .cookpal_intro {
   text-align:center;
-  padding-top:3em;
+  padding-top:2.5em;
 }
 
 .cookpal_headline {
@@ -398,4 +398,9 @@ bottom:495px;
   position: relative;
   height:auto;
   width:100%;
+}
+
+.CP_Image_Blocks {
+  position:relative;
+  bottom:64px;
 }
