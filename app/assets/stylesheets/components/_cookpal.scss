@@ -196,9 +196,8 @@ opacity:0.3;
 
 .cp_iphone_02 {
   position: relative;
-  // left: 400px;
   width: 320px;
-  // top: 100px;
+  left:5em;
 }
 
 .visual_txt01 {
@@ -230,6 +229,8 @@ opacity:0.3;
 .cp_screen {
   display:flex;
   flex-direction:row;
+  position:relative;
+  top:120px;
 }
 
 
@@ -267,7 +268,7 @@ justify-content: space-evenly;
 position: relative;
 left: 5%;
 width: 80%;
-padding-top: 250px;
+padding-top: 150px;
 }
 
 
@@ -317,6 +318,8 @@ padding-top: 250px;
   text-align: center;
   margin:auto auto;
   padding-top:200px;
+  top: 70px;
+  position: relative;
 }
 
 .block01{
@@ -360,4 +363,9 @@ bottom:240px;
 .block06 {
   width:60%;
   bottom:240px;
+}
+
+
+.cp_sign {
+  left:5em;
 }
