@@ -33,7 +33,7 @@ lastScrollTop = scrollTop;
 
     let sectionTop = sec.offsetTop-300;
     let sectionHeight = sec.clientHeight;
-    if(pageYOffset >= sectionTop - sectionHeight / 3) {
+    if(pageYOffset >= sectionTop - sectionHeight / 14) {
       current  = sec.getAttribute('id');
     }
   })
