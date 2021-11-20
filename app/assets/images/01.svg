@@ -71,7 +71,7 @@
                 <circle id="Oval" fill-opacity="0.541985358" fill="#D7A1A1" cx="4" cy="228" r="4"></circle>
             </g>
         </g>
-        <g id="block_02" transform="translate(198.000000, 90.000000)">
+        <g id="block_02" transform="translate(256.000000, 90.000000)">
             <text id="Recipe-Card" font-family="Futura-Bold, Futura" font-size="32" font-weight="bold" fill="#6F5E74">
                 <tspan x="19.064" y="33">Recipe Card</tspan>
             </text>
