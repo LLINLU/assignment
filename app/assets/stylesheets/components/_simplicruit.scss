@@ -57,3 +57,19 @@
   transform-origin: bottom;
   transform-box: fill-box;
 }
+
+
+#milestone:hover{
+transform:translateY(5px);
+}
+
+circle:hover{
+  transform:translateY(5px);
+}
+
+
+#Vector_54 {
+  animation: leaves_up 2000ms ease-in-out infinite;
+  transform-origin: top;
+  transform-box: fill-box;
+}
