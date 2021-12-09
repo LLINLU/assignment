@@ -26,5 +26,26 @@
 
 
 .sm_img {
-  width:960px;
+  width:860px;
+}
+
+
+#Vector_leaf {
+  animation: leaves_up 2000ms ease-in-out infinite;
+  transform-origin: bottom;
+  transform-box: fill-box;
+}
+
+
+#Vector_10_leaf {
+  animation: leaves_up 2000ms ease-in-out infinite;
+  transform-origin: bottom;
+  transform-box: fill-box;
+}
+
+
+#Vector_16_leaf {
+  animation: leaves_up 2000ms ease-in-out infinite;
+  transform-origin: bottom;
+  transform-box: fill-box;
 }
