@@ -20,8 +20,12 @@
 }
 
 .sm-down {
-  top: 70%;
-  left: 40px;
+    top: 69%;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    margin: 0 50%;
+    left:10px;
 }
 
 
@@ -52,7 +56,7 @@
   transform-box: fill-box;
 }
 
-#Vector_15_leaf {
+#Vector_15_leaf, #Vector_5_leaf {
   animation: leaves_up 2000ms ease-in-out infinite;
   transform-origin: bottom;
   transform-box: fill-box;
