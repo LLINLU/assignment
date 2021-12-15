@@ -20,6 +20,7 @@ window.onscroll = () => {
 
 } else {
   header.style.top = '0';
+  header.style.backgroundColor = "#fff";
  logo.style.top = '5px';
  uptoNext.style.top = '6px';
  arrow.style.top = '5px';
