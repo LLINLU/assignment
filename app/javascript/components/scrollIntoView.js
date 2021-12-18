@@ -9,7 +9,7 @@ const scrollIntoView = () => {
   const homeContact = document.querySelector('#contact');
   const curlyArrow = document.querySelector('.curly-arrow');
   const cookpal_down = document.querySelector('.cookpal-down');
-  const cookpal_overview = document.querySelector('#overview');
+  const cookpal_overview = document.querySelector('.cookpal_overview');
   const sm_down = document.querySelector('.sm-down');
   const sm_overview = document.querySelector('.sm-overview');
 
