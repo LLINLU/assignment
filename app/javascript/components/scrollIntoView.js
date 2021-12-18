@@ -53,6 +53,12 @@ if (cookpal_down) {
 });
 };
 
+if (sm_down) {
+  sm_down.addEventListener("click", () => {
+  sm_overview.scrollIntoView({behavior:"smooth"});
+});
+};
+
 
 }
 
