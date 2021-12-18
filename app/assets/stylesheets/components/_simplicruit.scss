@@ -20,6 +20,8 @@
 }
 
 .sm-down {
+  position: absolute;
+  z-index:2;
     top: 66%;
     width: 40px;
     display: inline-block;

@@ -1,4 +1,6 @@
 const scrollIntoView = () => {
+  const sm_down = document.querySelector('.sm-down');
+  const sm_overview = document.querySelector('.sm-overview');
   const arrow = document.querySelector ('.arrow_down');
   const worksection = document.querySelector('#work');
   const down = document.querySelector('.downward');
@@ -10,18 +12,13 @@ const scrollIntoView = () => {
   const curlyArrow = document.querySelector('.curly-arrow');
   const cookpal_down = document.querySelector('.cookpal-down');
   const cookpal_overview = document.querySelector('.cookpal_overview');
-  const sm_down = document.querySelector('.sm-down');
-  const sm_overview = document.querySelector('.sm-overview');
+
 
 if (arrow) {
 
 arrow.addEventListener("click", () => {
   worksection.scrollIntoView({behavior:"smooth"});
-
-
-
-});
-
+  });
 };
 
 
@@ -53,7 +50,7 @@ if (cookpal_down) {
 });
 };
 
-if (sm_down) {
+if (sm_overview) {
   sm_down.addEventListener("click", () => {
   sm_overview.scrollIntoView({behavior:"smooth"});
 });
