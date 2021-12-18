@@ -10,6 +10,8 @@ const scrollIntoView = () => {
   const curlyArrow = document.querySelector('.curly-arrow');
   const cookpal_down = document.querySelector('.cookpal-down');
   const cookpal_overview = document.querySelector('#overview');
+  const sm_down = document.querySelector('.sm-down');
+  const sm_overview = document.querySelector('.sm-overview');
 
 if (arrow) {
 
