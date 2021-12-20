@@ -111,3 +111,28 @@ circle:hover{
   text-align: center;
 }
 
+#spark {
+  animation: sparks 2000ms ease-in-out infinite;
+  transform-origin: center;
+  transform-box: fill-box;
+
+}
+
+@keyframes sparks {
+   0% {
+    transform: rotate(-20deg);
+  }
+
+  50% {
+    transform: rotate(10deg);
+  }
+
+  100% {
+    transform: rotate(-20deg);
+  }
+}
+
+
+
+
+
