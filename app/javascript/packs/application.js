@@ -35,7 +35,6 @@ import { scrollApear } from '../components/scrollApear';
 import { horizontalSlide } from '../components/horizontalSlide';
 import { slideAppear } from '../components/slideAppear';
 import { morphBlobs } from '../components/morph';
-import { flightPath } from '../components/flightPath';
 import { scrollTop } from '../components/scrollTop';
 import { birdAppear } from '../components/birdSlide';
 import { himaAppear } from '../components/himaSlide';
@@ -66,7 +65,6 @@ document.addEventListener('turbolinks:load', () => {
   horizontalSlide();
   slideAppear();
   morphBlobs();
-  flightPath();
   scrollTop();
   birdAppear();
   himaAppear();
