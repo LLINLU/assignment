@@ -148,11 +148,9 @@ font-size:18px;
 
 .self-picture {
 
-  // left:100%;
-  // transform:translateX(100px);
   width:370px;
   right:10%;
-  opacity:0.5;
+  opacity:0.8;
   transition: transform 330ms ease-in-out;
 }
 
@@ -200,12 +198,6 @@ font-size:18px;
   padding-top:50px;
   margin: auto auto;
 }
-
-
-// .txt-pic {
-//   padding-top:90px;
-//   margin: auto auto;
-//   }
 
 
 
@@ -314,7 +306,6 @@ bottom:60px;
   position:absolute;
 right:60px;
 bottom:90px;
-// top:0px;
   opacity:0.5;
   transform: translateY(30px);
   transition: transform 330ms ease-in-out;
@@ -341,9 +332,9 @@ bottom:90px;
     font-family: 'Ubuntu';
     font-size:100px;
     position: absolute;
-    // top: 480px;
+
     width: 100%;
-    // text-align: center;
+
     z-index: 100;
     opacity:0.5;
     padding-left:10%;
