@@ -1,6 +1,8 @@
  <div class="about-page-st about-page">
   <div class='PDP-header nav-head ' style="background-color:white; z-index:0">
+     <%= link_to works_path, :class => "js-headline", target: "_blank" do %>
     <%= image_tag "back_arrow_small.svg", :class => "cookpal_nav_arrow js-headline back-button" %>
+    <% end %>
      <%= link_to root_path, :class => "logo_linlu js-headline", target: "_blank" do %>
      <%= image_tag "Logo_lin.svg", :class => "js-headline" %>
      <% end %>
