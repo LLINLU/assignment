@@ -973,9 +973,16 @@ opacity:0.1;
 
 .footer-image {
   position:absolute;
-  right:1%;
+  right:3%;
   bottom:0;
+  width:400px;
 }
+
+@media screen and (max-width: 480px){
+  .footer-image {
+    right:1%;
+  }
+  }
 
 #button {
   transition: background-color .3s, opacity 4.5s, visibility 4.5s;
@@ -1024,9 +1031,9 @@ opacity:0.1;
   .lovelygirl {
     position: absolute;
     left: 5%;
-    top: 55%;
+    top: 35%;
     z-index: 100000;
-    height: 160px;
+    height: 210px;
 }
 
 
