@@ -161,6 +161,19 @@ circle:hover{
 .icon-copy-sm {
   display:flex;
   flex-direction:row;
+  width: 60%;
+  text-align: center;
+  margin: auto;
 }
 
+.icon-item_group {
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+
+}
+
+.product_design {
+  width:50px;
+}
 
