@@ -3,8 +3,8 @@
 }
 
 .about-page-st {
-  background-color:#37475a;
-  height:110vh;
+  background-color:#203a59;
+  height:117vh;
 }
 
 
@@ -30,7 +30,7 @@
 }
 
 
-@media screen and (max-width:1180px) {
+@media screen and (max-width:1300px) {
 .sm-down {
     top: 72%;
   }
@@ -158,6 +158,41 @@ circle:hover{
 }
 
 
+.icon-copy-sm {
+  display:flex;
+  flex-direction:row;
+  width: 60%;
+  text-align: center;
+  margin: auto;
+  justify-content: space-around;
+  align-items: flex-end;
+  padding-top:30px;
+}
+
+.icon-item_group {
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+
+}
+
+.product_design {
+  width:50px;
+}
 
 
+.icon-copy {
+  padding-top:10px;
+}
 
+
+.sm-li {
+  padding-top:16px;
+}
+
+
+.sm_quote {
+  position: absolute;
+    right: 15%;
+    width: 36px;
+}
