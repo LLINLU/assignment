@@ -1,7 +1,7 @@
 
 const typeWriterSkill = () => {
 
-const words = ['App design', 'UX research', 'Web Design', 'Web dev'];
+const words = ['Product Design', 'UX Research', 'Web Design', 'Web Dev', 'Design System'];
 let count = 0;
 let letter = 0;
 let wordToPrint = "";
