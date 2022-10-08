@@ -5,5 +5,8 @@ class WorksController < ApplicationController
   def simplicruit
   end
 
+  def smartalert
+  end
+
 
 end

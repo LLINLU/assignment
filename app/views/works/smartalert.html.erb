@@ -1,0 +1,200 @@
+<div class="about-page">
+  <div class='PDP-header nav-head ' style="background-color:white; z-index:0">
+    <%= link_to works_path, :class => "js-headline", target: "_blank" do %>
+    <%= image_tag "back_arrow_small.svg", :class => "cookpal_nav_arrow js-headline back-button" %>
+    <% end %>
+     <%= link_to root_path, :class => "logo_linlu js-headline", target: "_blank" do %>
+     <%= image_tag "Logo_lin.svg", :class => "js-headline" %>
+     <% end %>
+    <a href='/works/simplicruit' style="color:#7d727b; text-shadow: none;" class="cookpal_nav_about work js-headline" target="_blank">Up to Next: Simplicruit</a>
+</div>
+<div style="margin:auto auto;">
+<%= image_tag "work_cook_cover.png", :class => "cookpal_cover" %>
+</div>
+    <nav class='nav-sp'>
+    <div class="hamburger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+  <ul class = 'nav-link-sp'>
+    <li class = 'link'><%= link_to 'about', about_path %></li>
+    <li class = 'link'><%= link_to 'works', works_path %></li>
+    <li class = 'link'><%= link_to 'inspirations', inspirations_path %></li>
+    <li class = 'link'><a href="">contact</a></li>
+  </ul>
+  </nav>
+
+
+<div class='cookpal_intro_copy'>
+  <div class="cookpal_big_title">Cookpal</div>
+   <div class ="cookpal_headline" style="padding-top:32px;"> - Sharing cooking experience with people -</div>
+    <div class="cookpal_intro">
+    <p>Role: Product Designer</p>
+    <p>Type: Individual project</p>
+    <p>Tool: Figma, Photoshop
+   </p>
+  </div>
+  <div class= "downward js-headline cookpal-down">
+    <%= image_tag "downward.svg", :class => "js-headline cookpal-down" %>
+  </div>
+</div>
+</div>
+
+
+  <nav class="navbar_cookpal">
+  <ul>
+  <li>
+    <a href="#overview" class="dot overview active" data-scroll='overview'>
+      <span>Overview</span>
+    </a>
+  </li>
+  <li>
+    <a href="#research" class="dot research" data-scroll='research'>
+      <span>Research</span>
+    </a>
+  </li>
+  <li>
+    <a href="#problem" class="dot problem" data-scroll='problem'>
+      <span>Problem</span>
+    </a>
+  </li>
+  <li>
+    <a href="#userflow" class="dot userflow" data-scroll='userflow'>
+      <span>User flow</span>
+    </a>
+  </li>
+  <li>
+    <a href="#styleguide" class="dot styleguide" data-scroll='styleguide'>
+      <span>Styleguide</span>
+    </a>
+  </li>
+    <li>
+    <a href="#visual" class="dot visual" data-scroll='visual'>
+      <span>Visual</span>
+    </a>
+  </li>
+  </ul>
+  </nav>
+
+ <div class="sec cookpal_overview" id='overview'>
+
+    <div class ="cookpal_overview_intro"> Cookpal is a mobile app where end-users can become cook buddies sharing cooking expeirence together or to sell catering service.</div>
+    <div class="cookpal_intro_pic">
+    <%= image_tag "intro_pic.png", :class => "intro_pic_cp" %>
+    </div>
+     <div class ="cookpal_overview_intro">You saved quite a lot of recipes and would like to try to cook at home but feel that your cooking skills are inadequate or feel a little lonely cooking alone?</div>
+     <div class ="cookpal_overview_intro" style = "padding-top:1em;">Or you want to host a dinner party, but you are so worried that you can not prepare a satisfying meal, and you would wish you have known the go-to person?</div>
+     <div class ="cookpal_overview_intro"><b style="color: #717192;">Cookpal</b> is the solution to those problems around your kitchen. <br> With this mobile app you can find a cooking buddy to share the cooking experience, plus, you can find a home cook to lean on for any catering situation as well.</div>
+ </div>
+
+
+
+ <div class="sec" id='research'>
+   <div class ="cookpal_headline popupHl" style=""> - Empathize with users and conduct user research -</div>
+    <div class ="cookpal_overview_intro">The whole design process is based on "Design thinking" framework.</div>
+   <div class="cookpal_overview_intro subheadline" style="text-align: left;"><b style="color: #5c4b63;">01</b> Interview</div>
+   <div class="cookpal_overview_intro subheadline" style="text-align: left;">Cooking at home has been favored by more people ever since the pandemic. And there is more digital content on recipes to grab your attention. People's cooking experience has been gradually shaped and shifted in the past months. I would like to dig in <br>  <br>
+    <b style="color: #717192;">a. If something is wanting in this new reality when we return the semblance of noramlity? </b><br>
+    <b style="color: #717192;">b. What would be the frustrations and the new expectations for people in terms of their cooking experience?</b> <br><br>
+     I recruited ten people of
+ different ages and with different culinary experience for better generalizability and conducted 1:1 interviews with them. Also, fifty user surveys have been sent out for gaining better understanding.</div>
+    <div class="cookpal_intro_pic"> <%= image_tag "survey.jpg", :class => "intro_pic_cp" %> </div>
+
+  <div class="cookpal_overview_intro subheadline" style="text-align: left;"><b style="color: #5c4b63;">02</b> Affinity Map</div>
+   <div class="cookpal_overview_intro subheadline" style="text-align: left;"> The next step is to synthesize data collected from interview process by the affinity map.</div>
+   <div class="cookpal_intro_pic"> <%= link_to image_tag("affinity_map.png", :alt => "Image", :class => "cookpal_empathy_map" ), image_path("affinity_map.png") %></div>
+
+
+    <div class="cookpal_overview_intro subheadline" style="text-align: left;"><b style="color: #5c4b63;">03</b> Empathy Map</div>
+   <div class="cookpal_overview_intro subheadline" style="text-align: left;"> Then visualizing user attitudes and behaviors in an empathy map helps to align on a deep understanding of end users.</div>
+    <div class="cookpal_intro_pic"> <%= link_to image_tag("empathy_mapping.png", :alt => "Image", :class => "cookpal_empathy_map" ), image_path("empathy_mapping.png") %></div>
+
+  </div>
+  <div class="sec" id='problem'>
+    <div class ="cookpal_headline popupHl" style="padding-top:;"> - Create persona and define the problem -</div>
+
+    <div class ="cookpal_overview_intro">After coding the responses from the interviews and came up with the empathy map, I found that
+      there were two other frequently mentioned elements - homecook for <b style="color: #717192;"> healthy diet </b>and <b  style="color: #717192;">cooking in a social sense</b>.
+      People deem finding a cook buddy and cooking together can be beneficial in two ways - more efficient to prepare a healthy meal at home also a good way to socilaize.
+    </div>
+    <div class="cookpal_overview_intro subheadline" style="text-align: left;"><b style="color: #5c4b63;">01</b> Persona</div>
+
+      <div class="cookpal_intro_pic"><%= link_to image_tag("persona.jpg", :alt => "Image", :class => "intro_pic_cp" ), image_path("persona.jpg") %></div>
+      <div class="cookpal_overview_intro subheadline" style="text-align: left;"><b style="color: #5c4b63;">02</b> Problem statement</div>
+       <div class="cookpal_overview_intro subheadline" style="text-align: left;">With the problem statement, it helped me to establish the user goal, understand user constraints and define the deliverables  </div>
+      <%= image_tag "quote_marks_start.svg", :class => "quote_mark_start" %>
+      <div class="cookpal_overview_intro subheadline" style="text-align: left;">Alice is a work-from-home illustrator. She needs to find a cooking buddy to share a cooking experience together because she prefers homemade food and would like to fulfill her socialization purpose through cooking.</div>
+      <%= image_tag "quote marks_end.svg", :class => "quote_mark_end" %>
+  </div>
+  <div class="sec" id='userflow'>
+     <div class ="cookpal_headline popupHl" style="padding-top:;"> - User Flow - </div>
+       <div class="cookpal_intro_pic"><%= link_to image_tag("user_flow.png", :alt => "Image", :class => "intro_pic_cp" ), image_path("user_flow.png") %></div>
+  </div>
+  <div class="sec" id='styleguide'>
+     <div class ="cookpal_headline popupHl" style="padding-top:;"> - Styleguide - </div>
+     <div class ="cookpal_overview_intro">The color palette was chosen based on the colors often seen in food that can stimulate the user's appetite. Purple is from sweet potatoes and eggplant, pink is from protein, and yellow is from fruits like mangoes and bananas. Futura was chosen as it is based on geometric shapes, especially the circle, similar to the round curves that are commonly seen in food.</div>
+      <div class="cookpal_intro_pic"><%= link_to image_tag("Colors.png", :alt => "Image", :class => "intro_pic_cp" ), image_path("Colors.png") %></div>
+  </div>
+
+<div class="sec" id='visual'>
+  <div class ="cookpal_headline popupHl" style="padding-top:;"> - Visuals -</div>
+
+  <%= image_tag "bg_purple .svg", :class => "bg1_cookpal" %>
+
+  <div class = "cp_screen">
+
+  <div class = "cp_screen_txt left_screen_txt">
+    <div class=" subheadline" style="text-align: left;">A simple walk-through for first-time users</div>
+    <%= image_tag "Register.png", :class => "cp_iphone_01" %>
+    <div class="" style="text-align: left; position: relative; z-index:998;">Splash Screen</div>
+ </div>
+
+  <div class = "cp_screen_txt right_screen_txt">
+
+    <%= image_tag "Sign in.png", :class => "cp_iphone_02" %>
+    <div class="cp_sign" style="text-align: left; position: relative; z-index:998;">Sign in</div>
+ </div>
+
+</div >
+<div class="cp_title_intro">
+<div class="title_onboarding"   style="position:relative; z-index:10000;"> On boarding</div>
+<div class="subtitle_onboarding"  style="position:relative; z-index:10000;"> Initialize your preferences for <br>finding matching cook pals</div>
+</div>
+
+  <div class = "cp_screen  second_line">
+
+  <div class = "screenshot">
+
+    <%= image_tag "Onboard1_thin.png", :class => "" %>
+
+ </div>
+
+  <div class = "screenshot">
+
+    <%= image_tag "Onboard2_thin.png", :class => "" %>
+
+ </div>
+
+ <div class = "screenshot">
+    <%= image_tag "Onboard3_thin.png", :class => "" %>
+ </div>
+</div>
+
+ <div class="due_pic"><%= image_tag "CP_Home_Duo.png", :class => "CP_home_duo" %></div>
+ <div class="CP_Image_Blocks">
+  <div class="CP_imageBL"><%= image_tag "01.png", :class => "cards_block" %></div>
+  <div class="CP_imageBL"><%= image_tag "02.png", :class => "cards_block" %></div>
+  <div class="CP_imageBL"><%= image_tag "3a.png", :class => "cards_block" %></div>
+  <div class="CP_imageBL"><%= image_tag "3b.png", :class => "cards_block" %></div>
+  <div class="CP_imageBL"><%= image_tag "04a.png", :class => "cards_block" %></div>
+  <div class="CP_imageBL"><%= image_tag "05.png", :class => "cards_block" %></div>
+</div>
+
+
+</div>
+
+<small class='footcopy' style="position:absolute; width:100%; text-align: center; background-color:#fff ; padding-bottom:12px;">Design & Code with ❤ by Linlu©Copyright 2022</small>
+
+
+
