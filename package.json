@@ -11,8 +11,8 @@
     "gsap": "^3.9.1",
     "jquery": "^3.5.1",
     "kute.js": "^2.0.16",
-    "node-sass": "^7.0.1",
     "popper.js": "^1.16.1",
+    "sass": "^1.72.0",
     "turbolinks": "^5.2.0",
     "webpack": "^4.0.0"
   },
